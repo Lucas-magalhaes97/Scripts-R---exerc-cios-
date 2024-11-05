@@ -1,0 +1,33 @@
+---
+title: "Lista 5 - CE3002"
+author: "Lucas Ast"
+format: html
+editor: visual
+---
+
+### Tidyverse
+
+1.  Para esse exercício você deverá utilizar o banco de dados `chocolate.csv.gz`.
+
+O dicionário das variáveis encontra-se disponível abaixo.
+
+| Variável        | Descrição                                         |
+|-----------------|---------------------------------------------------|
+| local_compania  | Região do Fabricante                              |
+| ano             | Ano da Revisão                                    |
+| origem_cacau    | País de Origem dos Grãos de Cacau                 |
+| cocoa_percent   | Percentagem de Cacau (% chocolate)                |
+| ingredientes    | Ingredientes                                      |
+| caracteristicas | Características mais memoráveis daquele chocolate |
+
+**Lista de ingredientes**: "\#": representa o número de ingredientes no chocolate; B: Grãos, S: Açúcar, S\*: Adoçante diferente de açúcar de cana branco ou beterraba, C: Manteiga de Cacau, V: Baunilha, L: Lecitina, S: Sal
+
+#### Responda:
+
+a.  Quantos países produzem chocotale?
+b.  Quantos chocolates existem com pelo menos 3 ingredientes?
+c.  Quantos chocolates existem com 5 ingredientes?
+d.  Quantos chocolates existem com pelo menos 4 características memoráveis?
+e.  Quantos chocolates existem com Sal em sua composição?
+f.  Quantos chocolates existem com Baunilha em sua composição?
+g.  Quantos chocolates existem com Lecitina e Baunilha em sua composição?

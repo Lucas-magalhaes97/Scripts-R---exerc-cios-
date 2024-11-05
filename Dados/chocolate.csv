@@ -1,0 +1,2444 @@
+local_compania,ano,origem_cacau,ingredientes,caracteristicas,percentagem_cacau,ID
+U.S.A.,2019,Tanzania,"3- B,S,C","rich cocoa, fatty, bready",76%,1
+U.S.A.,2019,Dominican Republic,"3- B,S,C","cocoa, vegetal, savory",76%,2
+U.S.A.,2019,Madagascar,"3- B,S,C","cocoa, blackberry, full body",76%,3
+U.S.A.,2021,Fiji,"3- B,S,C","chewy, off, rubbery",68%,4
+U.S.A.,2021,Venezuela,"3- B,S,C","fatty, earthy, moss, nutty,chalky",72%,5
+U.S.A.,2021,Uganda,"3- B,S,C","mildly bitter, basic cocoa, fatty",80%,6
+U.S.A.,2021,India,"3- B,S,C","milk brownie, macadamia,chewy",68%,7
+France,2012,Bolivia,"4- B,S,C,L","vegetal, nutty",70%,8
+France,2012,Peru,"4- B,S,C,L","fruity, melon, roasty",63%,9
+France,2013,Panama,"4- B,S,C,L","brief fruit note, earthy, nutty",70%,10
+France,2013,Colombia,"4- B,S,C,L","burnt rubber,alkalyzed notes",70%,11
+France,2013,Madagascar,"4- B,S,C,L","sticky, red fruit, sour",70%,12
+France,2013,Burma,"4- B,S,C,L","sticky, smokey, grass",70%,13
+France,2013,Brazil,"4- B,S,C,L",mild tobacco,70%,14
+France,2013,Papua New Guinea,"4- B,S,C,L","mild fruit, strong smoke",70%,15
+France,2013,Peru,"4- B,S,C,L","green, nutty, cocoa",70%,16
+France,2013,Peru,"4- B,S,C,L","cocoa,sour,intense tangerine",70%,17
+France,2013,Ecuador,"4- B,S,C,L","sandy, nutty, cocoa, fig",70%,18
+France,2013,Venezuela,"4- B,S,C,L","oily, nut, caramel, raspberry",70%,19
+France,2013,Peru,"3- B,S,C","sweet, cocoa, tangerine",63%,20
+France,2014,Venezuela,"4- B,S,C,L","harsh, leather, earthy",70%,21
+France,2014,Cuba,"4- B,S,C,L","sliglty dry, papaya",70%,22
+France,2014,Venezuela,"4- B,S,C,L","nutty, mild choco, roasty",70%,23
+France,2014,Venezuela,"4- B,S,C,L","astringent, nutty, chocolatey",70%,24
+France,2014,Peru,"4- B,S,C,L","delicate, hazelnut, brownie",70%,25
+France,2015,Togo,"4- B,S,C,L","burnt wood, earthy, choco",70%,26
+France,2015,Togo,"4- B,S,C,L","roasty, acidic, nutty",70%,27
+France,2015,Togo,"4- B,S,C,L","mild profile, chocolaty, spice",70%,28
+France,2015,Peru,"4- B,S,C,L","grainy texture, cocoa, sweet",70%,29
+France,2016,Sao Tome,"4- B,S,C,L","sweet, chocolatey, vegetal",63%,30
+France,2018,Venezuela,"4- B,S,C,L","alluring aroma, powdery,nutty",70%,31
+France,2018,Peru,"4- B,S,C,L","sweet, dairy, spice, cocoa",63%,32
+France,2021,Mexico,"4- B,S,C,L","light color, fruit, yogurt",70%,33
+U.S.A.,2015,Peru,"2- B,S",yellow fruit,70%,34
+U.S.A.,2015,Peru,"2- B,S","intense, nutty, cherry, cocoa",70%,35
+U.S.A.,2020,Mexico,"2- B,S","herbal, molasses, hammy",74%,36
+U.S.A.,2020,Peru,"2- B,S","hot cocoa, rich, molasses",70%,37
+Fiji,2011,Fiji,"3- B,S,C","sweet, sublte strawberry",60%,38
+Fiji,2011,Fiji,"3- B,S,C",spicy and candy-like,80%,39
+Fiji,2011,Fiji,"3- B,S,C","orange, floral, lemon",88%,40
+Fiji,2011,Fiji,"3- B,S,C",cocoa and powerful tang,72%,41
+Vanuatu,2019,Vanuatu,"2- B,S","unrefined, sweet, metallic",70%,42
+Vanuatu,2019,Vanuatu,"2- B,S","basic, sweet, cocoa, woody",70%,43
+Vanuatu,2019,Vanuatu,"2- B,S","sweet, cocoa, rubbery",70%,44
+Vanuatu,2019,Vanuatu,"2- B,S","sandy, woody, spicy, sweet",70%,45
+Ecuador,2009,Ecuador,"4- B,S,C,V","sandy, sweet, banana cream",55%,46
+Ecuador,2009,Ecuador,"4- B,S,C,V","roasty, nutty, coffee",70%,47
+Mexico,2009,Mexico,"3- B,S,C","gritty, spice, cocoa",70%,48
+U.K.,2010,Madagascar,"4- B,S,C,L","strong pepper, musty",75%,49
+U.K.,2010,Brazil,"4- B,S,C,L","fatty, intense, woody",75%,50
+U.K.,2011,Indonesia,"4- B,S,C,L","hay, nut, berry",75%,51
+France,2013,Venezuela,"5- B,S,C,V,L","sandy, dirt, ashey",75%,52
+France,2013,Peru,"5- B,S,C,V,L","cardboard, dirt, roasty",75%,53
+France,2014,Trinidad,"6-B,S,C,V,L,Sa","roasty, sweet, savory",65%,54
+France,2014,Vietnam,"5-B,S,C,V,Sa","nutty, roasty, odd dairy",75%,55
+France,2014,Madagascar,"5-B,S,C,V,Sa","citrus, fatty, dairy",75%,56
+France,2017,Mexico,"6-B,S,C,V,L,Sa","strawberry, cream, gateway",75%,57
+Netherlands,2017,Ecuador,"3- B,S,C","sandy, green, floral",70%,58
+Netherlands,2017,Nicaragua,"3- B,S,C","sandy, sweet, nibby",70%,59
+Netherlands,2017,Tanzania,"3- B,S,C","sandy, melon, banana",70%,60
+Netherlands,2017,Vietnam,"3- B,S,C","sandy, sweet, roasty",70%,61
+U.S.A.,2013,Venezuela,"4- B,S,C,L","sweet, moldy, off",60%,62
+U.S.A.,2013,Dominican Republic,"4- B,S,C,L","sandy, sweet, dairy, spice",60%,63
+U.S.A.,2013,Bolivia,"4- B,S,C,L","grit, sweet, caramel, fruit",60%,64
+U.S.A.,2013,Bolivia,"4- B,S,C,L","gritty, berry, mild bitter",80%,65
+U.S.A.,2013,Peru,"4- B,S,C,L","gritty, too sweet, fruit",60%,66
+U.S.A.,2016,Bolivia,"3- B,S,C","sandy, sweet, pungent",60%,67
+U.S.A.,2016,Peru,"3- B,S,C","sandy, sweet, sour, off",60%,68
+U.S.A.,2016,Nicaragua,"3- B,S,C","powdery, sweet, molasses",60%,69
+U.S.A.,2016,Ecuador,"3- B,S,C","sandy, nutty, earthy, roasty",60%,70
+U.S.A.,2016,Peru,"3- B,S,C","dry, sweet, caramel",60%,71
+U.S.A.,2018,Dominican Republic,"3- B,S,C","sweet, coarse, nutty",70%,72
+U.S.A.,2007,Venezuela,"4- B,S,C,V","waxy, nutty, mint",70%,73
+U.S.A.,2007,Madagascar,"4- B,S,C,V","spice, nut, cocoa, fruit",70%,74
+U.S.A.,2007,Venezuela,"4- B,S,C,V","spicy, strawberry",70%,75
+U.S.A.,2008,Indonesia,"4- B,S,C,V","sticky, nutty, high acidity",70%,76
+U.S.A.,2009,Venezuela,"4- B,S,C,V","hot spice, roasty",70%,77
+U.S.A.,2010,Venezuela,"4- B,S,C,V","woody, red berry, sour",70%,78
+U.S.A.,2010,Dominican Republic,"4- B,S,C,V","orange, cinamon",70%,79
+U.S.A.,2010,Ecuador,"4- B,S,C,V","strong spice, intense pepper",70%,80
+U.S.A.,2011,Papua New Guinea,"4- B,S,C,V","tart, lemon, smoke",70%,81
+Spain,2009,Ecuador,"2- B,S","waxy mouthfeel, spicy",70%,82
+Spain,2009,Ecuador,"2- B,S","fatty, mushroom, off notes",85%,83
+Spain,2009,Ghana,"2- B,S","dry, chalky, fudge-like",70%,84
+Spain,2009,Ghana,"2- B,S","roasty,oddly sweet,marshmallow",85%,85
+Peru,2013,Peru,"3- B,S,C","oily, vanilla, melon, cocoa",72%,88
+Peru,2013,Peru,"3- B,S,C","oily, vegetal, nutty, cocoa",73%,89
+Canada,2015,Belize,"4- B,S,C,L","roasty, brownie, nutty",64%,90
+Canada,2015,Madagascar,"2- B,S","fruity, sour",66%,91
+Canada,2015,Dominican Republic,"2- B,S","high roast, high astringnet",75%,92
+Canada,2015,Papua New Guinea,"2- B,S","smokey, savory",63%,93
+Canada,2015,Venezuela,"2- B,S","sandy, roasty, nutty",70%,94
+Canada,2015,Peru,"2- B,S","rich, sour, mild smoke",68%,95
+Italy,2006,Blend,"4- B,S,C,V","red wine, rich cocoa, long",66%,96
+Italy,2007,Ecuador,"4- B,S,C,V","creamy, earthy, vegetal",70%,97
+Italy,2007,Jamaica,"4- B,S,C,V","sandy, woody, spicy",70%,98
+Italy,2007,Grenada,"4- B,S,C,V",fruity with coffee notes,70%,99
+Italy,2007,Trinidad,"4- B,S,C,V","coffee, fruit, woodsy",70%,100
+Italy,2007,Blend,"4- B,S,C,V","fatty, dairy, caramel, cocoa",63%,101
+Italy,2007,Venezuela,"4- B,S,C,V","creamy, fruit, cocoa",70%,102
+Italy,2012,Peru,"4- B,S,C,V","creamy, raspberry, nutty",70%,103
+Italy,2018,Madagascar,"4- B,S,C,V","vanilla, mint, roasty",70%,104
+Italy,2018,Venezuela,"4- B,S,C,V","vanilla, nuts, roasty",70%,105
+Italy,2018,Venezuela,"4- B,S,C,V","nutty, mild roasty, vanilla",70%,106
+Italy,2018,Blend,"4- B,S,C,V","sweet, delicate, complex",75%,107
+Italy,2019,Blend,"3- B,S,C","nut, fatty, rubbery, rich",70%,108
+Brazil,2010,Brazil,"4- B,S,C,L","creamy, red berry, bitter",85%,109
+Brazil,2010,Brazil,"4- B,S,C,L","very sweet, bright red, banana",50%,110
+Brazil,2010,Brazil,"4- B,S,C,L","roasty, fatty, nutty, coffee",75%,111
+Brazil,2010,Brazil,"4- B,S,C,L","creamy, sweet,cocoa,banana",60%,112
+Brazil,2013,Brazil,"4- B,S,C,L","grainy, sweet, poor aftertaste",75%,113
+U.S.A.,2014,Dominican Republic,"2- B,S","chalky, mild fruit, burnt",75%,114
+U.S.A.,2016,Bolivia,"2- B,S","light roast, caramel, cocoa",75%,115
+U.S.A.,2021,Belize,"2- B,S","burnt toast, cherry",75%,116
+U.S.A.,2021,Guatemala,"2- B,S","orange citrus, harsh earthiness",75%,117
+France,2014,Mexico,"3- B,S,C","earthy, sour milk, leather",72%,118
+France,2014,Ecuador,"3- B,S,C","bitter, floral, leather",75%,119
+France,2014,Madagascar,"3- B,S,C","sandy, fruity, short",75%,120
+France,2014,Venezuela,"3- B,S,C","nutty, mild spice, mild earthy",75%,121
+U.S.A.,2015,Brazil,"2- B,S","floral, chemical off",75%,122
+U.S.A.,2015,Guatemala,"2- B,S","strawberry, butterscotch, off",70%,123
+U.S.A.,2015,Brazil,"2- B,S","creamy, rich, rum, roasty",70%,124
+U.S.A.,2015,Peru,"2- B,S","floral, nutty, rich cocoa",68%,125
+U.S.A.,2015,Dominican Republic,"2- B,S","spicy, brownie, nutty",70%,126
+U.S.A.,2015,Ecuador,"3- B,S,C","intense, floral, bourbon",75%,127
+U.S.A.,2015,Ecuador,"2- B,S","spicy, cocoa",70%,128
+U.S.A.,2015,Belize,"2- B,S","floral, strawberry, metallic",70%,129
+U.S.A.,2015,Nicaragua,"2- B,S","creamy,sticky, peanut butter",70%,130
+U.S.A.,2016,Ecuador,"3- B,S,C","sticky, floral, roasty",70%,131
+U.S.A.,2016,Ecuador,"3- B,S,C","chewy, mild floral",70%,132
+U.S.A.,2016,Fiji,"2- B,S","smoke, hammy, cocoa base",70%,133
+U.S.A.,2016,Vietnam,"2- B,S","earthy, nutty, cardboard",73%,134
+U.S.A.,2016,Trinidad,"2- B,S","delicate, simple",70%,135
+U.S.A.,2016,Vietnam,"3- B,S,C","cashew, roasty, chunky melt",73%,136
+U.S.A.,2016,Guatemala,"2- B,S","subtle, mysterious",70%,137
+U.S.A.,2016,Honduras,"2- B,S","nutty, green",70%,138
+U.S.A.,2016,Tanzania,"2- B,S","appealing smoke, woody",70%,139
+U.S.A.,2016,Nicaragua,"3- B,S,C","muddy, rich cocoa, raspberry",70%,140
+U.S.A.,2016,Dominican Republic,"2- B,S","dark berry, chocolatey",70%,141
+U.S.A.,2016,Costa Rica,"2- B,S","balanced, cherry, choco",70%,142
+U.S.A.,2016,Peru,"2- B,S","creamy, complex, balanced",70%,143
+U.S.A.,2017,India,"2- B,S","slight roasty, basic cocoa",70%,144
+U.S.A.,2017,Madagascar,"3- B,S,C",sour fruit,70%,145
+U.S.A.,2017,Vietnam,"3- B,S,C","rich cocoa, mild roasty",73%,146
+U.S.A.,2017,Peru,"3- B,S,C","dried fruit, fig, anise",70%,147
+U.S.A.,2017,Bolivia,"2- B,S","creamy, bright fruit",70%,148
+U.S.A.,2017,Haiti,"2- B,S","long lasting, cocoa",70%,149
+U.S.A.,2018,Trinidad,"2- B,S","nuts, dried fruit, short",70%,150
+U.S.A.,2018,Colombia,"2- B,S","smooth, nutty, cocoa",70%,151
+U.S.A.,2019,India,"3- B,S,C","burn butterscotch, rubbery",70%,152
+U.S.A.,2019,India,"3- B,S,C","herbs, mushroom, acidic",70%,153
+Nicaragua,2018,Nicaragua,"2- B,S","cocoa, earthy, hammy",70%,154
+Nicaragua,2018,Nicaragua,"2- B,S","melon, late hammy",70%,155
+Nicaragua,2018,Nicaragua,"2- B,S","smooth, vegetal",70%,156
+Nicaragua,2018,Nicaragua,"2- B,S","roasty, rich cocoa",70%,157
+U.K.,2008,Congo,"3- B,S,C","spicy, minty, vegetal",72%,158
+U.K.,2009,Brazil,"3- B,S,C","cocoa, dominate off note",72%,159
+U.K.,2009,Venezuela,"3- B,S,C","oily, nutty, burnt, sour",75%,160
+U.K.,2009,Indonesia,"3- B,S,C","gritty, very smokey, sour",72%,161
+U.K.,2009,Madagascar,"3- B,S,C","sl. bitter, cherry, rich",80%,162
+U.K.,2009,Peru,"3- B,S,C","spicey, mild metallic",75%,163
+U.K.,2009,Dominican Republic,"3- B,S,C","spice, cocoa, short",72%,164
+U.K.,2010,Costa Rica,"3- B,S,C","chewy, grassy, nutty",72%,166
+U.K.,2010,Vietnam,"3- B,S,C","unrefined, distinct spicey",72%,167
+U.K.,2010,Indonesia,"3- B,S,C",black pepper and banana,72%,168
+U.K.,2010,Jamaica,"3- B,S,C","grassy, black licorice, mint",72%,169
+U.K.,2011,Panama,"3- B,S,C","blackpepper,chemical,rubber",72%,170
+U.K.,2011,Haiti,"3- B,S,C","nuts, butterscotch, brownie",72%,171
+U.K.,2012,Colombia,"3- B,S,C","marshmallow, roasty, nutty",72%,172
+U.K.,2013,Trinidad,"3- B,S,C","gritty, nutty",72%,173
+U.K.,2013,Colombia,"4- B,S,C,L","creamy, marshmallow, off",72%,174
+Italy,2021,India,"4- B,S,C,L","cinamon, nutmeg, fatty",72%,175
+Italy,2021,Madagascar,"4- B,S,C,L","strawberry, sour",72%,176
+Italy,2021,Tanzania,"4- B,S,C,L","caramel, sour milk",72%,177
+U.S.A.,2007,Mexico,"2- B,S","leather, black licorice, off",75%,178
+U.S.A.,2007,Ecuador,"2- B,S","smooth, astringent, cocoa",70%,179
+U.S.A.,2009,Philippines,"2- B,S","strawberries, mild tart, roasty",77%,180
+U.S.A.,2011,Tanzania,"2- B,S","creamy, woody, cocoa",72%,181
+U.S.A.,2011,Honduras,"2- B,S","grapes, woody, roasty",70%,182
+U.S.A.,2016,Tanzania,"3- B,S,C","creamy, rich, blueberry",68%,183
+Australia,2019,Solomon Islands,"4- B,S,C,L","off aroma,vegetal,honey,sandy",70%,184
+Philippines,2018,Philippines,"4- B,S,V,L","sandy, vanilla",77%,185
+Philippines,2018,Philippines,"3- B,S,C","waxy, dried fruit",70%,186
+Philippines,2018,Philippines,"3- B,S,C","sandy, roasty, nutty",70%,187
+Philippines,2018,Philippines,"3- B,S,C","long, bright fruit, sweet, sour",70%,188
+Canada,2021,Colombia,"2- B,S","chemical, spice, earthy",70%,189
+Canada,2021,Dominican Republic,"2- B,S","intense, sour tart plum, rubber",70%,190
+Australia,2012,Brazil,"2- B,S","chalky, intense, chemical",70%,191
+Australia,2012,Blend,"2- B,S","chalky, fragrant, then off",70%,192
+Australia,2012,Madagascar,"2- B,S","unrefined, flat, grassy",70%,193
+Australia,2015,Blend,"2- B,S","coarse, smokey, metallic",80%,194
+Australia,2015,Papua New Guinea,"2- B,S","smoke, ham, papaya",70%,195
+Brazil,2018,Brazil,"2- B,S","bland, sugary, large grits",70%,196
+Peru,2015,Peru,"3- B,S,C","molasses, caramel, pungent",70%,197
+Peru,2015,Peru,"3- B,S,C","black pepper, cardamom",70%,198
+U.S.A.,2019,Belize,"3- B,S,C","gritty, fatty, sour, off",72%,199
+U.S.A.,2019,Uganda,"3- B,S,C","bitter, fatty, mild fruit",82%,200
+U.S.A.,2019,Tanzania,"3- B,S,C","base cocoa, mild fruit, roasty",72%,201
+U.S.A.,2012,Dominican Republic,"2- B,S","complex,black pepper,coffee",70%,202
+U.S.A.,2012,Mexico,"2- B,S","molasses,toffee,coffee grounds",70%,203
+U.S.A.,2012,Madagascar,"2- B,S","raspberry, mild sour",70%,204
+U.S.A.,2014,Peru,"2- B,S","creamy, rounded, orange",70%,205
+U.S.A.,2015,Brazil,"2- B,S","intense, smokey, dried fruit",70%,206
+U.S.A.,2017,Costa Rica,"2- B,S","slightly dry, cocoa, berry",72%,207
+U.S.A.,2017,Trinidad,"2- B,S","intense, tangy, alcohol",80%,208
+Wales,2012,Costa Rica,"4- B,S,C,V","gritty, floral, vanilla",80%,209
+U.S.A.,2016,Ecuador,"3- B,S,C","sandy, floral, sweet",65%,210
+U.S.A.,2016,Dominican Republic,"3- B,S,C","creamy, sweet, fudgey",65%,211
+U.S.A.,2016,Brazil,"3- B,S,C","strawberry, candy flavor",70%,212
+U.K.,2019,Peru,"4- B,S,C,V","strong vanilla, off notes",70%,213
+U.K.,2017,Malaysia,"3- B,S,C","caramel, spice, earthy",73%,214
+U.K.,2017,Malaysia,"3- B,S,C","smokey, woody, tobacco",72%,215
+U.S.A.,2016,Brazil,"3- B,S,C","intense, bitter, dry",80%,216
+U.S.A.,2016,Dominican Republic,"3- B,S,C","sandy, sweet, molasses",70%,217
+U.S.A.,2016,Ecuador,"3- B,S,C","intense, floral, black pepper",70%,218
+U.S.A.,2016,Ecuador,"3- B,S,C","intense floral, bitter, earthy",90%,219
+Belgium,2010,Costa Rica,"4- B,S,C,L","pastey, nutty",64%,220
+Belgium,2010,Papua New Guinea,"4- B,S,C,L","intense, smokey",64%,221
+Belgium,2010,Peru,"4- B,S,C,L","sticky, moss, nuts",64%,222
+Belgium,2010,Ecuador,"4- B,S,C,L","dry, cinamon, nutmeg",71%,223
+U.S.A.,2016,Bolivia,"3- B,S,C","oily, complex, pungent",70%,224
+U.S.A.,2016,Tanzania,"3- B,S,C","sticky, delicate, melon",70%,225
+U.S.A.,2016,Dominican Republic,"2- B,S","caramel, mild dried fruit",70%,226
+Vietnam,2018,Vietnam,"3- B,S,C","high acidity, nutty, roasty",75%,227
+Vietnam,2021,Vietnam,"3- B,S,C",dominate cocoa notes,70%,228
+Germany,2016,Belize,"3- B,S,C","unbalanced, tangy, pungent",83%,229
+Germany,2016,Belize,"3- B,S,C","sweet, nibby, green",78%,230
+Germany,2016,Belize,"3- B,S,C","balanced, complex, berry",83%,231
+Singapore,2018,Vietnam,"4- B,S,C,L","gummy, roasty, fatty",72%,232
+Singapore,2018,India,"4- B,S,C,L","gummy, fatty, sour",72%,233
+Singapore,2018,Malaysia,"4- B,S,C,L","off aroma, smokey, off note",72%,234
+Belgium,2011,Madagascar,"3- B,S,C","intense,red berry,strawberry",72%,235
+Belgium,2011,Indonesia,"3- B,S,C","smokey, raspberries, cocoa",72%,236
+Belgium,2013,Cuba,"3- B,S,C","tobacco, dairy, sour",74%,237
+Belgium,2013,Venezuela,"3- B,S,C","nutty, roasty, dairy",74%,238
+Belgium,2013,Venezuela,"3- B,S,C","mocha, intense, sweet",74%,239
+Belgium,2013,Ecuador,"3- B,S,C",cinamon and nutmeg,73%,240
+France,2012,Blend,"5- B,S,C,V,L","sweet, vanilla, cocoa",55%,241
+Switzerland,2010,Venezuela,"3- B,S,C","creamy, macadamia, pepper",70%,242
+Switzerland,2010,Venezuela,"3- B,S,C","nutty, light toffee, mild musty",74%,243
+Switzerland,2010,Indonesia,"3- B,S,C","ham-like, smokey, banana",64%,244
+Switzerland,2010,Venezuela,"3- B,S,C","dark cocoa, spicy pepper",72%,245
+Switzerland,2011,Madagascar,"3- B,S,C","chunky, nutty, banana",64%,246
+Switzerland,2011,Venezuela,"3- B,S,C","bitter then nutty rustic, earthy",88%,247
+Switzerland,2011,Venezuela,"3- B,S,C","creamy, banana, rich",72%,248
+Switzerland,2011,Ecuador,"3- B,S,C","creamy, nutty, cocoa",72%,249
+U.S.A.,2015,Nicaragua,"2- B,S","bitter, molasses, flour",76%,250
+U.S.A.,2015,Costa Rica,"2- B,S","molasses, metallic, earthy",76%,251
+U.S.A.,2015,Costa Rica,"4- B,S,C,V","sour, tart, molasses",78%,252
+U.S.A.,2015,Belize,"4- B,S,C,V","mild bitter, diluted, vanilla",86%,253
+Venezuela,2018,Venezuela,"4- B,S,C,L","gritty, spicy, earthy",70%,254
+Venezuela,2018,Venezuela,"4- B,S,C,L","fatty, bland, nutty",70%,255
+Venezuela,2018,Venezuela,"4- B,S,C,L","smooth texture, earthy, nutty",70%,256
+U.S.A.,2008,Madagascar,"2- B,S","rich cocoa, red berry, sour",71%,257
+U.S.A.,2008,Ghana,"2- B,S","nutmeg, sour",70%,258
+U.S.A.,2008,Panama,"2- B,S","intense, rum, tea",75%,259
+U.S.A.,2008,Dominican Republic,"2- B,S","nutty, astringent",68%,260
+U.S.A.,2009,Dominican Republic,"2- B,S","chalky, strong, harsh smoke",75%,261
+U.S.A.,2009,Madagascar,"2- B,S","rustic, red berry, woody",75%,262
+U.S.A.,2009,Dominican Republic,"2- B,S","intense marshmallow, cocoa",65%,263
+U.S.A.,2009,Madagascar,"2- B,S",chocolate covered cherries,65%,264
+U.S.A.,2010,Indonesia,"2- B,S","pastey, off spicey, nutty",65%,265
+U.S.A.,2010,Madagascar,"2- B,S","red berry, strong wine, sour",70%,266
+U.S.A.,2010,Venezuela,"2- B,S","nutty, mild bitter",78%,267
+U.S.A.,2010,Indonesia,"2- B,S","dry, cardamom, medicinal",75%,268
+U.S.A.,2010,Blend,"2- B,S","robust, cocoa, fruity",70%,269
+U.S.A.,2012,Ghana,"3- B,S,C","roasted nuts, rich, roasty",72%,270
+U.S.A.,2018,Haiti,"2- B,S","floral, molasses, chemical",70%,271
+U.S.A.,2018,Guatemala,"2- B,S","molasses, earthy, spicy",70%,272
+U.S.A.,2018,Dominican Republic,"2- B,S","sweet, sour milk",70%,273
+U.S.A.,2019,Belize,"2- B,S","off, rubbery, burnt molasses",70%,274
+U.S.A.,2008,Dominican Republic,"3- B,S,C","unrefined, fruity",70%,275
+U.S.A.,2008,Venezuela,"3- B,S,C","sweet grass, muted spice",70%,276
+U.S.A.,2008,Nicaragua,"3- B,S,C","rich, leather, woodsy",70%,277
+U.S.A.,2021,Dominican Republic,"4- B,S,C,L","bright fruit, crisp nibs, cocoa",70%,278
+U.K.,2014,Jamaica,"4- B,S,C,L","fatty, nutty",70%,279
+U.S.A.,2021,Colombia,"3- B,S,C","burnt caramel, cocoa, floral",72%,280
+U.S.A.,2021,Belize,"3- B,S,C",honey with subtle tobacco,72%,281
+Spain,2009,Blend,"4- B,S,C,V","oily, flat, woody, sour",72%,282
+Spain,2013,Congo,"4- B,S,C,V","complex, fruity, mild bitter",82%,283
+U.S.A.,2012,Guatemala,"3- B,S,C","chewy, complex,black pepper",70%,284
+U.S.A.,2012,Madagascar,"3- B,S,C","gritty, tart red berry,powerful",70%,285
+U.S.A.,2016,Guatemala,"2- B,S","roasty, coffee, earthy",75%,286
+U.S.A.,2016,Dominican Republic,"2- B,S","astringent, sour, coffee",75%,287
+U.S.A.,2016,Madagascar,"2- B,S","sandy, tart, sour, sweet",82%,288
+U.S.A.,2016,Tanzania,"2- B,S","bready, melon",75%,289
+U.S.A.,2017,Belize,"3- B,S,C",pungent off flavor,70%,290
+Malaysia,2019,Malaysia,"2- B,S","sweet, dirty, off notes",68%,291
+Malaysia,2019,Malaysia,"2- B,S","sweet, fruit, chemical off note",72%,292
+Malaysia,2019,Malaysia,"2- B,S","grassy, savory, sour",74%,293
+France,2006,Sri Lanka,"3- B,S,C","vegetal, dominant tobacco",75%,295
+France,2006,Blend,"3- B,S,C","spice, woodsy, long lasting",75%,296
+France,2006,Venezuela,"3- B,S,C","sandy, creamy, berry",75%,297
+France,2006,Madagascar,"3- B,S,C","mellow, tart, coffee",75%,298
+France,2006,Venezuela,"3- B,S,C","creamy, fatty, floral",75%,299
+France,2006,Venezuela,"3- B,S,C","creamy, coconut, tang",75%,300
+France,2007,Ecuador,"3- B,S,C","dry, floral, bitter",75%,301
+France,2008,Venezuela,"3- B,S,C","creamy, strawberry, nutty",75%,302
+France,2009,Peru,"3- B,S,C","flat, bread, earthy",75%,303
+France,2009,Ivory Coast,"3- B,S,C","oily, intense cocoa, sl. Burnt",75%,304
+France,2009,Mexico,"3- B,S,C","mild bitter, nut, possible mold",75%,305
+France,2009,Mexico,"3- B,S,C","fatty, roasty, earthy",75%,306
+France,2011,Jamaica,"3- B,S,C","oily, creamy, woody",75%,307
+France,2011,Cuba,"3- B,S,C","fatty, raisin, grape",75%,308
+France,2011,Peru,"3- B,S,C","roasty, woody, mint",75%,309
+France,2011,Peru,"3- B,S,C","creamy, cocoa, smokey",75%,310
+France,2011,Brazil,"3- B,S,C","oily,fatty, rich, nutty",75%,311
+France,2011,Brazil,"3- B,S,C","chunky, very grassy, mild mint",75%,312
+France,2011,Haiti,"3- B,S,C","grassy, black pepper",75%,313
+France,2011,Madagascar,"3- B,S,C","fatty, spicy, gentle roast",75%,314
+France,2013,Gabon,"3- B,S,C","fatty, roasty, black pepper",75%,315
+France,2013,Brazil,"3- B,S,C","oily, roasted nuts, rich cocoa",75%,316
+France,2014,Dominican Republic,"3- B,S,C","roasty, tobacco, earthy",75%,317
+France,2014,Blend,"3- B,S,C","complex, brownie,mint, spice",65%,318
+France,2014,Brazil,"3- B,S,C","creamy, homey, nutty",75%,319
+France,2016,Mexico,"3- B,S,C","heavy roast, fatty, gateway",75%,320
+France,2018,Peru,"3- B,S,C","oily, subtle, mild coffee",75%,321
+France,2018,Blend,"3- B,S,C","creamy, rich, complex",75%,322
+France,2021,Nicaragua,"3- B,S,C","bold, woody, nut, roasty, creamy",75%,323
+Ecuador,2009,Ecuador,"2- B,S","sticky, lavendar, molasses",77%,325
+U.S.A.,2018,Ecuador,"3- B,S,C","balanced, floral, honey",75%,328
+U.S.A.,2018,Peru,"3- B,S,C","sweet, rich mocha, acidic",70%,329
+U.S.A.,2018,Bolivia,"3- B,S,C","nuts, fruit",70%,330
+U.S.A.,2021,Tanzania,"3- B,S,C","very sweet, melon, caramel",62%,331
+U.S.A.,2013,Dominican Republic,"5- B,S,C,V,L","oily, vanilla, caramel, dairy",72%,332
+U.S.A.,2013,Ecuador,"5- B,S,C,V,L","intense, alocohol, floral",70%,333
+U.S.A.,2013,Ghana,"5- B,S,C,V,L","fatty, brownie, nutty",75%,334
+U.S.A.,2013,Venezuela,"5- B,S,C,V,L","intense, cooked banana",85%,335
+U.S.A.,2014,Belize,"3- B,S,C","intense, cocoa, complex",70%,336
+U.S.A.,2014,Venezuela,"3- B,S,C","intense, raisins, roasty",70%,337
+U.S.A.,2015,Dominican Republic,"3- B,S,C","complex, brownie, lime, rich",68%,338
+U.S.A.,2016,Venezuela,"3- B,S,C","nutty, slight hammy, rich",70%,339
+U.S.A.,2016,Nicaragua,"3- B,S,C","simple, rich cocoa",70%,340
+U.S.A.,2017,Dominican Republic,"3- B,S,C","earthy, cherries",70%,341
+U.S.A.,2017,Ecuador,"3- B,S,C","sandy, floral, honey",75%,342
+U.S.A.,2015,Madagascar,"3- B,S,C","bitter, tart, acidic",80%,343
+U.S.A.,2015,Dominican Republic,"3- B,S,C","roasty, sweet, brownie",60%,344
+U.S.A.,2015,Dominican Republic,"3- B,S,C","bitter, dark berry, fatty",80%,345
+U.S.A.,2015,Belize,"3- B,S,C","mild smoke, raisins, coffee",80%,346
+U.S.A.,2015,Madagascar,"3- B,S,C","citrus, sweet, cocoa",60%,347
+U.S.A.,2015,Guatemala,"2- B,S","tart, tea, leather, sour",70%,348
+U.S.A.,2013,Jamaica,"4- B,S,C,V","chalky, sandy, tart, bland",70%,349
+Australia,2014,Trinidad,"3- B,S,C","fatty, sweet, metallic",68%,350
+Australia,2014,Madagascar,"3- B,S,C","sweet, mild molasses, bland",72%,351
+Australia,2014,Dominican Republic,"3- B,S,C","spicy, black pepper, banana",70%,352
+Australia,2014,Ecuador,"3- B,S,C","floral, banana",72%,353
+Russia,2015,Ecuador,"2- B,S","powdery, floral, molasses",70%,354
+U.S.A.,2013,Dominican Republic,"3- B,S,C","gritty, sweet, brownie",68%,355
+U.K.,2018,Bolivia,"3- B,S,C","dirt, earthy, floral",70%,356
+U.K.,2018,Guatemala,"3- B,S,C",roasty and under refined,70%,357
+U.S.A.,2014,Ecuador,"3- B,S,C","sweet, sour dairy",60%,358
+U.S.A.,2014,Trinidad,"3- B,S,C","high roast, coffee, spicy",72%,359
+U.S.A.,2014,Belize,"3- B,S,C","roasty, fruit, mild metallic",72%,360
+U.S.A.,2014,Blend,"3- B,S,C","coffee, high roast, spicy",72%,361
+U.S.A.,2014,Ecuador,"3- B,S,C","floral, mild citrus, orange",72%,362
+South Korea,2019,Ecuador,"2- B,S","smokey, sour",70%,363
+Taiwan,2019,Taiwan,"2- B,S*","molasses, sour notes",70%,364
+Taiwan,2019,Philippines,"2- B,S*",base cocoa w/ palm notes,70%,365
+Canada,2019,Guatemala,"4- B,S,C,L","off pungent, grassy, melon",70%,366
+Canada,2019,Guatemala,"4- B,S,C,L","vegetal, unique",70%,367
+Canada,2019,Bolivia,"4- B,S,C,L",subtle but refreshing,70%,368
+Puerto Rico,2015,Puerto Rico,"2- B,S","dirt, floral, sweet",70%,369
+U.S.A.,2010,Venezuela,"2- B,S","over roasted, bitter, nutty",75%,370
+U.S.A.,2010,Dominican Republic,"2- B,S","oily, buttery, intense",75%,371
+U.S.A.,2010,Dominican Republic,"2- B,S","creamy, burnt wood",75%,372
+U.S.A.,2014,Peru,"2- B,S","roasty, almost burnt, intense",75%,373
+France,2007,Venezuela,"5- B,S,C,V,L","sandy, dairy, cocoa",72%,374
+France,2007,Mexico,"5- B,S,C,V,L","creamy, woody, cocoa",66%,375
+France,2008,Tanzania,"5- B,S,C,V,L","dry, flat flavor, astringent",75%,376
+France,2010,Dominican Republic,"5- B,S,C,V,L","spice, fruit medley, roasty",70%,377
+France,2016,Haiti,"5- B,S,C,V,L","gritty, sweet, citrus",65%,378
+Switzerland,2018,Colombia,"2- B,S","light color, dirty, musty",72%,379
+Switzerland,2018,Colombia,"2- B,S","light color, dirty, astringent",72%,380
+Switzerland,2018,Colombia,"2- B,S","light color, creamy, hazelnut",72%,381
+Venezuela,2014,Venezuela,"2- B,S","intense, earthy, fuel",75%,382
+Venezuela,2014,Venezuela,"2- B,S","nutty, intense, leathery",74%,383
+Venezuela,2014,Venezuela,"2- B,S","bright fruit, strawberry",75%,384
+Venezuela,2014,Venezuela,"2- B,S","fruity, nutty, brownie",70%,385
+Venezuela,2015,Venezuela,"2- B,S","intense, black licorice, nutty",74%,386
+Venezuela,2015,Venezuela,"2- B,S","spicy, nutty, ends sour",75%,387
+Venezuela,2015,Venezuela,"2- B,S","assertive, fruity, acidic",77%,388
+Venezuela,2018,Venezuela,"2- B,S","sandy, chalky, earthy",75%,389
+Venezuela,2019,Venezuela,"2- B,S","high astringent, sandy, grass",75%,390
+Venezuela,2019,Venezuela,"2- B,S","raspberry, dirty, sour",70%,391
+U.S.A.,2018,Venezuela,"2- B,S","poor texture, earthy",70%,392
+Colombia,2014,Colombia,"4- B,S,C,L","green, vegetal, soil, fuel",69%,393
+Colombia,2014,Colombia,"4- B,S,C,L","intense, spice",70%,394
+Colombia,2014,Colombia,"4- B,S,C,L","intense, marshmallow, fruit",64%,395
+Colombia,2014,Colombia,"4- B,S,C,L","earthy, woody, smoke",70%,396
+Colombia,2015,Colombia,"3- B,S,C","rich, nutty, acidic",72%,397
+Colombia,2016,Colombia,"3- B,S,C","distinct, short, dried fruit",71%,398
+Colombia,2016,Colombia,"3- B,S,C","mild cocoa, astringent",74%,399
+U.S.A.,2016,Honduras,"4- B,S,C,L","deep cocoa, fatty, dairy",70%,400
+U.S.A.,2011,Dominican Republic,"2- B,S","rustic, sweet, one dimensional",72%,401
+U.S.A.,2011,Dominican Republic,"2- B,S","rustic, gritty, sweet, fruit",65%,402
+U.S.A.,2011,Dominican Republic,"2- B,S","creamy,blueberry,black pepper",66%,403
+U.S.A.,2012,Dominican Republic,"2- B,S","oily, cherry, rich cocoa",72%,404
+Spain,2009,Mexico,"4- B,S,C,L",distinct lemon,70%,405
+Spain,2009,Mexico,"4- B,S,C,L","creamy, nutty, banana, rich",70%,406
+Spain,2010,Grenada,"4- B,S,C,L","silky, ""Andes"" mint, off nutty",71%,407
+Spain,2010,Madagascar,"4- B,S,C,L","creamy, earthy, dark roast",71%,408
+Spain,2010,Venezuela,"4- B,S,C,L","gritty, fudge-like, nutty",71%,409
+Spain,2010,Venezuela,"4- B,S,C,L","intense, roasty, rich cocoa",77%,410
+Spain,2010,Ecuador,"4- B,S,C,L","creamy, mild spice, hazelnut",71%,411
+Spain,2010,Papua New Guinea,"4- B,S,C,L","creamy, mild spice, cocoa",71%,412
+Spain,2016,Congo,"4- B,S,C,L","rich, cherries, acidic",70%,413
+U.S.A.,2020,Dominican Republic,"4- B,S,C,V","cocoa butter dominates, cocoa",72%,414
+U.S.A.,2020,Peru,"4- B,S,C,V","intense,sweet,vanilla dominate",72%,415
+U.S.A.,2020,Ecuador,"4- B,S,C,V","cocoa base, sweet, earthy",72%,416
+Japan,2015,Madagascar,"2- B,S","sour milk, off, late tart",70%,417
+Japan,2015,Peru,"2- B,S","dried fruit, sour, nutella",70%,418
+Japan,2015,Vietnam,"2- B,S","balanced, dairy, spicy",70%,419
+Peru,2021,Peru,"2- B,S","herbal, cocoa tea",70%,423
+Peru,2021,Peru,"2- B,S","complex, floral, spicy, fruit",70%,424
+Peru,2021,Peru,"2- B,S","smooth, slow, mild grape",80%,425
+Peru,2021,Peru,"2- B,S",chocolate and grapes,70%,426
+Ecuador,2008,Ecuador,"4- B,S,C,L","klingy, hint of fruit, very bitter",91%,427
+Ecuador,2008,Ecuador,"4- B,S,C,L","cloying, fatty, bitter",82%,428
+Ecuador,2008,Ecuador,"4- B,S,C,L","sandy, sweet, bold citrus",63%,429
+Ecuador,2008,Ecuador,"4- B,S,C,L","dry, spicy, fruity",71%,430
+Italy,2011,Sao Tome,"2- B,S",burnt up front,78%,433
+Italy,2011,Trinidad,"2- B,S","burnt coffee, fatty",70%,434
+Italy,2012,Venezuela,"2- B,S","nutty, ashey, coffee",80%,435
+Italy,2013,Ecuador,1- B,"fatty, controlled bitter, fruit",100%,436
+Italy,2014,Cuba,"2- B,S","intense, ashey, earthen",75%,437
+Italy,2014,Dominican Republic,"2- B,S","intense, fatty, brownie",72%,438
+Italy,2014,Blend,"2- B,S","oily surface, berry, cream",70%,439
+U.S.A.,2016,Venezuela,"3- B,S,C","nutty, burnt, fuel",75%,440
+U.S.A.,2016,Tanzania,"3- B,S,C","sweet, acidic, fatty",73%,441
+U.S.A.,2016,Venezuela,"3- B,S,C",strong nutty with off notes,70%,442
+U.S.A.,2016,Bolivia,"3- B,S,C","sandy, bold, cherry",75%,443
+U.S.A.,2016,Brazil,"3- B,S,C","dairy, chocolate, mild fruit",70%,444
+Colombia,2021,Colombia,"4- B,S,C,L","spice, oats, nutty, fatty",70%,445
+Colombia,2021,Colombia,"4- B,S,C,L","spice, honey, fatty",70%,446
+Colombia,2021,Colombia,"4- B,S,C,L","single note of cocoa, fatty",70%,447
+Colombia,2021,Colombia,"4- B,S,C,L","cocoa base, fruit, creamy",70%,448
+Ecuador,2008,Ecuador,"4- B,S,C,L","grainy, intense, bitter",77%,449
+Ecuador,2008,Ecuador,"4- B,S,C,L","perfume, chemical off note",77%,450
+Ecuador,2008,Ecuador,"4- B,S,C,L","crumbly, cinamon",77%,451
+Ecuador,2008,Ecuador,"4- B,S,C,L","sweet, floral, yogurt",55%,452
+Ecuador,2008,Ecuador,"4- B,S,C,L","sticky, sweet, grassy",55%,453
+Ecuador,2008,Ecuador,"4- B,S,C,L","sandy, sweet, spicy",55%,454
+New Zealand,2014,Papua New Guinea,"3- B,S,C","mild smoke, melon",70%,455
+New Zealand,2014,Papua New Guinea,"3- B,S,C","tart, malt, mild smoke",70%,456
+U.S.A.,2021,Nicaragua,"3- B,S,C","burnt blueberry, off",70%,457
+U.S.A.,2021,Tanzania,"3- B,S,C","unusually tart, nutty",70%,458
+U.S.A.,2021,Peru,"3- B,S,C","intense, cooked black licorice",70%,459
+U.S.A.,2021,Mexico,"3- B,S,C","strong tobacco, grassy",70%,460
+Costa Rica,2012,Costa Rica,"2- B,S","fatty, fruit, muted",80%,461
+Costa Rica,2012,Costa Rica,"2- B,S","fatty, woody, coffee",72%,462
+Costa Rica,2015,Costa Rica,"2- B,S","floral, earthy, acidic",72%,463
+Costa Rica,2015,Guatemala,"3- B,S,C","woody, spicy, tobacco",72%,464
+Costa Rica,2015,Costa Rica,"2- B,S","acidic, astringent, spicy",72%,465
+Colombia,2016,Colombia,"3- B,S,C","sweet, marshmallow",65%,466
+Colombia,2016,Colombia,"3- B,S,C","nutty, grain, late choco",65%,467
+Colombia,2016,Colombia,"3- B,S,C","mild smoke, sweet edge",65%,468
+Colombia,2016,Colombia,"3- B,S,C","overly sweet, mild spice",65%,469
+Colombia,2016,Colombia,"3- B,S,C","sweet, grassy, nutty",65%,470
+U.S.A.,2018,Blend,"2- B,S","off notes, vanilla",75%,471
+Brazil,2019,Brazil,"2- B,S","sandy, intense, sweet, rich",71%,472
+Brazil,2019,Brazil,"2- B,S","molasses, rich, vegetal",65%,473
+U.S.A.,2013,Peru,"3- B,S,C","sandy, fruity, acidic, metallic",70%,474
+U.S.A.,2013,Peru,"3- B,S,C","molasses, cocoa",70%,475
+U.S.A.,2013,Bolivia,"3- B,S,C","sandy, tobacco, molasses",70%,476
+U.S.A.,2013,Venezuela,"3- B,S,C",mild metallic and spice,72%,477
+U.S.A.,2013,Venezuela,"3- B,S,C","sandy, nutty, cocoa",70%,478
+U.S.A.,2013,Nicaragua,"3- B,S,C","sandy, molasses, spice",72%,479
+U.S.A.,2013,Dominican Republic,"2- B,S","sandy, mild intensity, fruit",73%,480
+U.S.A.,2014,Dominican Republic,"3- B,S,C","soapy, earthy",70%,481
+U.S.A.,2014,Colombia,"3- B,S,C","caramel, molasses, fruit",72%,482
+U.S.A.,2014,Colombia,"3- B,S,C","caramel, sweet, delicate",76%,483
+U.S.A.,2015,Honduras,"3- B,S,C","roasty, black pepper, nutty",72%,484
+U.S.A.,2015,Venezuela,"3- B,S,C","nutty, floral, roasty",72%,485
+U.S.A.,2015,Dominican Republic,"3- B,S,C","med roast, grassy, dried fruit",70%,486
+U.S.A.,2016,Belize,"3- B,S,C","bright fruit, molasses, nutty",72%,487
+U.S.A.,2017,Venezuela,"2- B,S","nutty, roasty, caramel",70%,488
+U.S.A.,2019,Puerto Rico,"3- B,S,C","smooth, mellow, floral",70%,489
+U.S.A.,2019,Mexico,"3- B,S,C","smooth, caramel, dried fruit",70%,490
+U.S.A.,2021,Peru,"3- B,S,C","complex, strawberry, floral",70%,491
+U.S.A.,2021,Venezuela,"3- B,S,C","mild strawberry, cocoa, acidic",72%,492
+U.S.A.,2014,Ecuador,"3- B,S,C","burnt rubber, leather",70%,493
+U.S.A.,2014,Peru,"3- B,S,C","mild fruit, off notes",70%,494
+U.S.A.,2014,Venezuela,"3- B,S,C","nutty, roasty, smokey",70%,495
+U.S.A.,2014,Bolivia,"3- B,S,C","creamy, woody, slight cherry",70%,496
+Canada,2014,Uganda,"3- B,S,C","sandy, roasty, coffee",70%,498
+Canada,2021,Madagascar,"3- B,S,C","cherry, sour milk, brownie",70%,499
+Canada,2021,Belize,"3- B,S,C","vanilla, sour, bubblegum",70%,500
+Canada,2021,Peru,"3- B,S,C","dominate grape, plastic off note",72%,501
+France,2017,Bolivia,"2- B,S","dark roast, rich cocoa",74%,502
+France,2018,Venezuela,"3- B,S,C","butter, roasty, cocoa, nutty",68%,503
+U.S.A.,2016,Belize,"3- B,S,C","slightly metallic, woody, berry",70%,504
+Ecuador,2008,Ecuador,"3- B,S,C","dry, sandy, cocoa",75%,505
+Ecuador,2010,Ecuador,"3- B,S,C","very sweet, very spicey",55%,506
+U.S.A.,2014,Costa Rica,"3- B,S,C","green, leafy",70%,507
+U.S.A.,2018,Peru,"3- B,S,C","spicy, chocolatey, atypical",72%,508
+U.S.A.,2019,Ecuador,"3- B,S,C","sl. chalky, floral, pure",72%,509
+U.S.A.,2021,Colombia,"3- B,S,C","early fruit, earthy, alcohol",83%,510
+U.S.A.,2021,Dominican Republic,"3- B,S,C","dried fruit, banana, sweet, vanilla",69%,511
+U.K.,2015,Ecuador,"3- B,S,C","floral, earthy",70%,513
+Germany,2014,Belize,"2- B,S","bland, mild choco & leather",75%,514
+Germany,2014,Belize,"2- B,S","powdery, bland, mild choco",82%,515
+South Korea,2015,Vietnam,"2- B,S","roasty, sour milk, off note",70%,516
+South Korea,2015,Malaysia,"2- B,S","high roast, banana raspberry",70%,517
+Hungary,2019,Nicaragua,"3- B,S,C","grassy, rubbery",72%,518
+Hungary,2019,Dominican Republic,"3- B,S,C","chunky, spicy, rubbery",71%,519
+U.K.,2015,Peru,"2- B,S","flat, metallic, floral",65%,520
+U.K.,2015,Dominican Republic,"2- B,S","spicy, earthy off notes",80%,521
+U.K.,2015,Peru,"2- B,S","flat, floral, medicinal",65%,522
+U.K.,2019,Madagascar,"2- B,S","sugar dominates, molasses",74%,523
+U.S.A.,2011,Madagascar,"2- B,S","mild, fruity then nutty",70%,524
+U.S.A.,2011,Venezuela,"2- B,S","mild, earthy, grassy",68%,525
+U.S.A.,2016,Peru,"2- B,S*","sticky, bitter, molasses, tart",90%,526
+U.S.A.,2016,Blend,"2- B,S*","sticky, coconut, sour, bitter",80%,527
+U.S.A.,2016,Bolivia,"2- B,S","gritty, molasses, earthy",70%,528
+U.S.A.,2016,Uganda,"2- B,S","roasty, cocoa, molasses",70%,529
+U.S.A.,2016,Nicaragua,"2- B,S","nutty, roasty, bitter",80%,530
+U.S.A.,2016,Dominican Republic,"2- B,S","gritty, sweet, molasses",60%,531
+U.S.A.,2016,Dominican Republic,"2- B,S","sandy, rich, roasty, earthy",75%,532
+U.S.A.,2016,Venezuela,"2- B,S","gritty, nutty, caramel",80%,533
+U.S.A.,2016,Ecuador,"2- B,S","molasses, tart, floral",70%,534
+U.S.A.,2014,Peru,"3- B,S*,C","unrefined, odd, vegetal",74%,535
+Amsterdam,2015,Dominican Republic,"3- B,S,C","earthy, coffee, mild, tang",75%,536
+Amsterdam,2015,Congo,"3- B,S,C","bold, rich cocoa, coffee",68%,537
+Amsterdam,2015,Peru,"3- B,S,C","nuts, coffee, peanut butter",80%,538
+Scotland,2012,Ecuador,"3- B,S,C","sandy, fruity, burnt",82%,539
+Scotland,2012,Peru,"3- B,S,C","sandy, sweet, cocoa",68%,540
+Scotland,2012,Madagascar,"3- B,S,C","tart, bright fruit, sour coffee",72%,541
+Scotland,2013,Peru,"2- B,S","intense orange, floral notes",70%,542
+Scotland,2015,Peru,"3- B,S,C","floral, orange, cocoa",69%,543
+Scotland,2015,Venezuela,"2- B,S","mild bitter, fruit, spice",80%,544
+Scotland,2021,Venezuela,"3- B,S,C","nutty, mild dried fruit, sandy, off",70%,545
+U.S.A.,2018,Dominican Republic,"3- B,S,C","spicy, banana",72%,546
+Belgium,2019,India,"3- B,S,C","nutty, honey, grassy",70%,547
+Canada,2014,Mexico,"4- B,S,C,V","fatty, vanilla, mass market",70%,548
+U.S.A.,2018,India,"3- B,S,C","sandy, tart, ham, sweet",63%,549
+U.S.A.,2018,Guatemala,"2- B,S","high astringent, fruit, roasty",76%,550
+U.S.A.,2018,Peru,"2- B,S","sandy, sweet",70%,551
+Canada,2016,Mexico,"3- B,S,C","grainy, sweet, whole bean",75%,554
+U.S.A.,2021,Guatemala,"2- B,S","melon, mild spice, cocoa",70%,555
+U.S.A.,2021,Dominican Republic,"2- B,S","hazelnut, bold, strong roast",73%,556
+U.S.A.,2021,Belize,"2- B,S",full flavor w/ dominant roast,70%,557
+Spain,2007,Ecuador,"4- B,S,C,L","earthy, floral, mild bitter",71%,558
+Spain,2007,Grenada,"4- B,S,C,L","sweet, cardboard",71%,559
+Spain,2007,Blend,"4- B,S,C,L","sweet, marshmallow",70%,560
+Spain,2008,Venezuela,"4- B,S,C,L","long lasting, cocoa base",71%,561
+Spain,2009,Blend,"4- B,S,C,L","chewy, fudge-like, perfume",60%,562
+Spain,2009,Blend,"4- B,S,C,L","oily, grassy, minty",75%,563
+Spain,2010,Mexico,"4- B,S,C,L","earthy, sweet",71%,564
+Spain,2010,Madagascar,"4- B,S,C,L","spicey, cocoa",71%,565
+U.S.A.,2015,Mexico,"2- B,S","coarse, sweet, sour, leathery",65%,566
+U.S.A.,2015,Mexico,"2- B,S","gritty, mild bitter, off notes",75%,567
+Canada,2009,Venezuela,"4- B,S,C,V","dry, ashey, medicinal",80%,568
+Canada,2009,Mexico,"4- B,S,C,V","fatty, cigarette butt, coffee",70%,569
+Canada,2009,Brazil,"4- B,S,C,V","oily, muted, fruity",70%,570
+Canada,2009,Brazil,"4- B,S,C,V","roasty, tart, slight burnt",80%,571
+Canada,2009,Venezuela,"4- B,S,C,V","slow, fatty, subdued, nutty",70%,572
+U.S.A.,2020,Guatemala,"2- B,S","rich, raisiny, molasses",70%,573
+U.S.A.,2020,Venezuela,"2- B,S","mild lemon, cocoa, crisp nibs",75%,574
+U.S.A.,2020,Belize,"2- B,S","fruity, honey, cocoa, roasty",70%,575
+U.S.A.,2020,Madagascar,"2- B,S","cherry, perfectly balanced roast",67%,576
+U.S.A.,2021,Tanzania,"2- B,S","roasty, cocoa, sandy, coffee AT",75%,577
+U.S.A.,2021,Bolivia,"2- B,S","hint of lemon, classic brownie",75%,578
+Martinique,2013,Martinique,"4- B,S,V,L","gritty, sweet, hot cocoa",42%,579
+U.S.A.,2018,Peru,"2- B,S","sweet, sandy, spicy",70%,580
+U.S.A.,2018,Peru,"3- B,S,C","bold, spice, hit of anise",75%,581
+U.S.A.,2019,Vietnam,"3- B,S,C","roasty, hammy, nutty",72%,582
+U.S.A.,2019,Costa Rica,"3- B,S,C","cocoa, woody, basic",70%,583
+U.S.A.,2019,Ecuador,"3- B,S,C","rich cocoa, floral, acidic",73%,584
+U.S.A.,2019,Tanzania,"3- B,S,C","basic cocoa,mild fruit, sweet",72%,585
+U.S.A.,2019,Dominican Republic,"3- B,S,C","smooth, spicy, cocoa",72%,586
+U.S.A.,2019,Brazil,"3- B,S,C","creamy, dried fruit, nutty",70%,587
+U.S.A.,2009,Venezuela,"5- B,S,C,V,L","sweet, peanut butter",61%,589
+U.S.A.,2010,Venezuela,"3- B,S,C","red berry, bitter, roasty, sour",77%,590
+Sao Tome,2008,Blend,"3- B,S,C","bitter, light lime, sour",80%,592
+Sao Tome,2008,Blend,"3- B,S,C","dry, sandy, cocoa, coffee",75%,593
+Sao Tome,2010,Blend,"2- B,S","short,mild cocoa, mild fruit",73.5%,594
+U.S.A.,2021,Dominican Republic,"3- B,S,C","spice, earthy, honey, sour",70%,595
+U.S.A.,2021,Haiti,"3- B,S,C","blueberry, sweet edge, pure",79%,596
+U.S.A.,2015,Ecuador,"2- B,S","creamy, floral, bourbon",73%,597
+Canada,2020,Peru,"3- B,S,C","balanced, anise, creamy",70%,598
+St. Lucia,2019,St. Lucia,"4- B,S,C,V","raw, dirty, metallic, dry",70%,599
+U.S.A.,2021,Peru,"3- B,S,C","molasses, dried fruit, tart, off",68%,600
+U.S.A.,2021,Madagascar,"2- B,S","Rich cocoa, tart, papery",77%,601
+U.S.A.,2021,Colombia,"3- B,S,C","sweet, cocoa, cardboard off",70%,602
+U.S.A.,2015,Ecuador,"2- B,S","bold, roasty, sticky, brownie",76%,608
+U.S.A.,2016,Vietnam,"2- B,S","woody, nutty, off sour note",78%,609
+U.S.A.,2021,Philippines,"3- B,S,C","cocoa, grass, off notes",70%,610
+U.S.A.,2021,Ivory Coast,"3- B,S,C","off, harsh, dirty, chemical",70%,611
+U.S.A.,2021,Peru,"3- B,S,C","spicy, vanilla, sweet, cocoa",68%,612
+U.S.A.,2021,Tanzania,"3- B,S,C","cocoa, mild fruit",75%,613
+Germany,2007,Madagascar,"3- B,S,C","creamy, woodsy, cocoa",72%,614
+Germany,2008,Mexico,"3- B,S,C","intense, tangy, berry, sour",72%,615
+Germany,2008,Venezuela,"3- B,S,C","lemon, sour, slight metallic",72%,616
+Germany,2009,Peru,"3- B,S,C","creamy, buttery, non descript",72%,617
+Germany,2009,Peru,"3- B,S,C","woodsy, nutty",62%,618
+Germany,2009,Venezuela,"3- B,S,C","slow, less intense berry, nutty",70%,619
+Germany,2009,Venezuela,"3- B,S,C","dark berry, winey",70%,620
+Germany,2010,Ecuador,"3- B,S,C","harsh aroma, melon floral,off",72%,621
+Germany,2010,Venezuela,"3- B,S,C","fruity, bland",70%,622
+Germany,2010,Trinidad,"3- B,S,C","dry, spicy, woody",72%,623
+Germany,2010,Grenada,"3- B,S,C",coffee and cocoa,72%,624
+Germany,2010,Jamaica,"3- B,S,C","oily, fatty, rum",72%,625
+Germany,2010,Venezuela,"3- B,S,C","oily, coffee",72%,626
+Germany,2012,Ghana,"3- B,S,C","silky, minty",85%,628
+Germany,2012,Madagascar,"3- B,S,C","sandy, sweet, tart red berry",70%,629
+Germany,2012,Blend,"3- B,S,C","creamy, nutty, cocoa",72%,630
+Germany,2013,Ecuador,"4- B,S,C,L","oily, fragrant, spciy",65%,631
+Germany,2017,Ghana,"3- B,S,C","oily, rich cocoa, nutty",75%,632
+Australia,2012,Tanzania,"3- B,S,C","spice, roasty, off fatty note",75%,634
+Australia,2012,Brazil,"3- B,S,C","sandy, sweet, smokey",65%,635
+Australia,2012,Fiji,"3- B,S,C","acidic, sweet, cucumber",67%,636
+Australia,2012,Vanuatu,"3- B,S,C","sandy, sweet, spicy, roasty",64%,637
+Australia,2012,Papua New Guinea,"3- B,S,C","sandy, sweet, nutty",75%,638
+Australia,2014,Papua New Guinea,"3- B,S,C","true to sugar, molasses",70%,639
+Australia,2014,Vanuatu,"3- B,S,C",banana nut,83%,640
+U.S.A.,2016,Ecuador,"3- B,S,C","oily, mild bitter, nutty, fruit",85%,641
+U.S.A.,2016,Ecuador,"3- B,S,C","creamy, complex, fruity",73%,642
+U.S.A.,2020,Dominican Republic,"2- B,S","deep cherry, earthy, rubbery",70%,643
+U.S.A.,2020,Colombia,"2- B,S","nutty, citrus",70%,644
+U.S.A.,2020,Ecuador,"2- B,S","bold, black tea, floral, banana",70%,645
+U.S.A.,2020,Honduras,"2- B,S","banana, spicy, grassy",70%,646
+U.S.A.,2021,India,"2- B,S","sticky, cocoa, honey",70%,647
+U.S.A.,2020,Guatemala,"3- B,S,C","sandy, sweet, basic cocoa base",70%,648
+U.S.A.,2020,Haiti,"3- B,S,C",rich malt,70%,649
+U.S.A.,2020,Belize,"3- B,S,C","raspberry, cocoa",75%,650
+U.S.A.,2020,Mexico,"3- B,S,C","raisins, honey, molassses",70%,651
+Mexico,2021,Mexico,"2- B,S","deep cocoa, fruit, melon",73%,652
+Australia,2011,Australia,"5- B,S,C,V,L","vanilla, banana, citrus",70%,653
+Australia,2015,Australia,"3- B,S,C","sandy, candy like vanilla, off",70%,654
+U.S.A.,2017,Dominican Republic,"2- B,S","hammy, sour, astringent",72%,655
+U.K.,2015,Grenada,"3- B,S,C","off, pungent, intense",70%,656
+U.K.,2015,Nicaragua,"3- B,S,C","oily, grapes, pungent",70%,657
+U.K.,2015,Trinidad,"3- B,S,C","floral, sour, synthetic, off",70%,658
+U.K.,2015,Ecuador,"3- B,S,C","floral, banana",70%,659
+U.K.,2018,Blend,"4- B,S,C,L","sweet, vinegar",65%,660
+U.S.A.,2021,Puerto Rico,"4- B,S,C,L","harsh woody/green, cocoa base",68%,661
+U.S.A.,2021,India,"4- B,S,C,L","fresh fruit, sour cherry, roasty",72%,662
+U.S.A.,2021,Peru,"4- B,S,C,L","raisiny, slight anise, roasty",72%,663
+U.S.A.,2012,Costa Rica,"2- B,S","dried fruit, tannic",70%,664
+U.S.A.,2012,Colombia,"2- B,S","grassy, green, candy spice",70%,665
+U.S.A.,2012,Dominican Republic,"2- B,S","spicy, fudgey",70%,666
+U.S.A.,2013,Venezuela,"2- B,S","acidic, sour, cocoa",70%,667
+U.S.A.,2013,Venezuela,"2- B,S","licorice, sour, rich cocoa",70%,668
+U.S.A.,2013,Venezuela,"2- B,S","roasty, oreo shell, coffee",70%,669
+U.S.A.,2013,Papua New Guinea,"2- B,S","mild smoke, raspberry,cocoa",70%,670
+U.S.A.,2014,Liberia,"2- B,S","roasty, spicy, nutty",70%,671
+U.S.A.,2014,Belize,"2- B,S","heavy roast, blackberry",70%,672
+U.S.A.,2014,Ecuador,"2- B,S","gummy, nutty, bourbon",70%,673
+U.S.A.,2014,Dominican Republic,"2- B,S","cherry, rich choco",70%,674
+U.S.A.,2015,Belize,"2- B,S","intense, roasty, coffee, raisin",70%,675
+U.S.A.,2016,Dominican Republic,"2- B,S","cherry, rich choco",70%,676
+U.S.A.,2017,Costa Rica,"2- B,S","cocoa, sour, toffee, earthy",70%,677
+U.S.A.,2018,Sierra Leone,"2- B,S","vegetal, high astringency",70%,678
+U.S.A.,2018,Honduras,"2- B,S","nutty, moderate acidity",70%,679
+U.S.A.,2018,India,"2- B,S","ripe orange, citrus",70%,680
+U.S.A.,2019,Vietnam,"2- B,S","green apple, sticky",70%,681
+U.S.A.,2021,Guatemala,"2- B,S","pungent, woody, choco pudding",70%,682
+U.S.A.,2021,India,"2- B,S","pungent, sour, tart, intense",70%,683
+U.S.A.,2021,Peru,"2- B,S","grape, pungent",70%,684
+U.S.A.,2021,India,"2- B,S","orange soda, sour",70%,685
+U.S.A.,2021,Tanzania,"2- B,S","dairy, honey, cocoa",70%,686
+U.S.A.,2021,Dominican Republic,"2- B,S","faint fruit, basic fudgey",70%,687
+U.S.A.,2021,Brazil,"2- B,S",distinct choco and graham,70%,688
+U.S.A.,2011,Dominican Republic,"2- B,S","grassy, fruity, brownie",70%,689
+U.S.A.,2011,Madagascar,"2- B,S","brownie, red berry",70%,690
+U.S.A.,2011,Tanzania,"2- B,S",cocoa flavor dominates,70%,691
+U.S.A.,2021,Dominican Republic,"2- B,S","light caramel, sl. dry, earthy",70%,692
+Guatemala,2009,Guatemala,"4- B,S,C,V","dark woody, plum, astringent",75%,693
+Guatemala,2009,Guatemala,"4- B,S,C,V","wood, holiday spice, soap",60%,694
+Guatemala,2011,Guatemala,"4- B,S,C,V","oily, dried fruit, vanilla",60%,695
+Guatemala,2012,Venezuela,"4- B,S,C,V","gummy, fatty, caramel",75%,696
+Guatemala,2012,Guatemala,"2- B,S","nutty, ashey, spicy pepper",70%,697
+Guatemala,2012,Guatemala,"2- B,S",spicy,70%,698
+Guatemala,2012,Madagascar,"2- B,S","oily, toffee, hints of fruit",70%,699
+Guatemala,2012,Guatemala,"2- B,S","sweet spice, floral",70%,700
+Guatemala,2014,Guatemala,"4- B,S,C,V","fatty, sunflower, peanutbutter",82%,701
+U.S.A.,2016,Venezuela,"2- B,S","nut, tobacco, burnt, off notes",72%,702
+U.S.A.,2016,Vietnam,"2- B,S","raisins, astringent",72%,703
+U.S.A.,2016,Blend,"2- B,S","floral, licorice, roasty",70%,704
+Belgium,2019,Peru,"4- B,S,C,L","muted, creamy, grapes, fatty",72%,705
+Belgium,2019,Vietnam,"4- B,S,C,L","muted, creamy, basic cocoa",70%,706
+U.S.A.,2015,Madagascar,"3- B,S,C","sweet, strong sour, acidic",70%,707
+U.S.A.,2015,Tanzania,"3- B,S,C","intense, sweet, brownie",70%,708
+U.S.A.,2015,Venezuela,"3- B,S,C","roasty, nutty, sweet",70%,709
+U.S.A.,2015,Ecuador,"3- B,S,C","bold, floral, rum",70%,710
+U.S.A.,2016,Bolivia,"3- B,S,C","mild cherry, fatty",75%,711
+U.S.A.,2012,Blend,"4- B,S,C,L","nice melt, odd rubber notes",58%,712
+U.S.A.,2013,Ghana,"4- B,S,C,L","vanilla, fatty, basic cocoa",70%,713
+U.S.A.,2013,Dominican Republic,"4- B,S,C,L","chalky, vanilla, caramel",70%,714
+U.S.A.,2013,Venezuela,"4- B,S,C,L","fatty, powdery, nut, sl. Burnt",70%,715
+Brazil,2015,Brazil,"3- B,S,C","texture issues, brownie",72%,716
+Brazil,2015,Brazil,"3- B,S,C","one dimensional, brownie",65%,717
+South Africa,2016,Uganda,"3- B,S,C","high roast, intense, fatty",70%,718
+South Africa,2016,Madagascar,"3- B,S,C","high roast, fruit",70%,719
+U.S.A.,2007,Madagascar,"4- B,S,C,V","sandy, cloying, rich cocoa",66%,720
+U.S.A.,2007,Costa Rica,"4- B,S,C,V","dark coffee, cocoa",64%,721
+U.S.A.,2007,Ecuador,"4- B,S,C,V","cinamon, nutmeg, coffee",71%,722
+U.S.A.,2007,Ghana,"4- B,S,C,V","nutty, simple, sweet",60%,723
+U.S.A.,2007,Papua New Guinea,"4- B,S,C,V","waxy, tobacco, smokey",64%,724
+U.S.A.,2007,Peru,"4- B,S,C,V","mild mint, basic cocoa",64%,725
+France,2008,Venezuela,"4- B,S,C,V","fatty, rich cocoa, roasty",66%,726
+France,2009,Papua New Guinea,"4- B,S,C,V","smokey,chalky,berry,caramel",64%,727
+Dominican Republic,2018,Dominican Republic,"2- B,S","metallic, dirt/ earthy",70%,728
+Dominican Republic,2018,Dominican Republic,"2- B,S","dirty, floral, unrefined",70%,729
+Dominican Republic,2018,Dominican Republic,"2- B,S","mild bitter, fatty, grassy",80%,730
+Canada,2016,Tanzania,"2- B,S","vanilla, chemical, rubber",72%,731
+Canada,2019,Guatemala,"2- B,S","smokey, roasty, acidic, rich",72%,732
+U.S.A.,2007,Costa Rica,"2- B,S","red berry, lingering coffee",77%,733
+U.S.A.,2007,Dominican Republic,"2- B,S","sticky, woodsy, rum",77%,734
+U.S.A.,2008,Bolivia,"2- B,S","intense fruit, bitter ending",80%,735
+U.S.A.,2011,Madagascar,"2- B,S","sandy, flat, hint of berry",80%,736
+U.S.A.,2011,Venezuela,"2- B,S","sticky, very roasty, nutty",75%,737
+U.S.A.,2011,Dominican Republic,"2- B,S","earthy, tart, sour",74%,738
+U.S.A.,2011,Ecuador,"2- B,S","grassy, tea, late sour",70%,739
+U.S.A.,2012,Bolivia,"2- B,S","dry, mint, medicinal",75%,740
+U.S.A.,2013,Ecuador,"2- B,S","oily, black pepper, roasty",70%,741
+U.S.A.,2013,Ecuador,"2- B,S","butter, floral, rum",76%,742
+U.S.A.,2014,Dominican Republic,"2- B,S","mild fruit and spice, roasty",74%,743
+U.S.A.,2015,Bolivia,"2- B,S","sticky, rich, cherry",70%,744
+U.S.A.,2016,Vietnam,"2- B,S","tropical berry, intense",78%,745
+U.S.A.,2017,Guatemala,"2- B,S","blackberry, raisns",70%,746
+U.S.A.,2017,Brazil,"2- B,S","sticky, roasty nibs, grapes",75%,747
+U.S.A.,2017,Solomon Islands,"2- B,S","well defined, creamy, cherry",72%,748
+U.S.A.,2018,Fiji,"2- B,S","cocoa, tea, malt",80%,749
+U.S.A.,2019,Madagascar,"2- B,S","sticky, dried fruit, toast, cocoa",72%,750
+U.S.A.,2019,Belize,"2- B,S","creamy, sticky, dried fruit",72%,751
+U.S.A.,2020,Blend,"2- B,S","burnt honey, earthy",73%,752
+U.S.A.,2021,Jamaica,"2- B,S","sl. bitter, black licorice, dried fig",75%,753
+U.S.A.,2021,Mexico,"2- B,S","dried fruit, fig, astringent, sticky",72%,754
+Sao Tome & Principe,2019,Sao Tome,"4- B,S,C,L","late cocoa, harsh, off notes",75%,755
+Sao Tome & Principe,2019,Sao Tome,"4- B,S,C,L","cocoa, raw, dirty, chemical",70%,756
+Sao Tome & Principe,2019,Sao Tome,"4- B,S,C,L","complex, sweet, sour, grassy",65%,757
+Sao Tome & Principe,2019,Sao Tome,"4- B,S,C,L","bland, fatty, fruit",75%,758
+U.K.,2014,Panama,"3- B,S,C","mild cherry, earthy",72%,759
+U.K.,2014,Venezuela,"3- B,S,C","fatty, rasin, nutty",72%,760
+U.K.,2014,Nicaragua,"3- B,S,C","nutty, caramel, toffee",72%,761
+U.K.,2015,Venezuela,"3- B,S,C","intense, spicy, floral",85%,762
+Belgium,2006,Blend,"3- B,S,L","acidic, astringent, unpleasant",70%,764
+Belgium,2008,Blend,"3- B,S,L","sticky, floral",88%,765
+Italy,2006,Venezuela,"2- B,S","long lasting, fruit",70%,766
+Italy,2006,Peru,"2- B,S","floral, olive",70%,767
+Italy,2006,Venezuela,"2- B,S","creamy, basic cocoa",70%,768
+Italy,2007,Venezuela,"2- B,S","sticky, smoke, ham, earthy",75%,769
+Italy,2007,Venezuela,"2- B,S","mild spice, licorice",60%,770
+Italy,2007,Madagascar,"2- B,S","fruity, basic cocoa",70%,771
+Italy,2007,Madagascar,"2- B,S","smooth, banana, cocoa",70%,772
+Italy,2007,Indonesia,"2- B,S","creamy, smokey, tobacco",70%,773
+Italy,2007,Venezuela,"2- B,S","creamy, complex, coffee",70%,774
+Italy,2007,Ecuador,"2- B,S","creamy, nuts, woody, cocoa",70%,775
+Italy,2007,Venezuela,"2- B,S","creamy, mint, tobacco, olive",70%,776
+Italy,2008,Venezuela,"2- B,S","cucumber, hot spices",70%,777
+Italy,2008,Colombia,"2- B,S","creamy, woody, earthy",70%,778
+Italy,2008,Blend,"2- B,S","sticky, grassy, coffee",78%,779
+Italy,2008,Blend,"2- B,S","sticky, olive",70%,780
+Italy,2010,Venezuela,"2- B,S","subtle, caramel, sour milk",70%,781
+Italy,2011,Venezuela,"2- B,S","smooth, intense, smoke, nut",70%,782
+Italy,2012,Tanzania,"2- B,S","sticky, nutty",70%,783
+Italy,2012,Venezuela,"2- B,S","creamy, coffee, caramel",70%,784
+Italy,2015,Ecuador,"2- B,S","floral, well developed, creamy",70%,786
+Italy,2015,Venezuela,"2- B,S","nutty, strawberry, creamy",70%,787
+Italy,2018,Tanzania,"2- B,S","creamy, sticky, fruit",70%,788
+U.K.,2015,Venezuela,"3- B,S,C","burnt rubber, molasses",70%,789
+U.K.,2015,Colombia,"3- B,S,C","bitter,molasses,marshmallow",80%,790
+U.K.,2015,Madagascar,"3- B,S,C","fruity, molasses",77%,791
+U.K.,2016,Grenada,"3- B,S*,C","licorice, molasses, rubber",75%,792
+U.K.,2018,Philippines,"3- B,S*,C",molasses notes from sugar,71.50%,793
+U.K.,2018,Guatemala,"3- B,S*,C","near perfect shine, cocoa",72%,794
+U.K.,2018,Peru,"2- B,S*","molasses, fruit",80%,795
+U.K.,2021,Belize,"3- B,S,C",molasses notes dominate,78%,796
+U.S.A.,2019,Dominican Republic,"2- B,S","dry, earthy, walnut",75%,797
+U.S.A.,2019,Tanzania,"2- B,S","dry, sour, sweet, mild fruit",70%,798
+U.S.A.,2019,Dominican Republic,"2- B,S","dry, cocoa, grassy, spicy",75%,799
+U.K.,2010,Ecuador,"3- B,S,C","chalky, bread, dirt",70%,800
+U.K.,2010,Panama,"3- B,S,C",caramel and cocoa,70%,801
+U.K.,2010,Ecuador,"3- B,S,C","rich cocoa, fruity, strong floral",72%,802
+U.K.,2010,Peru,"3- B,S,C","dark forest berry, spice",70%,803
+U.K.,2011,Panama,"3- B,S,C","licorice, leathery",72%,804
+U.K.,2011,Nicaragua,"3- B,S,C","intense, almond, coffee",71%,805
+U.K.,2011,Dominican Republic,"3- B,S,C","heavy roast, woody, berry",65%,806
+U.K.,2011,Venezuela,"3- B,S,C",intense cocoa,71%,807
+U.K.,2011,Honduras,"3- B,S,C","dried fruit, grapes, sour",72%,808
+U.K.,2012,Venezuela,"3- B,S,C","creamy, nutty",72%,809
+U.K.,2014,Nicaragua,"4- B,S,C,L","sandy, full bodied, spicy",70%,810
+U.K.,2014,Nicaragua,"4- B,S,C,L","black pepper, rich, intense",76%,811
+U.K.,2015,Guatemala,"4- B,S,C,L","intense, spicy, butterscotch",70%,812
+U.K.,2017,Nigeria,"4- B,S,C,L",candy like off flavor,70%,813
+U.K.,2018,Guatemala,"4- B,S,C,L","intense earthy, cocoa, roasty",80%,814
+U.K.,2019,Philippines,"4- B,S,C,L","cocoa, honey, watery, sweet",70%,815
+U.K.,2021,Nicaragua,"4- B,S,C,L","fruit, holiday spice",70%,816
+U.S.A.,2015,Dominican Republic,"2- B,S","coarse, earthy, mild banana",70%,817
+U.S.A.,2015,Dominican Republic,"3- B,S,C","dates, acidic, rich cocoa",70%,819
+U.S.A.,2015,Venezuela,"3- B,S,C","cherry, earthy, tobacco",70%,820
+U.S.A.,2015,Peru,"3- B,S,C","sandy, orange, butterscotch",70%,821
+U.S.A.,2015,Venezuela,"3- B,S,C","fatty, roasty, intense brownie",70%,822
+U.S.A.,2015,Ecuador,"3- B,S,C",blackberry and cinnamon,70%,823
+U.S.A.,2018,Peru,"3- B,S,C","smoth, dense, grape",70%,824
+Canada,2014,Peru,"3- B,S,C","waxy, spicy, tobacco",70%,825
+Canada,2014,Madagascar,"3- B,S,C",ultra fruity,70%,826
+Canada,2014,Dominican Republic,"3- B,S,C","spicy, cocoa",70%,827
+Canada,2016,Colombia,"3- B,S,C","dried fruit, strong floral",70%,828
+Canada,2016,Colombia,"3- B,S,C","mild, dried fruit, chocolate",70%,829
+U.S.A.,2012,Peru,"3- B,S,C","buttery, burlap",72%,830
+U.S.A.,2019,Peru,"2- B,S","nutty, almond butter",80%,831
+Germany,2016,Venezuela,"2- B,S","dry, gritty, cardboard, nutty",68%,832
+U.S.A.,2020,Madagascar,"2- B,S","molasses, red fruit, astringent",70%,833
+U.S.A.,2020,Colombia,"2- B,S","cocoa, spice, alcohol, dirty",70%,834
+Bolivia,2008,Bolivia,"4- B,S,C,L","lemon, tart, burnt, chemical",71%,835
+Bolivia,2011,Bolivia,"4- B,S,C,L","nutty, rich, red berry",75%,836
+Venezuela,2006,Venezuela,"5- B,S,C,V,L","gritty, chalky, earthy, sour",70%,837
+Venezuela,2008,Venezuela,"5- B,S,C,V,L","sandy, banana, sour",74%,838
+Venezuela,2008,Venezuela,"5- B,S,C,V,L","gritty, sweet, banana, smoke",58%,839
+Venezuela,2008,Venezuela,"5- B,S,C,V,L","muted, cherry, banana",61%,840
+Venezuela,2009,Venezuela,"5- B,S,C,V,L","very sweet, marshmallow",60.5%,841
+Venezuela,2009,Venezuela,"5- B,S,C,V,L","sandy,bold,cherry,peanut butter",70%,842
+Venezuela,2015,Venezuela,"5- B,S,C,V,L","spicy, caramel, vanilla",70%,843
+U.S.A.,2019,Guatemala,"3- B,S,C","cocoa, fig notes",70%,844
+St. Lucia,2013,St. Lucia,"2- B,S","low refinement, too sweet",60%,845
+St. Lucia,2013,St. Lucia,"2- B,S","sandy, tannic, earthy",70%,846
+Japan,2015,Venezuela,"3- B,S,C","coarse, woody, roasty",79%,847
+Japan,2015,Peru,"3- B,S,C","brownine, nutty",78%,848
+France,2018,Dominican Republic,"2- B,S","earthy, floral, cocoa",70%,849
+France,2018,Haiti,"2- B,S","simple, mild cocoa, fruit",70%,850
+France,2018,Guatemala,"2- B,S","spicy, sweet,",70%,851
+France,2018,Madagascar,"2- B,S","fruity, roasty",70%,852
+U.S.A.,2016,Honduras,"2- B,S","carrots, heavy roast",75%,853
+U.S.A.,2018,Vietnam,"2- B,S","intens, brownie, spicy, metal",72%,854
+U.S.A.,2019,Sierra Leone,"3- B,S,C","dirty, earthy, burnt, honey",70%,855
+U.S.A.,2019,Tanzania,"3- B,S,C","fruit, dirty",80%,856
+U.S.A.,2019,Trinidad,"3- B,S,C","muddy, raisins, nut, rubbery",72%,857
+France,2014,Vietnam,"3- B,S,C","mild bitter, smoke, hammy",80%,859
+France,2014,Vietnam,"3- B,S,C","spicy, green, long, intense",70%,860
+France,2014,Vietnam,"3- B,S,C","grit,smoke, wood, blackberry",74%,861
+U.S.A.,2008,Venezuela,"4- B,S,C,V","woody, cocoa",72%,862
+U.S.A.,2009,Costa Rica,"4- B,S,C,V","sticky, slight plum, medicinal",65%,863
+U.S.A.,2009,Blend,"4- B,S,C,V","sweet, vanilla, sticky",74%,864
+U.S.A.,2009,Venezuela,"4- B,S,C,V","hazelnut, fruit, slight bitter",81%,865
+U.S.A.,2012,Venezuela,"4- B,S,C,V","nutty, ginger, off notes",70%,866
+U.S.A.,2021,Blend,"3- B,S,C","sweet, too few nibs, cocoa",65%,867
+U.S.A.,2021,Colombia,"2- B,S","mild licorice, late mocha",70%,868
+U.S.A.,2011,Blend,"4- B,S,C,V","gritty,overyly sweet,fruit punch",55%,869
+U.S.A.,2011,Trinidad,"4- B,S,C,V","grits, very sweet, banana",55%,870
+U.S.A.,2011,Venezuela,"4- B,S,C,V","strong vanilla, strawberry, nut",70%,871
+U.S.A.,2011,Blend,"4- B,S,C,V","gritty, sweet, vanilla, woody",62%,872
+U.S.A.,2011,Blend,"4- B,S,C,V","sweet, vanilla, mild banana",62%,873
+U.S.A.,2014,Belize,"3- B,S,C","mild fruit, earthy",80%,874
+U.S.A.,2014,Ecuador,"3- B,S,C","spicy, roasty, mild bitter",80%,875
+U.S.A.,2014,Dominican Republic,"3- B,S,C","coarse, mild bitter, raisin",80%,876
+U.S.A.,2018,Guatemala,"3- B,S,C",prominent plum note,80%,877
+U.S.A.,2021,Uganda,"3- B,S,C","sandy, basic cocoa, sweet",70%,878
+U.S.A.,2019,Peru,"3- B,S,C",dominated by heavy roast,73%,879
+U.S.A.,2010,Brazil,"2- B,S","perfume, floral, vanilla",75%,880
+Portugal,2016,Venezuela,"2- B,S","fatty, sandy, nutty, off notes",76%,881
+Portugal,2016,Belize,"2- B,S","metallic, off notes, powdery",76%,882
+Portugal,2016,Jamaica,"2- B,S","roasty, spicy, nutty",76%,883
+Switzerland,2006,Blend,"5- B,S,C,V,L","malitol, cocoa",62%,884
+Switzerland,2006,Madagascar,"5- B,S,C,V,L","basic cocoa, short length",64%,885
+Switzerland,2006,Venezuela,"5- B,S,C,V,L","creamy, floral, complex",65%,886
+Switzerland,2006,Dominican Republic,"5- B,S,C,V,L","creamy, roasty, cocoa",74%,887
+Switzerland,2006,Ecuador,"5- B,S,C,V,L","fatty, rich, spice, nutty",72%,888
+Switzerland,2006,Bolivia,"5- B,S,C,V,L","complex, raspberry, cocoa",68%,889
+Switzerland,2010,Grenada,"5- B,S,C,V,L","spicey, marshmallow",58%,890
+U.S.A.,2014,Puerto Rico,"3- B,S,C","intense, molasses, sweet",65%,891
+U.S.A.,2014,Dominican Republic,"3- B,S,C","intense, molasses, bitter",85%,892
+U.S.A.,2014,Dominican Republic,"3- B,S,C","molasses, licorice, bitter",80%,893
+U.S.A.,2014,Dominican Republic,"3- B,S,C","sandy, sweet, mild fruit",70%,894
+Canada,2020,Honduras,"3- B,S,C","off, hammy, roasty",70%,895
+Canada,2020,Colombia,"3- B,S,C","nutty, melon, vinegar",70%,896
+Canada,2020,Mexico,"3- B,S,C","banana, bland, sour, off",70%,897
+Canada,2020,Blend,"3- B,S,C","fruit, cocoa, fatty",70%,898
+U.K.,2019,Philippines,"4- B,S,C,L","creamy, honey, mild hammy",73%,899
+U.K.,2019,Papua New Guinea,"4- B,S,C,L","caramel, acidic, creamy",72%,900
+U.K.,2019,Solomon Islands,"4- B,S,C,L","plums, cocoa",69%,901
+U.K.,2019,Vanuatu,"4- B,S,C,L","cherry, cocoa, creamy",72%,902
+U.S.A.,2018,Belize,"2- B,S","hammy, dried fruit",75%,903
+U.S.A.,2018,Guatemala,"2- B,S","hammy, large grits",75%,904
+U.S.A.,2018,Colombia,"2- B,S","high acidity, bitter, nutty",75%,905
+U.S.A.,2018,Dominican Republic,"2- B,S","roasty, simple",75%,906
+Norway,2018,Madagascar,"3- B,S,C","molasses, sour notes",70%,907
+Norway,2018,India,"3- B,S,C","muted, mild sweet cocoa",68%,908
+Norway,2018,Tanzania,"3- B,S,C","fruit, spicy mild molasses",70%,909
+U.K.,2014,Peru,"3- B,S*,C","coconut, true to sugar bar",72%,910
+Puerto Rico,2016,Dominican Republic,"6-B,S,C,V,L,Sa","strong vanilla, earthy, nutty",70%,911
+Puerto Rico,2016,Dominican Republic,"6-B,S,C,V,L,Sa","vanilla, dried fruit, nuts",80%,912
+Singapore,2016,Madagascar,"2- B,S","gummy, bland, sour",70%,913
+Singapore,2016,Ecuador,"2- B,S","sticky, floral",75%,914
+Singapore,2016,Tanzania,"2- B,S","gummy, sandy, complex",67%,915
+Singapore,2018,Dominican Republic,"2- B,S","coffee, acidic, astringent",72%,916
+Singapore,2018,Bolivia,"2- B,S","nuts, sour milk",70%,917
+Singapore,2018,Indonesia,"2- B,S","sandy, powdery, late sour",70%,918
+Singapore,2018,Philippines,"2- B,S","sandy, dried fruit, roasty",70%,919
+Singapore,2018,Haiti,"2- B,S","roasty, hazelnut, cocoa",68%,920
+Singapore,2019,Mexico,"2- B,S","sticky, dried sour fruit, roasty",70%,921
+Singapore,2019,Madagascar,"2- B,S","roasted nuts, citrus, creamy",70%,922
+Singapore,2021,Indonesia,"2- B,S","dried fruit (fig), black licorice",72%,923
+Singapore,2021,Malaysia,"2- B,S","dairy, cocoa, mild sour",72%,924
+New Zealand,2019,Papua New Guinea,"2- B,S","off, tropical, vegetal, rubbery",70%,925
+New Zealand,2019,Bolivia,"2- B,S","honey, mild floral, mild off",70%,926
+New Zealand,2019,Vanuatu,"2- B,S","fruit, smokey, mocha",70%,927
+New Zealand,2019,Colombia,"2- B,S","dirty, roasty, acidic",70%,928
+New Zealand,2019,Tanzania,"2- B,S","nutty, bland, late sour",70%,929
+New Zealand,2019,Ecuador,"2- B,S","floral, orange, cocoa",70%,930
+New Zealand,2019,Peru,"2- B,S","fig, mild anise",70%,931
+Venezuela,2012,Venezuela,"3- B,S,C","grits, hazelnut, rum",60%,932
+Venezuela,2012,Venezuela,"3- B,S,C","nutty, dried fruit",70%,933
+Venezuela,2014,Venezuela,"3- B,S,C","intense, tobacco, nuts",70%,934
+Venezuela,2014,Venezuela,"3- B,S,C","caramel, dairy",70%,935
+Venezuela,2018,Venezuela,"4- B,S,C,L","large grits, sweet",60%,936
+Venezuela,2018,Venezuela,"3- B,S,C",large grits,70%,937
+Venezuela,2018,Venezuela,"2- B,S","sl. dry, gritty, fruity, nuts",85%,938
+Venezuela,2018,Venezuela,"3- B,S,C","dried fruit, large grits",70%,939
+Venezuela,2018,Venezuela,"2- B,S",nutty,72%,940
+Belgium,2014,Ghana,"4- B,S,C,L","coarse, hazelnut, peanut",60%,941
+Belgium,2014,Madagascar,"4- B,S,C,L",banana,65%,942
+Belgium,2015,Vietnam,"4- B,S,C,L","intense, bitter, off notes",80%,943
+Belgium,2015,Costa Rica,"4- B,S,C,L","few grits, spicy, cocoa",70%,944
+Belgium,2015,Peru,"4- B,S,C,L","very coarse, intense, spice",75%,945
+U.S.A.,2011,Peru,"2- B,S","coarse,perfume,heavy roast",70%,946
+U.S.A.,2011,Dominican Republic,"2- B,S",choco covered strawberry,65%,947
+U.S.A.,2012,Peru,"2- B,S*","sandpaper, some fruit, bitter",81%,948
+U.S.A.,2012,Peru,"2- B,S","fruit, cough medicine",70%,949
+U.S.A.,2012,Peru,"2- B,S*","olive, rum",66%,950
+U.S.A.,2013,Peru,"2- B,S","spice, citrus, sweet",66%,951
+U.S.A.,2014,Costa Rica,"2- B,S","mild bitter, roasty, red berry",80%,952
+U.S.A.,2014,Nicaragua,"2- B,S","sweet, tobacco",68%,953
+U.S.A.,2015,Guatemala,"2- B,S","roasty, grapes, rich brownie",73%,954
+U.S.A.,2017,Peru,"2- B,S","slight dry, citrus, grapefruit",70%,955
+U.S.A.,2019,India,"3- B,S,C","tea, spicy, sweet",71%,956
+U.S.A.,2009,Jamaica,"3- B,S,C","slightly burnt, earthy",80%,957
+U.S.A.,2009,Jamaica,"3- B,S,C","creamy, simple, nutty",70%,958
+U.S.A.,2009,Jamaica,"3- B,S,C","creamy, roasty, tobacco",70%,959
+U.S.A.,2009,Venezuela,"3- B,S,C","complex, mild licorice, spice",65%,960
+U.S.A.,2011,Ghana,"3- B,S,C","mild bitter, mild cocoa, roasty",74%,961
+U.S.A.,2011,Madagascar,"3- B,S,C","woody, red fruit, sour",74%,962
+U.S.A.,2011,Madagascar,"3- B,S,C","sandy, cocoa, red fruit",74%,963
+U.S.A.,2011,Jamaica,"3- B,S,C","grassy, brownie, astringent",70%,964
+U.S.A.,2011,Dominican Republic,"3- B,S,C","spicy, cocoa",72%,965
+U.S.A.,2011,Venezuela,"3- B,S,C","bready, nutty, earthy,intense",76%,966
+U.S.A.,2011,Dominican Republic,"3- B,S,C","red berry, some roasty notes",72%,967
+U.S.A.,2011,Jamaica,"3- B,S,C","woody, grassy, long",70%,968
+U.S.A.,2011,Venezuela,"3- B,S,C","tart, roasted cocoa",70%,969
+U.S.A.,2012,Papua New Guinea,"2- B,S","sandy, smoke, red berry",69%,970
+U.S.A.,2012,Papua New Guinea,"2- B,S",mild smoke and fruit,69%,971
+U.S.A.,2012,Papua New Guinea,"2- B,S","smoke, fruit, sour, hammy",69%,972
+U.S.A.,2012,Madagascar,"3- B,S,C","caramel, nuts, dried fruit",74%,973
+U.S.A.,2012,Papua New Guinea,"2- B,S","tart, red berry, smoke",69%,974
+U.S.A.,2013,Dominican Republic,"3- B,S,C",mildly burnt caramel,72%,975
+U.S.A.,2013,Dominican Republic,"3- B,S,C","blackberries, caramel, roasty",72%,976
+U.S.A.,2013,Peru,"3- B,S,C",cocoa and fresh grapes,70%,977
+U.S.A.,2013,Peru,"3- B,S,C",chocolate covered banana,70%,978
+U.S.A.,2014,Peru,"3- B,S,C","light color, leathery flavor",70%,979
+U.S.A.,2014,Peru,"3- B,S,C","orange, mellow but flavorful",70%,980
+U.S.A.,2014,Peru,"3- B,S,C","fruity, floral, caramel",70%,981
+U.S.A.,2014,Peru,"3- B,S,C","slow develop, caramel, roasty",70%,982
+U.S.A.,2017,Guatemala,"3- B,S,C","rich cocoa, mild, fatty",70%,983
+U.S.A.,2017,Guatemala,"3- B,S,C","rich cocoa, nuts",70%,984
+U.S.A.,2017,Guatemala,"3- B,S,C","long lasting, fruit, spicy",70%,985
+U.S.A.,2018,Venezuela,"3- B,S,C","roasty, mild fatty",72%,986
+U.S.A.,2018,Venezuela,"3- B,S,C","complex, nuts, spice, floral",72%,987
+U.S.A.,2021,Peru,"3- B,S,C","licorice, caramel, floral, dirty",74%,988
+U.S.A.,2021,Ghana,"3- B,S,C","coconut, high astringency",68%,989
+U.S.A.,2021,Peru,"3- B,S,C","spicey, herbal, ripe, sl. burnt",74%,990
+U.S.A.,2021,Ghana,"3- B,S,C","fudgey, spicey, nutty",68%,991
+U.S.A.,2021,Nicaragua,"3- B,S,C","oily, black licorice, spicey",70%,992
+U.S.A.,2021,Madagascar,"3- B,S,C","raspberry, mild sour, cocoa",70%,993
+U.S.A.,2021,Nicaragua,"3- B,S,C","rich chocolate, late spice notes",70%,994
+U.S.A.,2021,Venezuela,"3- B,S,C","robust cocoa, dried cranberry",68%,995
+U.S.A.,2017,Brazil,"2- B,S","creamy, fragrant",70%,996
+U.S.A.,2017,Tanzania,"2- B,S","creamy, simple, strong choco",70%,997
+U.S.A.,2014,Belize,"2- B,S","spice, fatty, mild cocoa",70%,998
+U.S.A.,2014,Madagascar,"2- B,S","strong fruit, ham, deep cocoa",70%,999
+U.S.A.,2014,Peru,"2- B,S","banana, yogurt, cocoa",70%,1000
+Denmark,2016,Nicaragua,"2- B,S","vegetal, herbs, raw",70%,1001
+Denmark,2017,Nicaragua,"3- B,S,C","creamy, black pepper, nut",70%,1002
+Denmark,2018,Nicaragua,"3- B,S,C","sweet, metallic",60%,1003
+Denmark,2018,Nicaragua,"3- B,S,C","floral, sticky",70%,1004
+Denmark,2018,Nicaragua,"3- B,S,C","woody, grassy, spicy",70%,1005
+Denmark,2018,Nicaragua,"3- B,S,C","high acidity, grassy",70%,1006
+Denmark,2018,Nicaragua,"3- B,S,C","unique flavor, floral-spice mix",68%,1007
+Denmark,2018,Nicaragua,"3- B,S,C","delicate, balanced",70%,1008
+Denmark,2018,Nicaragua,"3- B,S,C","strong cocoa, orange citrus",70%,1009
+Denmark,2018,Nicaragua,"3- B,S,C","cocoa, savory",70%,1010
+Denmark,2018,Nicaragua,"3- B,S,C","black pepper,high astringency",70%,1011
+Denmark,2018,Guatemala,"3- B,S,C","honey, deep cocoa",70%,1012
+Denmark,2018,Nicaragua,"3- B,S,C","banana,dairy, cocoa",70%,1013
+Denmark,2011,Nicaragua,"3- B,S,C","fatty, leathery, earthy",70%,1014
+Denmark,2011,Nicaragua,"3- B,S,C","tobacco, woody, wild berry",70%,1015
+Denmark,2011,Nicaragua,"3- B,S,C","roasty, fatty, woody",70%,1016
+Denmark,2012,Nicaragua,"3- B,S,C","intense olive, citrus, vegetal",70%,1017
+Denmark,2012,Honduras,"3- B,S,C","spicy, earthy",70%,1018
+Denmark,2012,Nicaragua,"3- B,S,C","oily, fatty, bold olive",70%,1019
+Denmark,2012,Nicaragua,"3- B,S,C","oily, gritty, savory",70%,1020
+Denmark,2013,Nicaragua,"3- B,S,C","oily, burnt black pepper",70%,1021
+Denmark,2013,Nicaragua,"3- B,S,C",baked bread,70%,1022
+Denmark,2014,Nicaragua,"3- B,S,C","mild fatty, nutty, roasty",70%,1023
+Denmark,2015,Nicaragua,"3- B,S,C","oily, sweet, dairy, bland",60%,1024
+Denmark,2015,Nicaragua,"3- B,S,C","oily, spicy, sour",85%,1025
+U.S.A.,2011,Costa Rica,"3- B,S,C","fatty, sweet, vanilla",70%,1026
+U.S.A.,2011,Costa Rica,"3- B,S,C","cocoa, spicy, sweet",66%,1027
+U.S.A.,2012,Peru,"3- B,S,C","oily, tart, chlorine",70%,1028
+U.S.A.,2013,Ecuador,"3- B,S,C","sandy,sweet, molasses,floral",75%,1029
+U.S.A.,2013,Dominican Republic,"3- B,S,C","dried fruit, intense",70%,1030
+U.S.A.,2014,Peru,"3- B,S,C","acidic, undefined, brownie, off",76%,1031
+U.S.A.,2014,Trinidad,"3- B,S,C","delicate, hebs, choco",70%,1032
+U.S.A.,2016,Bolivia,"2- B,S","oily, tropical",74%,1033
+U.S.A.,2016,Costa Rica,"2- B,S","oily, dried fruit, leather",74%,1034
+U.S.A.,2019,Colombia,"2- B,S","black current,bitter,astringent",85%,1035
+U.S.A.,2019,Madagascar,"2- B,S","balanced, fruit, nut, roasty",74%,1036
+U.S.A.,2021,Dominican Republic,"2- B,S","sl. bitter up front, fatty, intense",77%,1037
+U.S.A.,2021,Dominican Republic,"4- B,S,C,V","dried fruit, cocoa base, fatty",68%,1038
+U.S.A.,2021,Peru,"3- B,S,C","black licorice, tangy",72%,1039
+Taiwan,2018,Taiwan,"3- B,S,C",cheesy off flavor,70%,1040
+Taiwan,2018,Madagascar,"2- B,S","grainy texture, sour, hammy",70%,1041
+Taiwan,2018,Tanzania,"2- B,S","accessible, sweet, sandy",70%,1042
+Taiwan,2018,Venezuela,"3- B,S,C","dried fruit, cocoa",70%,1043
+U.S.A.,2014,U.S.A.,"3- B,S,V","gritty, ambiguous",85%,1044
+Germany,2015,Madagascar,"4- B,S,C,L","sandy, sweet, candy tart",65%,1045
+Germany,2015,Dominican Republic,"4- B,S,C,L","sticky, spice, roasty, earthy",70%,1046
+Germany,2015,Dominican Republic,"4- B,S,C,L","deep cocoa, fruit, spice",80%,1047
+Germany,2015,Madagascar,"4- B,S,C,L","red fruit, tart, fat, leathery",75%,1048
+Germany,2015,Ghana,"4- B,S,C,L",cocoa and coconut,70%,1049
+Germany,2017,St. Lucia,"3- B,S,C","chewy, woody, rustic",77%,1050
+Germany,2017,Venezuela,"3- B,S,C","fatty, creamy, roasty",75%,1051
+Germany,2018,Guatemala,"3- B,S,C","dry, grainy, spicy, roasty",72%,1052
+Germany,2019,Venezuela,"3- B,S,C","earthy, roasty, strong vanilla",75%,1053
+U.S.A.,2015,Brazil,"2- B,S","mild woody, black licorice",66%,1054
+U.S.A.,2016,Belize,"2- B,S","mild strawberry, cocoa",70%,1055
+U.S.A.,2016,Mexico,"3- B,S,C","sour off flavor, nutty, earthy",77%,1056
+U.S.A.,2016,Guatemala,"3- B,S,C","sweet edge, bright fruit, sour",77%,1057
+U.S.A.,2016,Nicaragua,"3- B,S,C","mild molasses, rich, gateway",77%,1058
+U.S.A.,2017,Peru,"3- B,S,C","creamy, fig",70%,1059
+U.S.A.,2019,Colombia,"3- B,S,C","acidic, mildly burnt, metallic",73%,1060
+U.S.A.,2019,Costa Rica,"3- B,S,C","floral, rubbery, woody",73%,1061
+U.S.A.,2021,Ecuador,"3- B,S,C","banana, cocoa, late floral",70%,1062
+U.S.A.,2018,Belize,"2- B,S","fruit, tart, rubber",70%,1063
+U.S.A.,2021,India,"2- B,S","sweet, dominate cocoa, spice",70%,1064
+U.S.A.,2021,Bolivia,"2- B,S",spice/herb dominate cocoa base,70%,1065
+U.S.A.,2021,Dominican Republic,"2- B,S","sandy, sweet, earthy,deep cocoa",70%,1066
+Vietnam,2011,Vietnam,"5- B,S,C,V,L","fatty, vanilla, dairy",72%,1067
+U.S.A.,2021,Madagascar,"3- B,S,C","fruity, cocoa, sweet",72%,1068
+U.S.A.,2021,Tanzania,"3- B,S,C","nutty, spicy, candied orange",70%,1069
+U.S.A.,2021,Dominican Republic,"3- B,S,C","dried fruit, orange peel, cocoa",75%,1070
+U.S.A.,2021,Vietnam,"3- B,S,C","roasty, sweet, fruity, cocoa",73%,1071
+U.K.,2006,Blend,"5- B,S,C,V,L","mildly rich, basic, roasty",70%,1072
+Japan,2016,Madagascar,"2- B,S","rich, coffee, cherry",70%,1073
+Japan,2019,Peru,"2- B,S","sour grapes, pungent, ashey",73%,1074
+U.K.,2021,India,"3- B,S,C","spicy, vanilla",70%,1075
+Grenada,2008,Grenada,"5- B,S,C,V,L","very sour, grassy, fatty",71%,1076
+Grenada,2009,Grenada,"5- B,S,C,V,L","very sweet, coffee, mild sour",60%,1077
+Grenada,2010,Grenada,"5- B,S,C,V,L","chunky, muted, mild bitter",82%,1078
+Italy,2009,Ecuador,"4- B,S,C,L","sl. sweet, nutty, off note",64%,1079
+Italy,2009,Ghana,"4- B,S,C,L","hot cocoa, very nutty",64%,1080
+Italy,2009,Blend,"4- B,S,C,L","light perfume, mild, sweet",64%,1081
+Italy,2009,Venezuela,"4- B,S,C,L","gritty, roasty, strong coffee",76%,1082
+Italy,2009,Blend,"4- B,S,C,L","mild nutty, spicy, brownie",64%,1083
+Italy,2018,Madagascar,"4- B,S,C,L","earthy, chemical or burnt note",70%,1084
+U.S.A.,2006,Venezuela,"5- B,S,C,V,L","sweet, creamy, vanilla",65%,1085
+U.S.A.,2006,Colombia,"5- B,S,C,V,L","creamy, sweet, floral, vanilla",65%,1086
+U.S.A.,2006,Blend,"5- B,S,C,V,L","fatty, cocoa, fruity",61%,1087
+U.S.A.,2006,Madagascar,"5- B,S,C,V,L","creamy, sweet, blueberry",65%,1088
+U.S.A.,2006,Ecuador,"5- B,S,C,V,L","creamy, blackberry",65%,1089
+U.S.A.,2006,Blend,"5- B,S,C,V,L","sweet, rich cocoa, mild citrus",61%,1090
+U.S.A.,2007,Blend,"5- B,S,C,V,L","creamy,sandy,nutmeg, moss",72%,1091
+U.S.A.,2008,Peru,"5- B,S,C,V,L","sweet, vanilla, rich",65%,1092
+U.S.A.,2008,Blend,"5- B,S,C,V,L","perfume, vanilla",64%,1093
+U.S.A.,2008,Venezuela,"5- B,S,C,V,L","creamy, nutty",65%,1094
+U.S.A.,2009,U.S.A.,"5- B,S,C,V,L","sweet, mild lemon",55%,1095
+U.S.A.,2009,Blend,"5- B,S,C,V,L","bitter, fatty, fruit",91%,1096
+U.S.A.,2009,Blend,"5- B,S,C,V,L","complex, fruit, nut, raisin",70%,1097
+U.S.A.,2010,Trinidad,"5- B,S,C,V,L","creamy, mild tobacco, ham",65%,1098
+U.S.A.,2011,Blend,"5- B,S,C,V,L","dutched?, intense, rich cocoa",72%,1099
+U.S.A.,2011,Blend,"5- B,S,C,V,L","sweet, creamy, floral, orange",61%,1100
+U.S.A.,2011,Blend,"5- B,S,C,V,L","dry, sticky, brownie",72%,1101
+U.S.A.,2013,Haiti,"5- B,S,C,V,L","creamy, sl. Burnt, roasty",65%,1102
+U.S.A.,2013,Nicaragua,"5- B,S,C,V,L","floral, over roasted, harsh",65%,1103
+U.S.A.,2013,Jamaica,"5- B,S,C,V,L","sweet, vanilla, cocoa",65%,1104
+U.S.A.,2013,Ecuador,"5- B,S,C,V,L","very spicy, roasty",65%,1105
+U.S.A.,2015,Blend,"5- B,S,C,V,L","nutty, black licorice",70%,1106
+Canada,2014,Papua New Guinea,"3- B,S,C","smokey, cherries, sour",80%,1108
+Canada,2014,Blend,"3- B,S,C","XL nibs, sour, cardboard",74%,1109
+Canada,2014,Blend,"3- B,S,C","molasses, sweet, long,cocoa",65%,1110
+Canada,2014,Blend,"3- B,S,C","fatty, nutty, earthy",70%,1111
+Canada,2014,Blend,"3- B,S,C","sandy, roasted vegetal",80%,1112
+Canada,2014,Dominican Republic,"3- B,S,C","chalky, berry, cocoa",75%,1113
+Canada,2014,U.S.A.,"3- B,S,C","muted, mild fruit, sweet",66%,1114
+Canada,2014,Blend,"3- B,S,C","sandy, intense, cherry",70%,1115
+Germany,2007,Ecuador,"4- B,S,C,V","buttery, floral, burnt",77%,1116
+Ecuador,2014,Ecuador,"4- B,S,C,L","overyly sweet, banana, yogurt",55%,1117
+Ecuador,2014,Ecuador,"4- B,S,C,L","chewy, fatty, sweet, nutty",70%,1118
+U.S.A.,2015,Brazil,"3- B,S,C","sandy, sweet, dried fruit",67%,1120
+U.S.A.,2015,Brazil,"3- B,S,C","rich chocolate, sweet edge",77%,1121
+U.S.A.,2015,Brazil,"3- B,S,C","rich chocolate, sandy texture",74%,1122
+U.S.A.,2016,Brazil,"3- B,S,C","powdery, rich, coffee, roasty",85%,1123
+U.S.A.,2018,Brazil,"3- B,S,C","flat, late tart notes",75%,1124
+U.K.,2019,India,"3- B,S,C","sandy, sweet, cocoa",70%,1125
+U.K.,2019,Vietnam,"3- B,S,C","sandy, brownie, coconut",70%,1126
+U.S.A.,2019,Peru,"3- B,S,C","pungent, chemical",65%,1127
+U.S.A.,2019,Tanzania,"3- B,S,C","cocoa, fatty, fruit",72%,1128
+U.S.A.,2019,Dominican Republic,"3- B,S,C","earthy, dirty, dried fruit",70%,1129
+Mexico,2021,Mexico,"2- B,S","delicate, carame, tang",70%,1130
+Germany,2016,Peru,"3- B,S,L","powdery, vanilla, artificial",64%,1131
+Netherlands,2019,Indonesia,"4- B,S,C,L","rubber, fatty, sandy,grape",71%,1132
+Netherlands,2019,Blend,"4- B,S,C,L","sandy, fatty, chemical",71%,1133
+Netherlands,2019,Venezuela,"4- B,S,C,L","nutty, sweet, fatty, sandy",71%,1134
+U.S.A.,2016,Belize,"3- B,S,C","pungent raisin, metallic",70%,1135
+U.S.A.,2016,Costa Rica,"3- B,S,C","mostly earthy, mild dried fruit",74%,1136
+U.S.A.,2014,Bolivia,"3- B,S,C","woody, earthy, medicinal",67%,1137
+U.S.A.,2014,Bolivia,"3- B,S,C",full flavor spectrum,67%,1138
+U.S.A.,2014,Ecuador,"3- B,S,C","nutty, butterscotch",67%,1139
+U.S.A.,2014,U.S.A.,"3- B,S,C","spicy, intense, fades fast",67%,1140
+U.S.A.,2016,U.S.A.,"3- B,S,C","astringent, smoke, cream",72%,1141
+U.S.A.,2016,Ecuador,"3- B,S,C",floral,70%,1142
+U.S.A.,2016,Ecuador,"3- B,S,C","strong floral, black licorice",77%,1143
+U.S.A.,2016,Bolivia,"3- B,S,C","creamy, mild nutty & woody",68%,1144
+U.S.A.,2016,Bolivia,"3- B,S,C","dark berry, honey, cream",72%,1145
+U.S.A.,2015,Uganda,"3- B,S,C","too sweet, spicy, candied",57%,1146
+U.S.A.,2015,Venezuela,"3- B,S,C","sandy, sweet, mild fruit",74%,1147
+U.S.A.,2021,Ecuador,"2- B,S","harsh, earthy, dirty",70%,1148
+U.S.A.,2021,Nicaragua,"2- B,S","delicate fruit, black tea",70%,1149
+U.S.A.,2015,Tanzania,"2- B,S*","intense, palm, earthy",70%,1150
+U.S.A.,2015,Madagascar,"2- B,S*","sandy, tart, tangy, palm",74%,1151
+U.S.A.,2015,Venezuela,"2- B,S*","intense, palm, nutty",70%,1152
+U.S.A.,2015,Ecuador,"2- B,S*","floral, palm, sour",73%,1153
+U.S.A.,2015,Peru,"2- B,S*","palm, spicy, flour",70%,1154
+U.S.A.,2018,Peru,"2- B,S*","light color, sour, pungent",70%,1155
+U.S.A.,2018,Ecuador,"2- B,S*","harsh flavor, hay",73%,1156
+U.S.A.,2018,Madagascar,"2- B,S*","sour, citrus, molasses",74%,1157
+U.S.A.,2018,Tanzania,"2- B,S*","lemon, late sour & molasses",70%,1158
+U.S.A.,2018,Dominican Republic,"2- B,S*","fruity, tannic, coconut",71%,1159
+New Zealand,2016,Madagascar,"3- B,S,C","sour, earthy",70%,1160
+New Zealand,2016,Venezuela,"3- B,S,C","nutty, off notes",72%,1161
+New Zealand,2016,Dominican Republic,"3- B,S,C","intense, bitter, coffee",75%,1162
+New Zealand,2016,Peru,"3- B,S,C","mild caramel, honey",66%,1163
+New Zealand,2019,Venezuela,"3- B,S,C","high acid,sweet,nut,strawberry",68%,1164
+New Zealand,2019,Ecuador,"3- B,S,C","butterscotch, burnt cinnamon",85%,1165
+Ecuador,2009,Ecuador,"4- B,S,C,L","perfume, burning",80%,1166
+Ecuador,2009,Ecuador,"2- B,S","sandy, perfume, nutty",80%,1167
+Ecuador,2009,Ecuador,"2- B,S","dry, floral, slight musty",72%,1168
+Ecuador,2009,Ecuador,"4- B,S,C,L","dry, intense floral, spciy",58%,1169
+Ecuador,2009,Ecuador,"4- B,S,C,L","dry, nutty, sweet",58%,1170
+Israel,2009,Ivory Coast,"2- B,S","dry, sour, cheesey, off",70%,1171
+Israel,2009,Dominican Republic,"2- B,S","sandy, red berry, sour",70%,1172
+Israel,2009,Peru,"2- B,S","coffee, red berry, tart",70%,1173
+Israel,2009,Dominican Republic,"2- B,S","red berry, cocoa, mild coffee",75%,1174
+Israel,2015,Ecuador,"4- B,S,C,L","floral, roasty, coffee",70%,1175
+Israel,2015,Madagascar,"4- B,S,C,L","rich cocoa, fatty",70%,1176
+Israel,2015,Trinidad,"4- B,S,C,L","creamy, nutty, tea, fatty",70%,1177
+Israel,2015,Venezuela,"4- B,S,C,L","muted, fatty, nutty",70%,1178
+Israel,2016,Peru,"4- B,S,C,L","sour, raw, green",70%,1179
+South Africa,2014,Ecuador,"2- B,S*","true to sugar, green, fatty",72%,1180
+U.K.,2013,St. Lucia,"2- B,S",cardamon,70%,1182
+U.K.,2015,St. Lucia,"2- B,S","smoke, cocoa, fruit, fuel",70%,1183
+U.K.,2018,Colombia,"4- B,S,C,L","dry, woody, dried fruit",75%,1184
+U.K.,2019,Honduras,"4- B,S,C,L","sour raisin, woody, fatty",72%,1185
+U.K.,2019,Tanzania,"4- B,S,C,L","fatty, mild bitter, banana",80%,1186
+U.K.,2008,Tanzania,"4- B,S,C,L","sandy, sweet, mild cocoa",75%,1188
+U.K.,2008,St. Lucia,"3- B,S,C","grassy, tobacco, intense",72%,1189
+U.K.,2008,Sao Tome,"4- B,S,C,L","fungal, mushroom, mild burn",72%,1190
+U.K.,2010,Venezuela,"4- B,S,C,L","ashey, woody, bright red",70%,1192
+U.K.,2011,Ecuador,"4- B,S,C,L","mild bitter, floral",80%,1194
+U.K.,2011,St. Lucia,"4- B,S,C,L","woody, nutty, short",65%,1195
+U.K.,2011,St. Lucia,"4- B,S,C,L","sweet, cocoa, grassy",65%,1196
+U.K.,2012,Madagascar,"4- B,S,V,L","sweet, red berry, sour",66%,1197
+U.K.,2013,Ecuador,1- B,"candy,uncontrolled bitterness",100%,1198
+U.K.,2013,Trinidad,"4- B,S,C,L","sandy, vegetal, sour",75%,1201
+U.K.,2013,Ecuador,"2- B,S","oily, leathery, intense bitter",90%,1202
+U.K.,2013,Madagascar,"4- B,S,C,L","nutty, mild coffee",72%,1203
+U.K.,2013,Vietnam,"4- B,S,C,L","tart, fruity, intense",80%,1204
+U.K.,2013,Ecuador,"2- B,S","oily, spicy, sl. Burnt",82%,1205
+Canada,2013,Venezuela,"3- B,S,C","fatty, gritty, roasty",70%,1206
+Canada,2013,Venezuela,"3- B,S,C","nutty, coffee, rich",70%,1207
+Canada,2014,Bolivia,"3- B,S,C","intense, cherry, metallic",70%,1208
+Canada,2014,Bolivia,"3- B,S,C","woody, floral, metallic",70%,1209
+Canada,2014,Nicaragua,"3- B,S,C","earthy, metallic edge",70%,1210
+Canada,2014,Dominican Republic,"3- B,S,C","spicy, mild fruit, fatty",70%,1211
+Canada,2014,Dominican Republic,"3- B,S,C","raisins, rich choco",70%,1212
+Canada,2015,Vietnam,"3- B,S,C","spicy, mild roasty",70%,1213
+Switzerland,2011,Venezuela,"3- B,S,C","creamy, sour, raisin",72%,1214
+Switzerland,2011,Venezuela,"3- B,S,C","creamy, nutty, muted",72%,1215
+Switzerland,2011,Venezuela,"3- B,S,C","creamy, cocoa, lemon",72%,1216
+Switzerland,2011,Venezuela,"3- B,S,C","creamy, roasted nuts, fatty",72%,1217
+Switzerland,2011,Venezuela,"3- B,S,C","creamy, nutty, cocoa",72%,1218
+Switzerland,2011,Venezuela,"3- B,S,C","creamy, nutty, delicate fruit",74%,1219
+Switzerland,2011,Venezuela,"3- B,S,C","creamy, nutty, fruity",70%,1220
+Switzerland,2011,Venezuela,"3- B,S,C","peanut, coffee, cocoa, bread",72%,1221
+Switzerland,2011,Venezuela,"3- B,S,C","creamy, nutty, earthy",72%,1222
+Switzerland,2013,Venezuela,"3- B,S,C","fatty, rich, berry notes",72%,1223
+India,2016,India,"4- B,S,C,L","sour, sweet, rubber",61%,1224
+U.S.A.,2014,Honduras,"3- B,S,C","buttery, intense, spice, roasty",77%,1225
+U.S.A.,2017,Vietnam,"3- B,S,C","molasses, roasty",72%,1226
+Scotland,2012,Peru,"4- B,S*,C,L","very sandy, sweet, spicy",72%,1227
+Scotland,2012,Peru,"4- B,S*,C,L","sandy, caramel",72%,1228
+U.S.A.,2014,Peru,"2- B,S","off notes, pungent",72%,1229
+U.S.A.,2014,Belize,"2- B,S","mild metallic, spice, tea",72%,1230
+U.S.A.,2014,Dominican Republic,"2- B,S","roasty, nutty, spicy",72%,1231
+U.S.A.,2014,Madagascar,"2- B,S","intense, tart, earthy",72%,1232
+St.Vincent-Grenadines,2018,St.Vincent-Grenadines,"4- B,S,C,L","woody, meaty, vegetal",72%,1233
+U.S.A.,2015,Dominican Republic,"2- B,S","intense, molasses, fruit",70%,1234
+U.S.A.,2015,Belize,"2- B,S","intense, cherry, rich, metallic",70%,1235
+U.S.A.,2006,Ghana,"5- B,S,C,V,L","gritty, unrefined, off notes",71%,1236
+U.S.A.,2018,Venezuela,"3- B,S,C","sandy, sweet",72%,1237
+U.S.A.,2017,Jamaica,"4- B,S,C,L","candy like, sweet, dairy",67%,1238
+U.S.A.,2017,Peru,"4- B,S,C,L","floral, tobacco, candied",75%,1239
+U.S.A.,2017,Venezuela,"3- B,S,C","dairy, nutty, butterscotch",72%,1240
+U.S.A.,2017,Vietnam,"4- B,S,C,L","sweet, fruity, vanilla",65%,1241
+U.S.A.,2017,Ecuador,"4- B,S,C,L","floral, bourbon, salt",70%,1242
+U.S.A.,2017,Madagascar,"5- B,S,C,V,L","vanilla, gateway",68%,1243
+U.S.A.,2017,Ecuador,"4- B,S,C,L","full bodied, floral",78%,1244
+U.S.A.,2018,India,"4- B,S,C,L","gritty, coffee, sweet, hammy",66%,1245
+U.S.A.,2018,Colombia,"4- B,S,C,L","complex, bold, gritty",73%,1246
+U.S.A.,2018,Trinidad,"4- B,S,C,L","bold, spice, sour fruit, gritty",80%,1247
+Czech Republic,2015,Madagascar,"2- B,S","off note, vanilla, basic cocoa",63%,1248
+Czech Republic,2020,Venezuela,"3- B,S,C","harsh, burnt nuts, powdery",75%,1249
+Thailand,2018,Thailand,"3- B,S,C","floral, earthy, grassy",70%,1250
+Thailand,2018,Thailand,"3- B,S,C","nutty, cocoa, sour veggie",70%,1251
+Thailand,2018,Thailand,"3- B,S,C","herbal, tea-like",70%,1252
+Thailand,2018,Thailand,"3- B,S,C",brownie,70%,1253
+Dominican Republic,2013,Dominican Republic,"5- B,S,C,V,L","nutty, sour milk, off note",82%,1254
+Dominican Republic,2013,Dominican Republic,"5- B,S,C,V,L","very sweet, basic cocoa",55%,1255
+Dominican Republic,2013,Dominican Republic,"5- B,S,C,V,L","candy-like, peanut butter",62%,1256
+Dominican Republic,2013,Dominican Republic,"5- B,S,C,V,L","raisins, prunes",70%,1257
+U.S.A.,2020,Dominican Republic,"4- B,S,C,L","rich cocoa, dried fruit, roasty",68%,1258
+U.S.A.,2020,Dominican Republic,"3- B,S,C","light color, nutty, caramel",70%,1259
+U.S.A.,2020,Dominican Republic,"4- B,S,C,L","banana, fall spices, earthy",67%,1260
+Dominican Republic,2019,Dominican Republic,"3- B,S,C","sandy, sweet, acidic",70%,1261
+U.S.A.,2019,Dominican Republic,"4- B,S,C,L","creamy, black tea, vegetal",72%,1262
+Dominican Republic,2019,Dominican Republic,"3- B,S,C","creamy, balanced, fig, cocoa",71.50%,1263
+Dominican Republic,2019,Dominican Republic,"4- B,S,C,L","creamy, floral, dried fruit",68%,1264
+U.S.A.,2019,Dominican Republic,"4- B,S,C,L","creamy, distinct, dried fruit",65%,1265
+Spain,2019,Nicaragua,"3- B,S,C","spicy, tobacco",75%,1266
+Spain,2019,Peru,"3- B,S,C","muted, grapes, astringent",75%,1267
+Spain,2019,Tanzania,"3- B,S,C","base cocoa, fruit, fatty",75%,1268
+Ecuador,2008,Ecuador,"4- B,S,C,V","crumbly, vanilla, bitter",85%,1271
+Ecuador,2008,Ecuador,"4- B,S,C,V","grassy, earthy, coffee",75%,1272
+Ecuador,2008,Ecuador,"4- B,S,C,V","sweet, vanilla, coffee",75%,1273
+Ecuador,2008,Ecuador,"4- B,S,C,V","creamy, nutty, bitter, flat",85%,1274
+Ecuador,2008,Ecuador,"4- B,S,C,V","creamy, mild marshmallow",70%,1275
+Ecuador,2008,Ecuador,"4- B,S,C,V","spicy, mild bitter",85%,1276
+Ecuador,2008,Ecuador,"4- B,S,C,V","fruity,floral,cooling sensation",85%,1277
+Ecuador,2008,Ecuador,"4- B,S,C,V","intense, mint, marshmallow",70%,1278
+Canada,2021,Philippines,"3- B,S,C","licorice, melon",70%,1281
+Canada,2021,Papua New Guinea,"3- B,S,C","plum, molasses",70%,1282
+U.S.A.,2013,Dominican Republic,"3- B,S,C","fatty, dark berry, grassy",70%,1283
+Mexico,2009,Mexico,"5- B,S,C,V,L","sweet, vanilla domintates, nut",72%,1284
+Canada,2020,Colombia,"3- B,S,C","poor finish, cocoa, grassy",70%,1285
+U.S.A.,2014,Dominican Republic,"2- B,S","gritty, overly sweet, citrus",60%,1286
+Amsterdam,2017,Belize,"2- B,S","gritty, sour, berries",70%,1287
+Amsterdam,2017,Vietnam,"2- B,S","sticky, molasses, sour",70%,1288
+Amsterdam,2017,Mexico,"2- B,S","medium roast, nutty",70%,1289
+Amsterdam,2018,Madagascar,"2- B,S","roasty, nutty",70%,1290
+Amsterdam,2018,Philippines,"2- B,S","nuts, dried fruit, grassy",70%,1291
+Amsterdam,2018,Mexico,"2- B,S","intense, high acidity",70%,1292
+Netherlands,2019,Colombia,"2- B,S","light color,",70%,1293
+Amsterdam,2019,Papua New Guinea,"2- B,S","astringent, smomkey cocoa",70%,1294
+U.S.A.,2014,Peru,"2- B,S","intense, pungent, tangy",72%,1295
+U.S.A.,2014,Venezuela,"3- B,S,C","nutty, pungent, sour",72%,1296
+U.S.A.,2014,Belize,"3- B,S,C","nutty, sour milk",72%,1297
+U.S.A.,2014,Madagascar,"3- B,S,C","strawberry, intense, sour",72%,1298
+U.S.A.,2014,Belize,"2- B,S","intense, spicy, pungent",90%,1299
+U.S.A.,2014,Dominican Republic,"3- B,S,C","spicy, molasses, earthy",72%,1300
+U.S.A.,2014,Dominican Republic,"3- B,S,C","earthy, fatty, tea",72%,1301
+U.S.A.,2016,Peru,"4- B,S,C,L","astringent, unbalanced, off",70%,1302
+U.S.A.,2016,Haiti,"4- B,S,C,L","spicy, vanilla, dairy",70%,1303
+U.S.A.,2016,Brazil,"4- B,S,C,L","creamy, mild flavors",70%,1304
+U.S.A.,2016,Ecuador,"4- B,S,C,L",oranges,70%,1305
+U.S.A.,2014,Uganda,"5-B,S,C,V,Sa","vanilla, earth, cardboard",72.5%,1306
+U.S.A.,2014,Ecuador,"5-B,S,C,V,Sa","intense, bourbon, vanilla",72.5%,1307
+U.S.A.,2014,Dominican Republic,"5-B,S,C,V,Sa","vanilla, candy-like, sour milk",72.5%,1308
+U.S.A.,2014,Madagascar,"5-B,S,C,V,Sa",mild vanilla and mild fruit,72.5%,1309
+U.S.A.,2009,Bolivia,"5- B,S,C,V,L","rich, spice, cheese",68%,1310
+U.S.A.,2009,Madagascar,"5- B,S,C,V,L","smooth, rich, lemon",64%,1311
+U.S.A.,2010,Venezuela,"5- B,S,C,V,L","cocoa, nutty, acidic, burning",71%,1312
+U.S.A.,2010,Grenada,"5- B,S,C,V,L","creamy, cocoa, spice",75%,1313
+U.S.A.,2010,Dominican Republic,"5- B,S,C,V,L","simple, rich hot cocoa",74%,1314
+U.S.A.,2011,Ecuador,"5- B,S,C,V,L","spicy, roasty, coffee",74%,1315
+U.S.A.,2012,Peru,"5- B,S,C,V,L","floral, soapy, earthy",74%,1316
+U.S.A.,2012,Venezuela,"5- B,S,C,V,L","berry, rich cocoa dominates",68%,1317
+U.S.A.,2012,Brazil,"5- B,S,C,V,L","creamy, woody, nutty",70%,1318
+U.S.A.,2019,Fiji,"3- B,S,C","unrefined, sweet, basic cocoa",68%,1319
+U.S.A.,2018,Dominican Republic,"2- B,S","anise, spicy, earthy",70%,1324
+U.S.A.,2018,Peru,"2- B,S","earthy, molasses, dried fruit",75%,1325
+U.S.A.,2018,Belize,"4- B,S,C,L","molasses, high acidity",70%,1326
+U.S.A.,2018,Guatemala,"2- B,S","tart, molasses, grits",70%,1327
+France,2018,Belize,"2- B,S","fruit, cocoa, grape",70%,1328
+France,2018,Guatemala,"2- B,S","dry, melon, cocoa",70%,1329
+France,2019,Peru,"2- B,S","sandy, grapes",72%,1330
+France,2008,Blend,"4- B,S,C,L","roasty, dark berry, rich",74%,1331
+France,2009,Blend,"4- B,S,C,L","rich, sweet, cocoa, intense",60%,1332
+France,2009,Ghana,"4- B,S,C,L","rich cocoa, burning sensation",68%,1333
+France,2009,Venezuela,"4- B,S,C,L","nutty, grassy, rich cocoa",69%,1334
+France,2009,Blend,"4- B,S,C,L","cocoa, caramel, sweet",60%,1335
+France,2011,Grenada,"4- B,S,C,L","rich, vegetal, banana, spice",68%,1336
+France,2012,Dominican Republic,"4- B,S,C,L","nutty, pear, sour milk",66%,1337
+France,2013,Blend,"4- B,S,C,L","brownie, cocoa, sour, sweet",74%,1338
+France,2013,Tobago,"4- B,S,C,L","creamy, rich, dairy, nutty",60%,1339
+France,2013,Ecuador,"4- B,S,C,L","sweet, nutty, cocoa",56%,1340
+Mexico,2018,Mexico,"2- B,S","mild hammy, roasty, sour",70%,1343
+Mexico,2018,Mexico,"2- B,S","rich cocoa, mild fruit & nut",70%,1344
+Mexico,2018,Mexico,"2- B,S","citrus,prononced orange",70%,1345
+France,2014,Cuba,"4- B,S,C,L","fatty, roasty, coffee, off note",70%,1346
+France,2014,Blend,"4- B,S,C,L","nutty, woody, leathery",68%,1347
+France,2015,Madagascar,"4- B,S,C,L","roasty, sour, cardboard",75%,1348
+France,2015,Vietnam,"4- B,S,C,L","gritty, roasty, waxy, off",75%,1349
+France,2015,Cuba,"4- B,S,C,L","slight burnt, astringent, fruit",75%,1350
+France,2015,Ivory Coast,"4- B,S,C,L","roasty, nutty, rich cocoa",75%,1351
+France,2015,Peru,"4- B,S,C,L","sandy, fatty, roasty, fruit",75%,1352
+France,2015,Brazil,"4- B,S,C,L","smokey, rich cocoa, spice",75%,1353
+France,2015,Sao Tome,"4- B,S,C,L","rich, roasty, nutty, smoke",75%,1354
+France,2015,Vietnam,"4- B,S,C,L","creamy, mild honey, floral",75%,1355
+U.S.A.,2012,Venezuela,"5- B,S,C,V,L","chalky, fatty, sweet",75%,1358
+U.S.A.,2012,Venezuela,"5- B,S,C,V,L","chalky, cocoa, tangy",75%,1359
+U.S.A.,2012,Blend,"5- B,S,C,V,L","fatty, nutty, woody",72%,1360
+U.S.A.,2016,Nicaragua,"2- B,S","spicy, grassy, roasty",80%,1361
+U.K.,2018,Nicaragua,"3- B,S,C","simple, earthy, cocoa",71%,1362
+U.K.,2018,Honduras,"3- B,S,C","sandy, rich cocoa",70%,1363
+U.K.,2018,Nicaragua,"3- B,S,C","complex, dairy, roasty",73%,1364
+U.S.A.,2017,Bolivia,"3- B,S,C","well balanced, melon",74%,1365
+Belgium,2019,Colombia,"3- B,S,C","sandy, off, hammy",70%,1366
+Belgium,2019,Costa Rica,"3- B,S,C","base cocoa, mild ham, woody",70%,1367
+Belgium,2019,Peru,"3- B,S,C","sandy, light color, grape",70%,1368
+U.S.A.,2014,Peru,"2- B,S","intense, sticky, cocoa",70%,1369
+U.S.A.,2015,Costa Rica,"2- B,S","roasty, black pepper, woody",70%,1370
+U.S.A.,2015,Bolivia,"2- B,S","dried fruit, nutty, mushroom",70%,1371
+U.S.A.,2015,Dominican Republic,"2- B,S","red fruit, brownie",70%,1372
+U.S.A.,2015,Trinidad,"2- B,S","cocoa, spice, fruit",70%,1373
+U.S.A.,2015,Tanzania,"2- B,S","subtle, spicy, banana",70%,1374
+U.S.A.,2016,Liberia,"2- B,S","floral, black licorice",70%,1375
+U.S.A.,2017,Belize,"2- B,S","smokey, mild berry",70%,1376
+U.S.A.,2017,Honduras,"2- B,S","strong raspberry, mocha",70%,1377
+U.S.A.,2017,Peru,"3- B,S,C","mild, licorice, coffee, cocoa",70%,1378
+U.S.A.,2018,Ghana,"3- B,S,C",brownie,70%,1379
+U.S.A.,2019,Jamaica,"3- B,S,C","woody, mocha, molasses",70%,1380
+U.S.A.,2019,Bolivia,"3- B,S,C","spoiled milk, sweet, molasses",70%,1381
+U.S.A.,2021,Sao Tome & Principe,"3- B,S,C","buttery, sunflower, astringent",70%,1382
+U.S.A.,2021,U.S.A.,"3- B,S,C",home baked banana nut bread,70%,1383
+Finland,2014,Madagascar,"3- B,S,C","sandy, citrus",71%,1384
+Finland,2016,Madagascar,"2- B,S","sweet edge, bright fruit, off",70%,1385
+U.S.A.,2012,Blend,"2- B,S","grits, roasted, nutty",75%,1386
+U.S.A.,2012,Dominican Republic,"2- B,S","fatty, roasty, cocoa",74%,1387
+U.S.A.,2012,Peru,"2- B,S","creamy, strawberry, cocoa",65%,1388
+U.S.A.,2012,Bolivia,"2- B,S","fatty, nutty, melon like",68%,1389
+U.S.A.,2012,Bolivia,"2- B,S","fatty, grassy, cocoa",68%,1390
+U.S.A.,2012,Peru,"2- B,S","rich cocoa, spicy edge",68%,1391
+Switzerland,2007,Blend,"4- B,S,C,V","harsh burnt, mild cocoa, tang",85%,1392
+U.S.A.,2020,Sierra Leone,"2- B,S","grassy, rubbery, chemical",72%,1393
+U.S.A.,2020,India,"2- B,S","basic cocoa, dirty/burnt edge",72%,1394
+U.S.A.,2020,Vietnam,"2- B,S","spicy, sweet, cocoa",72%,1395
+Puerto Rico,2013,Puerto Rico,"5- B,S,C,V,L","black pepper, vanilla, harsh",65%,1396
+U.S.A.,2013,U.S.A.,"4- B,S,C,V","aluminum, mild coffee, roasty",71%,1397
+U.S.A.,2013,U.S.A.,"4- B,S,C,V","strong, brandy, smoke",72%,1398
+U.S.A.,2013,U.S.A.,"4- B,S,C,V","sandy, floral, vanilla, candy",70%,1399
+U.S.A.,2014,U.S.A.,"4- B,S,C,V","sweet, candy-like, nutty",65%,1400
+U.S.A.,2014,U.S.A.,"2- B,S","spicy, candied, complex",70%,1401
+U.S.A.,2014,U.S.A.,"4- B,S,C,V","dairy, pudding",75%,1402
+U.S.A.,2021,Bolivia,"3- B,S,C","sweet, sl. smokiness, fruit",70%,1403
+U.S.A.,2021,Belize,"3- B,S,C","cherry, fatty, cocoa",75%,1404
+U.S.A.,2015,Nicaragua,"2- B,S","multiple off flavors, metallic",75%,1405
+Taiwan,2018,Nicaragua,"2- B,S",potting soil,75%,1406
+Taiwan,2018,Sumatra,"2- B,S","smokey, earthy, cocoa",70%,1407
+Taiwan,2018,Nicaragua,"2- B,S","nutty, mild dairy",80%,1408
+Taiwan,2018,Nicaragua,"2- B,S",intense mocha flavor,78%,1409
+Brazil,2017,Brazil,"2- B,S","oily, burnt, earthy",81%,1410
+Brazil,2018,Brazil,"2- B,S","rustic, basic cocoa, earthy",70%,1411
+Brazil,2021,Brazil,"3- B,S,C","mild sweet honey, rum, off",70%,1412
+U.K.,2020,Papua New Guinea,"3- B,S,C","smoke, fruit, ham, fatty",72%,1413
+Colombia,2010,Blend,"5- B,S,C,V,L","very sweet, caramel, candy",46%,1414
+Colombia,2010,Blend,"5- B,S,C,V,L","sticky, marshmallow, cocoa",60%,1415
+Colombia,2010,Blend,"5- B,S,C,V,L","watered down coffee, cocoa",58%,1416
+Colombia,2010,Colombia,"5- B,S,C,V,L","marshmallow, rich brownie",65%,1417
+U.S.A.,2020,India,"3- B,S,C","deep cocoa, sl. pungent, sandy",72%,1418
+U.S.A.,2020,Madagascar,"3- B,S,C","roasted pear, cocoa, sour",73%,1419
+U.S.A.,2020,Tanzania,"3- B,S,C","fatty, dominant roast, spice",75%,1420
+U.S.A.,2020,Uganda,"3- B,S,C","candied, sweet cocoa, roasty",68%,1421
+U.S.A.,2020,Ivory Coast,"3- B,S,C","spice, coconut",67%,1422
+U.S.A.,2019,Uganda,"3- B,S,C","gritty, roasty, rubbery",75%,1425
+U.S.A.,2019,Ghana,"3- B,S,C","gritty, cocoa base, ashey",75%,1426
+Madagascar,2008,Madagascar,"5- B,S,C,V,L","sandy, red berry, cocoa",67%,1427
+Madagascar,2008,Madagascar,"5- B,S,C,V,L","sticky, bitter, nutty",75%,1428
+Madagascar,2008,Madagascar,"5- B,S,C,V,L","sandy, woody, peanut butter",70%,1429
+Madagascar,2008,Madagascar,"5- B,S,C,V,L","intense, nutty, cocoa",63%,1430
+U.S.A.,2021,Colombia,"2- B,S","very sticky, nutty, woody",70%,1431
+U.S.A.,2010,Mexico,"4- B,S,C,V","raisiny, chewy",72%,1432
+U.S.A.,2011,Dominican Republic,"4- B,S,C,V","sandy, sweet, strong vanilla",70%,1433
+U.S.A.,2011,Costa Rica,"4- B,S,C,V","sticky, strong vanilla, pepper",70%,1434
+U.S.A.,2012,U.S.A.,"4- B,S,C,V","creamy, vanilla, rich fruit",70%,1435
+U.S.A.,2012,U.S.A.,"4- B,S,C,V","creamy, burnt nuts, woody",70%,1436
+U.S.A.,2012,U.S.A.,"4- B,S,C,V","vanilla, brownie, peanut",70%,1437
+U.S.A.,2013,Puerto Rico,"4- B,S,C,V","intense vanilla, swiss miss",70%,1438
+U.S.A.,2013,U.S.A.,"4- B,S,C,V","fatty, vanilla, candy-like",70%,1439
+U.S.A.,2013,Mexico,"4- B,S,C,V","vanilla, earthy, caramel",70%,1440
+U.S.A.,2013,Brazil,"4- B,S,C,V","strong vanilla, nut, coffee",70%,1441
+U.S.A.,2017,Solomon Islands,"2- B,S","mild earthy, mild cocoa, nut",73%,1442
+Italy,2008,Tanzania,"4- B,S,C,V","chalky, astringent, vanilla",75%,1443
+Italy,2008,Ecuador,"4- B,S,V,L","creamy, nutty, mass market",70%,1444
+Italy,2008,Cuba,"5- B,S,C,V,L","nutty, cooling sensation",70%,1445
+Italy,2008,Dominican Republic,"5- B,S,C,V,L","creamy, hay, nutty",70%,1446
+Italy,2010,Ecuador,"4- B,S,C,L","strong vanilla, some spice",70%,1447
+Madagascar,2007,Madagascar,"4- B,S,C,L","cardboard, tea-like",75%,1448
+Madagascar,2007,Madagascar,"4- B,S,C,L","creamy, sublte grape notes",73%,1449
+Philippines,2013,Philippines,"5- B,S,C,V,L","sandy, sweet, cocoa",65%,1450
+Thailand,2018,Thailand,"3- B,S*,C","gummy, smokey, hammy",70%,1451
+U.S.A.,2009,U.S.A.,"5- B,S,C,V,L","sweet, vanilla, easter candy",55%,1452
+U.S.A.,2010,U.S.A.,"5- B,S,C,V,L","creamy, crunchy, very sweet",55%,1453
+Sweden,2016,Venezuela,"3- B,S,C","hammy, unrecognizable",70%,1454
+U.S.A.,2012,Dominican Republic,"3- B,S,C","berry, nutty, sour",74%,1455
+U.S.A.,2014,Peru,"3- B,S,C","rubber, off medicinal",74%,1456
+U.S.A.,2014,Venezuela,"3- B,S,C","nutty, green",74%,1457
+U.S.A.,2015,Ecuador,"2- B,S","soil, wet, off notes",74%,1458
+Colombia,2014,Colombia,"4- B,S,C,L","muted, nutty",70%,1459
+U.S.A.,2012,U.S.A.,"3- B,S,C","oily, tangy, fruit, earthy",72%,1460
+U.S.A.,2012,Peru,"3- B,S,C","banana, menthol, medicinal",72%,1461
+U.S.A.,2012,Liberia,"3- B,S,C","molassses, intense, off, herb",72%,1462
+U.S.A.,2012,U.S.A.,"3- B,S,C","molasses, sweet, cocoa",72%,1463
+U.S.A.,2013,U.S.A.,"3- B,S,C","orange, cocoa",72%,1464
+U.S.A.,2015,Papua New Guinea,"3- B,S,C","smoke, fruit",72%,1465
+U.S.A.,2015,Costa Rica,"3- B,S,C","dried fruit, balanced, cocoa",72%,1466
+U.S.A.,2017,Peru,"3- B,S,C","sweet, fatty, fig",70%,1467
+U.S.A.,2019,U.S.A.,"3- B,S,C","dried fruit,spicy,sticky,intense",70%,1468
+Poland,2012,Dominican Republic,"2- B,S","chewy, brownie like",70%,1469
+Poland,2012,Ecuador,"2- B,S","grits, roaste brownie",70%,1470
+Poland,2012,Ghana,"2- B,S","cocoa, coconut",70%,1471
+Poland,2014,Colombia,"2- B,S","coarse, intense, nutty",85%,1472
+Poland,2014,Venezuela,"2- B,S","nutty, intense, roasty",70%,1473
+Poland,2016,Peru,"3- B,S,C","nutty, roasty,",70%,1474
+Poland,2016,Nicaragua,"3- B,S,C","basic, balanced, deep cocoa",70%,1475
+U.S.A.,2015,Trinidad,"3- B,S,C","heavy roast, few grits, rich",70%,1476
+U.S.A.,2015,Colombia,"3- B,S,C","roasty, coffee, rubber",75%,1477
+U.S.A.,2015,Tanzania,"3- B,S,C","sweet, fatty, roasty",72%,1478
+U.S.A.,2015,Dominican Republic,"3- B,S,C","fruity, tangy, cocoa",70%,1479
+U.S.A.,2015,Peru,"3- B,S,C","delicate, caramel, peanut",62%,1480
+U.S.A.,2015,Ecuador,"3- B,S,C","coarse, floral, rum",70%,1481
+U.S.A.,2015,Nicaragua,"3- B,S,C","rich, bright fruit",70%,1482
+U.S.A.,2015,Peru,"3- B,S,C","lemon, spicy, cocoa",68%,1483
+U.S.A.,2015,Honduras,"3- B,S,C","grassy, woody, sweet",78%,1484
+U.S.A.,2016,Vietnam,"3- B,S,C","intense, sour, tart",75%,1485
+U.S.A.,2017,Vietnam,"2- B,S","earthy, tobacco, ashey",73%,1486
+U.S.A.,2018,Blend,"3- B,S,C","off notes, rubbery, hammy",72%,1487
+U.S.A.,2018,Mexico,"3- B,S,C","sweet, spicy, dirty",72%,1488
+U.S.A.,2018,Dominican Republic,"3- B,S,C","complex, creamy, cherry",72%,1489
+Peru,2016,Peru,"3- B,S,C","smokey, dirty, sour",70%,1490
+Peru,2021,Peru,"3- B,S,C","smoked nuts, tang",80%,1491
+Peru,2021,Peru,"3- B,S,C","mild orange, herbaceous",70%,1492
+U.S.A.,2021,Mexico,"3- B,S,C","earthy, musty, sweet",72%,1493
+U.S.A.,2021,Bolivia,"3- B,S,C","floral, earthy, acidic, harsh",72%,1494
+U.S.A.,2021,Brazil,"3- B,S,C","delicate, nutty, butterscotch",72%,1495
+Canada,2016,Blend,"2- B,S","earthy, coffee, roasty",75%,1496
+U.S.A.,2018,Haiti,"2- B,S","dried fruit, woody, dirty",75%,1497
+Vietnam,2012,Vietnam,"3- B,S,C","creamy, fatty, black pepper",80%,1498
+Vietnam,2012,Vietnam,"3- B,S,C",citrus,76%,1499
+Vietnam,2012,Vietnam,"3- B,S,C","roasty, coffee",72%,1500
+Vietnam,2012,Vietnam,"3- B,S,C","cocoa, spice, late sour",70%,1501
+Vietnam,2012,Vietnam,"3- B,S,C","sticky, pepper, cinamon, rich",78%,1502
+Vietnam,2012,Vietnam,"3- B,S,C","melon, roasty",74%,1503
+Vietnam,2013,Vietnam,"3- B,S,C","fatty, heavy roast, nutty",75%,1504
+Vietnam,2015,Vietnam,"2- B,S","long, mild honey, rich cocoa",85%,1505
+Vietnam,2015,Vietnam,"2- B,S","roasty, rich, coffee, nut",68%,1506
+Vietnam,2015,Vietnam,"2- B,S",spicy and fragrant,70%,1507
+Vietnam,2018,Vietnam,"3- B,S,C","fatty, roasty, nutty",75%,1508
+U.S.A.,2013,Dominican Republic,"4- B,S,C,V","waxy, rubber, medicinal",74%,1513
+U.S.A.,2013,Dominican Republic,"4- B,S,C,V","fatty, rubber, medicinal",89%,1514
+Austria,2016,Bolivia,"3- B,S,C","sticky, pungent, off note",76%,1515
+Austria,2016,Haiti,"3- B,S,C","sandy, earthy, sweet edge",82%,1516
+Austria,2016,Colombia,"3- B,S,C","sandy, mild floral, mild nutty",74%,1517
+U.S.A.,2010,Venezuela,"2- B,S","sticky, woody, musty",81%,1518
+U.S.A.,2010,Venezuela,"2- B,S","dry, sticky, nutty, earthy",75%,1519
+U.S.A.,2010,Dominican Republic,"2- B,S","sticky, earthy, coffee",70%,1520
+U.S.A.,2011,Venezuela,"2- B,S","gritty, high astringent, sour",81%,1521
+U.S.A.,2011,Papua New Guinea,"2- B,S","gritty, sticky, smoke,hammy",71%,1522
+U.S.A.,2011,Venezuela,"2- B,S","sandy, strawberry, sour",76%,1523
+U.S.A.,2011,Venezuela,"2- B,S","dry, sandy, intense, berry",70%,1524
+U.S.A.,2011,Peru,"2- B,S","orange,lemon,coffee ground",75%,1525
+U.S.A.,2011,Dominican Republic,"2- B,S","dry, gritty, red berry, coffee",73%,1526
+U.S.A.,2011,Blend,"2- B,S","rich cocoa, coffee, roasty",72%,1527
+U.S.A.,2011,Belize,"2- B,S","gritty, tangy, cocoa",70%,1528
+U.S.A.,2011,Dominican Republic,"2- B,S","gritty, raspberry, sour",74%,1529
+U.S.A.,2012,Blend,"2- B,S","gritty, overly tart, sour",72%,1530
+U.S.A.,2012,Venezuela,"2- B,S","gritty, sour, sweet",73%,1531
+U.S.A.,2012,Blend,"2- B,S","gritty, fruit, tart, rich",73%,1532
+U.S.A.,2014,Blend,"2- B,S","tart, deep choco",75%,1533
+U.S.A.,2015,Guatemala,"2- B,S","mild bitter, citrus, intense",76%,1534
+U.S.A.,2015,Tanzania,"2- B,S","green, vegetal, mild spice",74%,1535
+Australia,2013,Vanuatu,"3- B,S,C","sticky, butterscotch, nutty",72%,1536
+Australia,2013,Blend,"3- B,S,C","nutty, fruity, spicy",70%,1537
+Australia,2013,Madagascar,"3- B,S,C","sticky, red fruit",68%,1538
+Australia,2013,Papua New Guinea,"3- B,S,C","creamy, grassy, smoke, nut",74%,1539
+U.S.A.,2021,U.S.A.,"3- B,S,C","sweet, banana, mild sour orange",70%,1540
+U.S.A.,2014,Belize,"2- B,S","heavy roast, smoke",70%,1541
+U.S.A.,2014,Dominican Republic,"2- B,S","roasty, coffee",70%,1542
+U.S.A.,2014,Peru,"2- B,S","intense, burnt, bitter, spice",82%,1543
+U.S.A.,2014,Peru,"3- B,S,C","sweet, cherry, cream, raisin",63%,1544
+U.S.A.,2020,U.S.A.,"3- B,S,C","nutty, cheese, savory",70%,1545
+U.S.A.,2020,Vietnam,"3- B,S,C","roasty, hammy, dirty",75%,1546
+U.S.A.,2020,Madagascar,"3- B,S,C","sweet edge, sour fruit",65%,1547
+U.S.A.,2016,Dominican Republic,"2- B,S","gritty, sweet, earthy",72%,1548
+Canada,2020,Guatemala,"3- B,S,C","musty, woody, rubbery, roasty",70%,1549
+Canada,2020,Belize,"3- B,S,C","cocoa, strawberry",70%,1550
+U.S.A.,2014,Bolivia,"2- B,S","pungent, off",70%,1551
+U.S.A.,2014,Venezuela,"2- B,S","molasses, sweet, choco",70%,1552
+U.S.A.,2014,Belize,"2- B,S","spicy, metallic, molasses",70%,1553
+U.S.A.,2014,Nicaragua,"2- B,S","fatty, sligthly bland, earthy",70%,1554
+U.S.A.,2014,Dominican Republic,"2- B,S","high roast, nutty, deep choco",70%,1555
+Denmark,2019,Ecuador,"2- B,S*","floral, earthy, bitter",85%,1556
+Denmark,2019,Dominican Republic,"2- B,S*","dry, floral, dirty, coconut",70%,1557
+Denmark,2019,Philippines,"2- B,S*","smooth, coconut, cocoa",70%,1558
+Denmark,2019,Tanzania,"2- B,S*","creamy, coconut, cocoa",70%,1559
+Madagascar,2012,Madagascar,"4- B,S,C,L","sticky, tart, slight burnt",80%,1560
+Madagascar,2012,Madagascar,"4- B,S,C,L","uneven, smokey, hammy",72%,1561
+Honduras,2014,Honduras,"3- B,S,C","intense, ham, butterscotch",80%,1562
+Honduras,2014,Nicaragua,"3- B,S,C","acidic, pomegrant, brownie",70%,1563
+Honduras,2014,Honduras,"3- B,S,C","intense, grassy, spicy, rich",70%,1564
+Honduras,2014,Nicaragua,"3- B,S,C","dried fruit, rich cocoa",80%,1565
+Honduras,2015,El Salvador,"3- B,S,C","fatty, bitter, woody, roasty",80%,1566
+Honduras,2015,El Salvador,"3- B,S,C","dairy, caramel",70%,1567
+Brazil,2018,Brazil,"3- B,S,C","earthy, floral, rubbery",75%,1568
+Sweden,2014,Brazil,"3- B,S,C","fatty, creamy, olive",70%,1569
+Sweden,2014,Madagascar,"3- B,S,C","creamy, fatty, mild cherry",72%,1570
+Australia,2018,Solomon Islands,"3- B,S,C","roasty/smokey, high acidity",72%,1571
+Australia,2018,Solomon Islands,"3- B,S,C","dried fruit, mild hammy",67%,1572
+Amsterdam,2015,Blend,"3- B,S,V","accesible, simple cocoa note",70%,1573
+Germany,2018,Peru,"3- B,S,C","grape, mild smoke, sandy",70%,1574
+France,2006,Blend,"4- B,S,C,V","sweet, crisp nibs",60%,1575
+France,2006,Blend,"4- B,S,C,V",bitter coffee flavor,85%,1576
+France,2006,Blend,"4- B,S,C,V","smooth, bold, bitter",99%,1577
+France,2006,Sao Tome,"4- B,S,C,V","creamy, licorice, herbs",70%,1578
+France,2006,Dominican Republic,"4- B,S,C,V","creamy, raisins, licorice",67%,1579
+France,2006,Madagascar,"4- B,S,C,V","grapefruit, spices",65%,1580
+France,2006,Papua New Guinea,"4- B,S,C,V",tropical fruit and mild smoke,64%,1581
+France,2007,Venezuela,"4- B,S,C,V","cocoa, orange",66%,1582
+France,2007,Sao Tome,"4- B,S,C,V","creamy, smoke, raspberry",67%,1583
+France,2012,Mexico,"4- B,S,C,V","raisins, melon",66%,1584
+France,2017,Colombia,"4- B,S,C,V","sandy, earthy, fatty",69%,1585
+France,2019,Brazil,"4- B,S,C,V","sandy, grits, nutty, vanilla",70%,1586
+France,2019,Guatemala,"4- B,S,C,V","dairy, cocoa, fatty, apple",70%,1587
+U.S.A.,2012,Blend,"4- B,S*,C,Sa","chemical, salt, wtf",65%,1588
+U.S.A.,2012,Bolivia,"4- B,S*,C,Sa","sticky, cardboard,why bother",75%,1589
+U.S.A.,2012,Indonesia,"4- B,S*,C,Sa","leather, salt",70%,1590
+U.S.A.,2013,Dominican Republic,"3- B,S*,Sa","molassses, palm, spicy",75%,1591
+U.S.A.,2013,Belize,"4- B,S,C,Sa","strawberry, cream, spice",80%,1592
+U.S.A.,2015,Tanzania,"3- B,S,C","banana, melon, fatty",75%,1593
+U.S.A.,2015,Belize,"3- B,S,C","woody, lemon, mild bitter",80%,1594
+U.S.A.,2015,Trinidad,"3- B,S,C","black pepper, dairy",70%,1595
+U.S.A.,2015,Nicaragua,"3- B,S,C","rum, herbal, rich",70%,1596
+U.S.A.,2015,Dominican Republic,"3- B,S,C","spicy, rich, mint",75%,1597
+U.S.A.,2015,Venezuela,"3- B,S,C","nutty, grassy, woody",75%,1598
+Belgium,2018,Dominican Republic,"3- B,S,C","fatty, simple",70%,1599
+Belgium,2018,India,"3- B,S,C","candy spices, sweet",70%,1600
+Belgium,2018,Peru,"3- B,S,C","complex, true to origin",70%,1601
+Belgium,2018,Belize,"3- B,S,C","grape, cocoa",70%,1602
+U.S.A.,2012,Ecuador,"4- B,S,C,V","wine, brownie batter",70%,1603
+U.S.A.,2013,Ecuador,"4- B,S,C,V","unrefined, burnt nuts, vanilla",70%,1604
+Belgium,2019,Ecuador,"3- B,S,C","sandy, nutmeg, astringent",70%,1605
+Belgium,2019,India,"3- B,S,C","dry, sandy, empty, sweet",74%,1606
+Belgium,2019,Brazil,"3- B,S,C","dry, sandy, dirt, empty",76%,1607
+Belgium,2021,Panama,"3- B,S,C","sandy, green, grassy, harsh",75%,1608
+Belgium,2021,India,"3- B,S,C","unripe fruit, sour, watery",74%,1609
+Belgium,2021,Tanzania,"3- B,S,C","sandy, bitter, sour fruit",90%,1610
+Japan,2018,Brazil,"2- B,S","intense, sour, hammy",70%,1611
+Japan,2018,Vietnam,"2- B,S","cocounut, late sour",70%,1612
+Japan,2018,Madagascar,"2- B,S","cocoa, mild pear, sticky",70%,1613
+Japan,2018,Peru,"2- B,S","grape, thick, chewy",70%,1614
+U.S.A.,2010,Ecuador,"3- B,S,C","dry, coffee notes from roaster",77%,1615
+U.S.A.,2019,Ecuador,"3- B,S,C","sandy, harsh, floral",67%,1616
+Japan,2016,Haiti,"2- B,S","gritty, sweet, earty",70%,1617
+U.A.E.,2017,Papua New Guinea,"2- B,S","few grits, intense smoke",72%,1618
+U.A.E.,2017,Madagascar,"2- B,S","tangy, roasty, ham",72%,1619
+U.A.E.,2017,India,"3- B,S,C","sweet, licoric",65%,1620
+U.A.E.,2017,Vietnam,"2- B,S","slight grainy, roasty, spicy",65%,1621
+U.A.E.,2019,Tanzania,"3- B,S,C","complex, fruit, nut, rich",72%,1622
+Czech Republic,2020,Vietnam,"3- B,S,C","sour fig, cocoa, creamy, fatty",70%,1623
+Brazil,2015,Brazil,"2- B,S","coarse, smokey, citrus",70%,1624
+Brazil,2016,Brazil,"2- B,S","sticky, blackberry, acidic",75%,1625
+Brazil,2019,Puerto Rico,"3- B,S,C","powdery, intense, floral",70%,1626
+U.S.A.,2010,Belize,"3- B,S,C","rough, sweet, dairy, vanilla",67%,1628
+U.S.A.,2013,Belize,"3- B,S,C","strawberry, blueberry",72%,1629
+U.S.A.,2013,Belize,"3- B,S,C",basic cocoa,73%,1630
+U.S.A.,2018,Brazil,"3- B,S,C","dirty, rubbery, spicy",72%,1631
+U.S.A.,2018,Cameroon,"2- B,S",earthy,68%,1632
+U.S.A.,2019,Sierra Leone,"3- B,S,C","roasty, honey, sweet",72%,1633
+U.S.A.,2019,Dominican Republic,"2- B,S","dark berry, earthy",70%,1634
+U.S.A.,2019,Tanzania,"2- B,S","cocoa, fig, classic",72%,1635
+U.S.A.,2021,Madagascar,"3- B,S,C","creamy, off note, rubbery, petro",70%,1636
+U.S.A.,2021,Dominican Republic,"3- B,S,C","dark fruit, slight harsh molasses",70%,1637
+U.S.A.,2015,Indonesia,"2- B,S","intense, smokey, floral",70%,1638
+U.S.A.,2015,Dominican Republic,"2- B,S","overly intense, tart, red fruit",70%,1639
+U.S.A.,2015,Peru,"2- B,S","dry, nutty, fruity",70%,1640
+Nicaragua,2011,Nicaragua,"2- B,S","unrefined, hay, sweet",70%,1641
+Nicaragua,2011,Nicaragua,"2- B,S","unrefined, bright berry, sweet",70%,1642
+Nicaragua,2018,Nicaragua,"3- B,S,C","fatty, floral, spicy",70%,1643
+Canada,2016,Dominican Republic,"2- B,S","earthy, spicy, cocoa",72%,1644
+Canada,2021,Philippines,"3- B,S,C","black tea, floral",76%,1645
+U.S.A.,2018,Mexico,"3- B,S,C","chalky, powdery, molasses",70%,1647
+U.S.A.,2021,Peru,"3- B,S,C","licorice, cocoa",72%,1648
+U.S.A.,2021,Ecuador,"2- B,S","intense, floral, cocoa,long lasting",75%,1649
+Mexico,2020,Mexico,"3- B,S,C","light color, spicy, sweet, sour",70%,1653
+U.S.A.,2015,Nicaragua,"3- B,S,C","grassy, spicy, sweet",70%,1654
+U.S.A.,2015,Nicaragua,"3- B,S,C","sweet, rich",80%,1655
+Japan,2018,Venezuela,"2- B,S","Fruity, Roasty",70%,1656
+U.S.A.,2016,Dominican Republic,"2- B,S","gritty, sweet, earthy",71%,1657
+U.S.A.,2016,Tanzania,"2- B,S","dry, earthy, atypical",68%,1658
+U.S.A.,2016,Madagascar,"2- B,S","sweet, molasses, gritty",68%,1659
+U.S.A.,2016,Vietnam,"2- B,S","gritty, tart, molasses",80%,1660
+Costa Rica,2013,Costa Rica,"3- B,S,C","too sweet, earthy, off notes",58%,1661
+Costa Rica,2013,Costa Rica,"3- B,S,C","earthy, spicy, cocoa",70%,1662
+Lithuania,2012,Grenada,"4- B,S,C,V","sandy, oranges",71%,1663
+Lithuania,2013,Blend,"4- B,S,C,L","sandy, floral, spice, roasty",70%,1664
+Lithuania,2013,Peru,"4- B,S,C,L","orange, floral, caramel",78%,1665
+Lithuania,2014,Venezuela,"4- B,S,C,L","coarse, sweet, minty",75%,1666
+Lithuania,2014,Venezuela,"4- B,S,C,L","coarse, sweet",70%,1667
+Lithuania,2014,Nicaragua,"4- B,S,C,L","sandy, intense, tropical fruit",70%,1668
+Lithuania,2019,Nicaragua,"3- B,S,C","strong, rubbery, woody, sweet",67%,1669
+Lithuania,2019,El Salvador,"3- B,S,C","bold, savory, creamy",70%,1670
+U.S.A.,2014,Peru,"2- B,S","metallic, medicinal, pungent",72%,1672
+U.S.A.,2014,Dominican Republic,"2- B,S*","grassy, dirt, mild spice",70%,1673
+U.S.A.,2014,Madagascar,"2- B,S","intense, pungent, sour fruit",73.5%,1674
+U.S.A.,2014,Ghana,"3- B,S,C","brownie, toffee",70%,1675
+Ireland,2018,Dominican Republic,"2- B,S","dry, sandy, sweet, acidic",70%,1676
+Belgium,2006,Blend,"5- B,S,C,V,L","non descript, poor aftertaste",73%,1677
+Belgium,2006,Sao Tome,"5- B,S,C,V,L","grassy, earthy, burnt",75%,1678
+Belgium,2006,Venezuela,"5- B,S,C,V,L","pastey, complex, coffee,vanilla",71%,1679
+Belgium,2007,Blend,"5- B,S,C,V,L","pastey, strong off flavor",73%,1680
+Belgium,2008,Trinidad,"5- B,S,C,V,L","complex, intense banana",67%,1681
+Belgium,2010,Papua New Guinea,"5- B,S,C,V,L","gritty, vanilla, non-descript",70%,1682
+U.S.A.,2015,Venezuela,"2- B,S","molasses, nut, roasty, bitter",72%,1683
+U.S.A.,2015,Dominican Republic,"2- B,S","molasses, rum, tea",72%,1684
+U.S.A.,2015,Madagascar,"2- B,S","molasses, bright fruit",72%,1685
+U.S.A.,2015,Peru,"2- B,S","molasses, malt, raisin",72%,1686
+U.S.A.,2018,Brazil,"2- B,S",notes from sugar,72%,1687
+U.S.A.,2013,Peru,"3- B,S,C","spicy, red fruit, raisins",75%,1688
+U.S.A.,2013,Ecuador,"3- B,S,C","single note, spicy",75%,1689
+Ecuador,2019,Ecuador,"3- B,S,C","floral, cocoa, creamy",72%,1690
+Peru,2018,Peru,"3- B,S,C","pungent, grape, sour",70%,1691
+U.S.A.,2018,Vietnam,"3- B,S,C","spicy, vanilla, sweet",72%,1692
+U.S.A.,2018,Tanzania,"3- B,S,C","sweet, melon notes",72%,1693
+U.S.A.,2018,Dominican Republic,"3- B,S,C","basic cocoa, sour ending",72%,1694
+U.S.A.,2019,Fiji,"3- B,S,C","sour, rubbery, off",74%,1695
+U.S.A.,2019,Colombia,"3- B,S,C","strong base cocoa, rubber",72%,1696
+U.S.A.,2014,Ghana,"4- B,S*,V,L","nutty, high roast, spice",75%,1697
+U.S.A.,2014,Belize,"4- B,S*,V,L","coconut, mild metallic",75%,1698
+U.S.A.,2014,Peru,"4- B,S*,V,L","roasty, mild orange",75%,1699
+Nicaragua,2012,Nicaragua,"2- B,S","fatty, honey, earthy",75%,1702
+Nicaragua,2012,Nicaragua,"2- B,S","woody, coffee,roasted cherry",70%,1703
+Nicaragua,2012,Ecuador,"2- B,S","sandy, strawberries",80%,1704
+U.S.A.,2015,Ecuador,"2- B,S","earthy, roasted nuts",70%,1705
+U.S.A.,2015,Venezuela,"2- B,S","intense, slightly burnt",70%,1706
+U.S.A.,2015,Madagascar,"2- B,S","fruity, sour, high astringent",70%,1707
+U.S.A.,2015,Ghana,"2- B,S","rich, cherry, smoke, cocoa",70%,1708
+U.S.A.,2015,Dominican Republic,"2- B,S","rich, mild smoke, red fruit",70%,1709
+U.S.A.,2020,Nigeria,"3- B,S,C","cocoa, nut, dried fruit, rubbery",70%,1710
+U.S.A.,2020,Vietnam,"3- B,S,C","spicy, cocoa, hammy",70%,1711
+Brazil,2016,Brazil,"3- B,S,C","nutty, banana, cocoa",70%,1712
+U.S.A.,2010,Jamaica,"5- B,S,C,V,L","grassy, vanilla, burnt",70%,1713
+Chile,2015,Peru,"2- B,S","creamy, roasty, mild grape",70%,1714
+Chile,2019,Peru,"2- B,S","intense grapes, sweet cocoa",70%,1715
+Scotland,2015,Congo,"3- B,S,C","melon, earthy, tobacco",70%,1716
+Scotland,2015,Peru,"3- B,S,C","peanut butter, raspberry",75%,1717
+New Zealand,2014,Papua New Guinea,"2- B,S","smoke, sour fruit, hammy",66%,1718
+New Zealand,2014,Papua New Guinea,"2- B,S","smoke, sour fruit, hammy",70%,1719
+New Zealand,2014,Papua New Guinea,"2- B,S","intense, bitter, sour, smokey",88%,1720
+New Zealand,2014,Papua New Guinea,"2- B,S","smokey, intense, coffee",74%,1721
+New Zealand,2016,Samoa,1- B,"bitter, intense, nutty",100%,1722
+New Zealand,2016,Samoa,"2- B,S","cocoa, roasty, nutty",70%,1723
+U.S.A.,2020,Guatemala,"2- B,S","damp woody, leather, cocoa",70%,1724
+U.S.A.,2020,Tanzania,"2- B,S","sour banana, muted",70%,1725
+U.S.A.,2020,Uganda,"2- B,S","dominant hazelnut, fudge",70%,1726
+U.S.A.,2020,India,"2- B,S","intense tart, sourness",70%,1727
+U.S.A.,2020,Colombia,"2- B,S","walnut, tobacco, grassy",70%,1728
+U.S.A.,2020,Bolivia,"2- B,S","silky smooth, cherry, cocoa",70%,1729
+U.S.A.,2020,Vietnam,"2- B,S","complex,cranberry,malt, vanilla",70%,1730
+U.S.A.,2021,Blend,1- B,"sharp fruit, intense, sl. Sour",100%,1731
+U.S.A.,2021,Venezuela,"2- B,S","berries, burnt, rubbery, off",80%,1732
+U.S.A.,2021,U.S.A.,"2- B,S","burnt fudge, nutty",70%,1733
+U.S.A.,2021,Peru,"2- B,S","deep cocoa, cherry, slight ashy",70%,1734
+U.S.A.,2021,Venezuela,"2- B,S","strong start, fruity, acidic",70%,1735
+U.S.A.,2021,Haiti,"2- B,S","blackberry, tang",70%,1736
+U.S.A.,2015,Trinidad,"3- B,S,C","off notes, sour, roasty",70%,1737
+U.S.A.,2015,Tanzania,"3- B,S,C","sweet,sandy, fruit, pungent",70%,1738
+Germany,2011,Bolivia,"2- B,S","rich cocoa, one dimensional",70%,1739
+Germany,2018,Brazil,"3- B,S,C","creamy, cherry, acidic",78%,1740
+U.S.A.,2009,Blend,"3- B,S,C","sandy, cheese, sour",67%,1741
+U.S.A.,2009,Blend,"3- B,S,C","fatty,cheese, musty",75%,1742
+U.S.A.,2010,Dominican Republic,"3- B,S,C","earthy, cheesy",72%,1743
+U.S.A.,2010,Ghana,"3- B,S,C","gritty, simple cocoa, burnt",72%,1744
+Canada,2011,Blend,"5- B,S,C,V,L","intense, medicinal, leathery",76%,1745
+Canada,2011,Blend,"5- B,S,C,V,L","rubber, cocoa, bitter",76%,1746
+Canada,2011,Blend,"5- B,S,C,V,L","creamy, medicinal, mint, bitter",85%,1747
+Canada,2011,Blend,"5- B,S,C,V,L","sticky, berry, bitter",85%,1748
+Ghana,2011,Ghana,"4- B,S,C,L","grits, strong vanilla, brownie",80%,1749
+Iceland,2014,Papua New Guinea,"3- B,S,C",intensely smokey,70%,1750
+Iceland,2014,Madagascar,"3- B,S,C","red berry, mild molasses",66%,1751
+Iceland,2016,Tanzania,"3- B,S,C","sweet, dried fruit, gateway",70%,1752
+Iceland,2018,Nicaragua,"3- B,S,C","intense spice, coarse",73%,1753
+U.S.A.,2020,Madagascar,"2- B,S","sweet, tart, raisin, sour ending",70%,1754
+U.S.A.,2020,Vietnam,"2- B,S","roast dominates,spicy,astringent",70%,1755
+U.S.A.,2020,Tanzania,"2- B,S","sweet edge, dried fruit, lemon",70%,1756
+Switzerland,2021,Colombia,"3- B,S,C","burnt honey, rubbery",75%,1757
+Switzerland,2021,Peru,"3- B,S,C","caramel, honey, roasty",70%,1758
+Switzerland,2021,Peru,"3- B,S,C","grape, punchy, deep cocoa",75%,1759
+Switzerland,2021,Madagascar,"3- B,S,C","tart, green apple, rich",75%,1760
+Canada,2013,Belize,"3- B,S,C","sandy, ashey, mild fruit",74%,1761
+Canada,2013,Dominican Republic,"3- B,S,C","sandy, roasty, fruity",72%,1762
+Canada,2013,Nicaragua,"3- B,S,C","grits, roasty, woody",72%,1763
+Canada,2013,Dominican Republic,"3- B,S,C","sandy, cinamon, high roast",72%,1764
+Canada,2013,Ecuador,"3- B,S,C","spicy, sweet, high roast",72%,1765
+South Africa,2018,Panama,"3- B,S,C","fatty, bland, some spice",71%,1766
+Switzerland,2009,Congo,"3- B,S,C",vegetable and honey,70%,1767
+Switzerland,2009,Peru,"3- B,S,C","creamy, sour banana, lemon",75%,1768
+Switzerland,2009,Bolivia,"3- B,S,C","rich cocoa, bread notes",68%,1769
+Switzerland,2011,Bolivia,"3- B,S,C","creamy, melon, subtle",66%,1770
+Switzerland,2014,Papua New Guinea,"3- B,S,C","fatty, dates, musty",68%,1771
+Switzerland,2014,Blend,"2- B,S","creamy, mild bitter, coffee",80%,1772
+U.S.A.,2006,U.S.A.,"5- B,S,C,V,L","muddy, pastey, sweet, vanilla",60%,1773
+U.S.A.,2009,U.S.A.,"5- B,S,C,V,L","sticky, tobacco",60%,1774
+Peru,2012,Peru,"4- B,S,C,L","dry, banana, molasses",65%,1775
+Peru,2012,Peru,"4- B,S,C,L","sandy, molasses, brownie",72%,1776
+Ecuador,2008,Ecuador,"4- B,S,C,L","floral, rubber, vanilla, metallic",60%,1778
+Ecuador,2008,Ecuador,"4- B,S,C,L","sandy, rubber, spice, floral",72%,1779
+Ecuador,2008,Ecuador,"4- B,S,C,L","creamy, sweet, green",65%,1780
+Ecuador,2008,Ecuador,"4- B,S,C,L","sandy, green, spice, nuts",70%,1781
+Ecuador,2011,Ecuador,"4- B,S,C,L","waxy, sandy, floral",70%,1782
+Ecuador,2012,Ecuador,"4- B,S,C,L","spice, mostly bitter",85%,1783
+Ecuador,2012,Peru,"4- B,S,C,L","light color,complex,molasses",70%,1784
+Ecuador,2014,Ecuador,"4- B,S,C,L","floral, green, tannic",70%,1785
+Ecuador,2014,Ecuador,"4- B,S,C,L","savory, smokey",70%,1786
+Ecuador,2014,Ecuador,"4- B,S,C,L","creamy, green fruit, candied",70%,1787
+Ecuador,2014,Ecuador,"4- B,S,C,L","creamy, spicy, cocoa",70%,1788
+Ecuador,2016,Colombia,"4- B,S,C,L","complex, balanced",70%,1789
+Japan,2018,Vietnam,"5- B,S,C,V,L","molasses, tart, vegetal",72%,1790
+Japan,2018,Haiti,"5- B,S,C,V,L","vanilla, sweet, gateway",70%,1791
+Japan,2018,Cuba,"5- B,S,C,V,L","creamy, tobacco, cocoa",72%,1792
+Canada,2014,Bolivia,"2- B,S","vinegar, sour",72%,1793
+Canada,2014,Ecuador,"2- B,S","earthy, nutty, black pepper",75%,1794
+Canada,2014,Blend,"2- B,S","intense floral, slight woody",75%,1795
+Canada,2014,Madagascar,"2- B,S","red fruit, intense, bright",78%,1796
+Canada,2014,Trinidad,"2- B,S","mellow, fruity, brownie",70%,1797
+Canada,2015,Bolivia,"2- B,S","slow, sweet, spicy",70%,1798
+Canada,2015,Trinidad,"2- B,S*","maple, spicy, cocoa",70%,1799
+Canada,2015,Tanzania,"2- B,S","rich cocoa, dried fruit",72%,1800
+Canada,2015,Vietnam,"2- B,S","cocoa, melon, dairy",72%,1801
+Canada,2016,Guatemala,"2- B,S","fruity, off rubber",70%,1802
+Canada,2016,Belize,"2- B,S","strawberry, savory",72%,1803
+Canada,2017,Peru,"2- B,S","grape, pungent, off sour",72%,1804
+Canada,2017,Dominican Republic,"2- B,S","creamy, burnt rubber, off",75%,1805
+Canada,2017,Haiti,"2- B,S","sticky, bold, nutty, fig",70%,1806
+Canada,2019,Peru,"2- B,S","intense spicy, floral",70%,1807
+Spain,2016,Fiji,"2- B,S","intense, bitter, spicy",76%,1808
+Spain,2019,Bolivia,"2- B,S","harsh, tobacco, roasty",76%,1809
+Spain,2019,Philippines,"2- B,S","burnt caramel, coffee",76%,1810
+Spain,2019,Belize,"2- B,S","fig, sour, rubbery",75%,1811
+Spain,2019,Madagascar,"2- B,S","fruit, sour, roasty",76%,1812
+Spain,2019,Dominican Republic,"2- B,S","cocoa, earthy, roasty",76%,1813
+Spain,2019,Peru,"2- B,S","sandy, fruit, cocoa, sour",71%,1814
+U.S.A.,2014,Blend,"3- B,S,V","mild nutty, basic cocoa",65%,1815
+U.S.A.,2014,Bolivia,"2- B,S","gritty, woody, acidic",70%,1816
+U.S.A.,2014,Dominican Republic,"2- B,S","mild spice, grapes",70%,1817
+U.S.A.,2015,Guatemala,"2- B,S","intense, blackberry, acidic",70%,1818
+U.S.A.,2016,Tanzania,"2- B,S","sour, earthy, roasty",70%,1819
+U.S.A.,2019,Guatemala,"3- B,S,C","fatty, woody, poor aftertaste",75%,1820
+U.S.A.,2019,Dominican Republic,"3- B,S,C","rubbery, buttery, soil",75%,1821
+U.S.A.,2019,Colombia,"3- B,S,C","nut, roasty, high astringent",75%,1822
+Peru,2013,Peru,"4- B,S,C,V","gritty, sweet, off",55%,1823
+Peru,2013,Peru,"4- B,S,C,V","gritty, earthy, melon",70%,1824
+U.S.A.,2007,Madagascar,"3- B,S,C","mild tart, wine, red fruit, long",70%,1825
+U.S.A.,2009,Madagascar,"3- B,S,C","creamy, fruit forward, rich",67%,1826
+U.S.A.,2009,Venezuela,"3- B,S,C","earthy, nutty",70%,1827
+U.S.A.,2009,Madagascar,"3- B,S,C","simple red berry, rich, long",75%,1828
+U.S.A.,2011,Blend,"3- B,S,C","smooth, red berry, cocoa",70%,1829
+U.S.A.,2013,Peru,"3- B,S,C","creamy, cocoa, grapes",67%,1830
+U.K.,2014,Madagascar,"2- B,S*","sticky, mild citrus, earthy",73%,1831
+U.K.,2014,Madagascar,"2- B,S*","coarse, sweet, tart, earthy",64%,1832
+U.S.A.,2015,Dominican Republic,"3- B,S,C","coarse, earthy, sweet",82%,1833
+U.S.A.,2018,Fiji,"3- B,S*,C","mild smokey, black licorice",75%,1834
+Canada,2019,Peru,"4- B,S,C,L","off aroma, anise, dried fruit",70%,1835
+Belgium,2006,Indonesia,"5- B,S,C,V,L","red fruit, smokey, sour",72%,1836
+Belgium,2006,Venezuela,"5- B,S,C,V,L","rich cocoa, marshmallow",72%,1837
+Belgium,2006,Mexico,"5- B,S,C,V,L","mild tart, long and rich",72%,1838
+Belgium,2007,Blend,"5- B,S,C,V,L","cinamon, bitter aftertaste",85%,1839
+Belgium,2007,Ecuador,"5- B,S,C,V,L","creamy, cocoa, grassy",72%,1840
+Belgium,2007,Blend,"5- B,S,C,V,L","rich cocoa, tart citrus",70%,1841
+Belgium,2007,Madagascar,"5- B,S,C,V,L","tangy, floral, spicy, cocoa",72%,1842
+Belgium,2009,Brazil,"5- B,S,C,V,L","smokey, floral, mild",72%,1843
+Belgium,2009,Mexico,"5- B,S,C,V,L","bland, subtle dairy, burning",72%,1844
+Belgium,2010,Venezuela,"5- B,S,C,V,L","strong vanilla, nutty, spicey",75%,1845
+Belgium,2010,Peru,"5- B,S,C,V,L","bitter, coffee, cocoa",85%,1846
+Belgium,2010,Trinidad,"5- B,S,C,V,L",berry notes with sweet edge,75%,1847
+Belgium,2010,Cuba,"5- B,S,C,V,L","chunky, rich and spicy",78%,1848
+Belgium,2015,Cameroon,"5- B,S,C,V,L","mild fruit, woody",70%,1849
+Belgium,2019,Madagascar,"4- B,S,C,L","powdery, roasty, off flavor",76%,1850
+Belgium,2019,Cameroon,"4- B,S,C,L","rich cocoa, off flavor",70%,1851
+Belgium,2021,China,"4- B,S,C,L","fruity, rich, grassy",72%,1852
+U.S.A.,2020,Vietnam,"3- B,S,C","swiss miss, pistachio, rich",70%,1853
+U.S.A.,2020,Tanzania,"3- B,S,C","sweet, cream, cherry, rich",70%,1854
+U.S.A.,2020,India,"3- B,S,C","creamy, fruity, mocha",73%,1855
+U.S.A.,2016,Honduras,"4- B,S,V,L","banana, earthy ending",80%,1856
+U.S.A.,2014,Fiji,"2- B,S","intense smoke, medicinal",73%,1857
+U.S.A.,2014,Madagascar,"2- B,S","intense, dried fruit, roasty",73%,1858
+U.S.A.,2014,Ecuador,"2- B,S","tobacco, woody, rum",73%,1859
+U.S.A.,2014,Ecuador,"2- B,S","intense, floral, leather",73%,1860
+U.S.A.,2015,Nicaragua,"3- B,S,C","coarse, earthy, metal, sweet",62%,1861
+U.S.A.,2015,Nicaragua,"2- B,S","dry, sandy, earthy, leathery",80%,1862
+U.S.A.,2015,Nicaragua,"3- B,S,C","metal, earthy, pungent",80%,1863
+U.S.A.,2015,Nicaragua,"3- B,S,C","metal, molasses, roasty",80%,1864
+U.S.A.,2015,Nicaragua,"2- B,S","chunky, dairy, nutty, rich",80%,1865
+U.S.A.,2020,Bolivia,"3- B,S,C","sandy, dried fruit, earthy",70%,1866
+U.S.A.,2020,Dominican Republic,"3- B,S,C","slightly bitter, earthy, fruity",70%,1867
+U.S.A.,2020,Tanzania,"3- B,S,C","raisins, grapes, tart",70%,1868
+U.S.A.,2012,Dominican Republic,"3- B,S,C","molasses, banana, chemical",76%,1869
+U.S.A.,2012,Peru,"3- B,S,C","dry, red berry, off note",82%,1870
+U.S.A.,2021,Haiti,"3- B,S,C","sweet, spoiled milk, vegetal",71%,1871
+U.S.A.,2021,Guatemala,"3- B,S,C",tart with woody undertones,76%,1872
+U.S.A.,2021,Ghana,"3- B,S,C","extra sweet, nutty, deep cocoa",66%,1873
+U.S.A.,2010,Costa Rica,"2- B,S","bright red fruit,smoke,powerful",82%,1874
+U.S.A.,2011,Peru,"2- B,S","grassy, earthy",70%,1875
+U.S.A.,2011,Costa Rica,"2- B,S","fudgey, mild smoke",70%,1876
+U.S.A.,2011,Costa Rica,"2- B,S","grass,chewy,nibs add bitterness",70%,1877
+U.S.A.,2011,Brazil,"2- B,S","mint, candied",70%,1878
+U.S.A.,2014,Venezuela,"2- B,S","mildy nutty, cocoa, spice",70%,1879
+U.S.A.,2016,Dominican Republic,"2- B,S","dense, rich, nuanced",70%,1880
+U.S.A.,2018,Colombia,"2- B,S","marshmallow, distinquished",70%,1881
+U.S.A.,2021,Uganda,"2- B,S","light cocoa, dairy,faint cinnamon",75%,1882
+U.S.A.,2021,Peru,"2- B,S","anise, cocoa, dried fruit",70%,1883
+France,2006,Vanuatu,"4- B,S,C,L","smoke dominates, mild fruit",75%,1884
+France,2006,Cuba,"4- B,S,C,L","earthy, tobacco, mushroom",75%,1885
+France,2006,Blend,"4- B,S,C,L","sandy, roasty, cocoa",75%,1886
+France,2006,Brazil,"4- B,S,C,L","creamy, fatty, burnt",75%,1887
+France,2006,Blend,"4- B,S,C,L","tart, fruit, cocoa",75%,1888
+France,2006,Jamaica,"4- B,S,C,L","creamy, spicy",75%,1889
+France,2006,Ecuador,"4- B,S,C,L","vegetal, fruit, smoke",80%,1890
+France,2007,Sao Tome,"4- B,S,C,L","large nibs, spicy, cocoa",75%,1891
+France,2008,Dominican Republic,"4- B,S,C,L","sandy, sour",75%,1892
+France,2008,Madagascar,"2- B,C","fatty, mild fruit, bitter, smoke",100%,1893
+France,2008,Brazil,"4- B,S,C,L","complex, herbal, sour",75%,1894
+France,2009,Venezuela,"4- B,S,C,L","creamy, burnt,ashey, lemon",75%,1895
+France,2010,Venezuela,"4- B,S,C,L","nutty, red berry, rich",75%,1896
+France,2011,Venezuela,"4- B,S,C,L","burnt nuts, subtle fruit",75%,1897
+France,2015,Peru,"3- B,S,C","subdued, floral, nutty, fatty",75%,1898
+France,2019,Papua New Guinea,"4- B,S,C,L","complex, smoke, intense, ham",75%,1899
+France,2019,Indonesia,"4- B,S,C,L","fruit, woody, ashey, fatty",75%,1900
+France,2019,Venezuela,"4- B,S,C,L","roasty, black licorice, rubbery",75%,1901
+France,2019,Madagascar,"4- B,S,C,L","high acidity,roasty,sour,chalky",75%,1902
+France,2019,Colombia,"4- B,S,C,L","sandy, coffee, sweet, roasty",75%,1903
+France,2019,Trinidad,"4- B,S,C,L","tobacco,deep cocoa, sl. burnt",75%,1904
+France,2019,Ghana,"4- B,S,C,L","rich cocoa, fatty, roasty",75%,1905
+France,2019,Sao Tome & Principe,"4- B,S,C,L","deep cocoa, fatty, mild ashey",75%,1906
+France,2019,Tanzania,"4- B,S,C,L","spicy, cocoa",75%,1907
+France,2019,Ecuador,"4- B,S,C,L","dried fruit, floral",75%,1908
+U.S.A.,2018,Tanzania,"2- B,S*","sour palm, rich cocoa, fruit",75%,1909
+U.S.A.,2018,Peru,"2- B,S*","molasses, coffee, cocoa",75%,1910
+South Korea,2019,Vietnam,"2- B,S","fruit, tart, fertilzer",70%,1911
+U.K.,2014,Venezuela,"3- B,S,C","nutty, fuel, intense",75%,1912
+U.K.,2014,Ecuador,"3- B,S,C","floral, slightly burnt, intense",85%,1913
+U.K.,2014,Ecuador,"3- B,S,C","perfume, roasted caramel",75%,1914
+U.K.,2014,Madagascar,"3- B,S,C","long, mellow, buttery",72%,1915
+U.K.,2015,Honduras,"3- B,S,C","chunky, earthy, rubber",80%,1916
+U.K.,2015,Grenada,"3- B,S,C","dark berry, mild floral",70%,1917
+U.K.,2015,Madagascar,"3- B,S,C","dairy, butterscotch, caramel",74%,1918
+U.K.,2016,Ecuador,"3- B,S,C","floral, grain, deep cocoa",77%,1919
+U.K.,2017,Jamaica,"2- B,S","sticky, mild, hay, honey",75%,1920
+U.K.,2018,Solomon Islands,"3- B,S,C",dominant savory,72%,1921
+Italy,2012,Venezuela,"4- B,S,C,L","fatty, vanilla, orange",73%,1922
+Italy,2017,Ecuador,"4- B,S,C,L","few grits, strong floral",73%,1923
+Italy,2017,Papua New Guinea,"4- B,S,C,L",intense smoke,75%,1924
+Italy,2017,Vietnam,"4- B,S,C,L","intense, fig, roasty, citrus",75%,1925
+Italy,2017,Philippines,"4- B,S,C,L","spice, sunflower",66%,1926
+Italy,2017,Dominican Republic,"4- B,S,C,L","peanut, soy, sunflower",65%,1927
+Brazil,2012,Brazil,"3- B,S,C","sweet, intense banana",60%,1928
+Brazil,2012,Brazil,"3- B,S,C","muted, banana, hot cocoa",65%,1929
+Brazil,2013,Brazil,"3- B,S,C","creamy, too sweet, sour",55%,1930
+Brazil,2013,Brazil,"3- B,S,C","sticky, intense, roasty, fruit",75%,1931
+Brazil,2013,Brazil,"3- B,S,C","tannic, fruity, cocoa",80%,1932
+Brazil,2013,Brazil,"3- B,S,C","mild bitter, banana, citrus",85%,1933
+Canada,2018,Peru,"3- B,S,C","pungent, grapes",70%,1934
+Canada,2019,Peru,"3- B,S,C","bold, nutty, floral, wine",70%,1935
+Canada,2020,Peru,"3- B,S,C","intense plum, harsh woody",70%,1936
+Canada,2020,Peru,"3- B,S,C",grapes and honey,70%,1937
+Canada,2021,Peru,"3- B,S,C","bold, fig w/ floral undertone",70%,1938
+Mexico,2016,Mexico,"3- B,S,C","gritty, waxy, leather",70%,1939
+Mexico,2016,Mexico,"3- B,S,C","waxy, gritty, spicy, hammy",74%,1940
+U.S.A.,2011,Dominican Republic,"3- B,S,C","creamy, pasty, bitter, cocoa",85%,1941
+U.S.A.,2012,Madagascar,"3- B,S,C","gritty, sticky, candied",75%,1942
+U.S.A.,2015,Congo,"3- B,S,C","refined, honey, rubber",75%,1943
+U.S.A.,2016,Peru,"3- B,S,C","pungent, green, citrus",70%,1944
+U.S.A.,2017,Haiti,"3- B,S,C",green,70%,1945
+U.S.A.,2017,Haiti,"3- B,S,C",basic cocoa,70%,1946
+Guatemala,2010,Guatemala,"5- B,S,C,V,L","Easter candy, burnt",70%,1947
+U.S.A.,2015,Peru,"2- B,S","oily, intense vinegar",70%,1949
+U.S.A.,2015,Peru,"2- B,S","fruity, melon",80%,1950
+U.S.A.,2015,Peru,"2- B,S","dried fruit, raisins, nutty",73%,1951
+U.S.A.,2021,Mexico,"2- B,S","fruit, yogurt, astringent",70%,1952
+France,2016,Peru,"3- B,S,C","fatty, cocoa",75%,1953
+U.S.A.,2018,Ecuador,"3- B,S,C","floral, malt, high astringcy",72%,1954
+U.S.A.,2018,Tanzania,"3- B,S,C","creamy, complex, maple",72%,1955
+U.S.A.,2018,Peru,"3- B,S,C",dominant spice,72%,1956
+U.S.A.,2019,Dominican Republic,"3- B,S,C","floral, roasted cacao, dirty",72%,1957
+U.S.A.,2019,Nicaragua,"3- B,S,C","grassy, earthy, roasty, dirty",72%,1958
+U.S.A.,2021,Ghana,"3- B,S,C","gateway, nutty, rich cocoa",72%,1959
+Ecuador,2007,Ecuador,"4- B,S,C,L","cinamon, hazelnut, roasty",75%,1961
+Ecuador,2007,Ecuador,"4- B,S,C,L","creamy, caramel, dairy",67%,1962
+Ecuador,2007,Ecuador,"4- B,S,C,L","vanilla, dark roast, spicy",75%,1963
+Ecuador,2009,Ecuador,"4- B,S,C,L","strong rubber, off chemical",75%,1964
+Ecuador,2010,Ecuador,"4- B,S,C,L","strong spicey, earthy green",75%,1965
+U.S.A.,2011,Costa Rica,"2- B,S","dark berry, woody,astringent",75%,1966
+U.S.A.,2012,Ecuador,"2- B,S","dried fruit, nut, bitter, roasty",75%,1967
+U.S.A.,2012,Trinidad,"2- B,S","orange, heavy roast",75%,1968
+U.S.A.,2012,Madagascar,"2- B,S","dark berry, tropical, nutty",75%,1969
+U.S.A.,2013,Peru,"2- B,S","intense, roasty, spice",75%,1970
+U.S.A.,2013,Belize,"2- B,S","thick, slow, pure",75%,1971
+U.S.A.,2015,Ecuador,"2- B,S","mild bitter, woody, bourbon",85%,1972
+U.S.A.,2015,Blend,"2- B,S","sticky, woody",70%,1973
+U.S.A.,2016,Ecuador,"2- B,S","floral, bourbon, balanced",75%,1974
+U.S.A.,2017,Mexico,"3- B,S,C","smooth, coffee, rich cocoa",75%,1975
+U.S.A.,2019,Nicaragua,"2- B,S","complex, honey, fruit, nut",70%,1976
+U.S.A.,2019,Trinidad,"2- B,S","rich brownie, dried fruit",80%,1977
+U.S.A.,2020,Madagascar,"3- B,S,C","tart fruit, roasty",75%,1978
+U.S.A.,2018,Tanzania,"3- B,S,C","muted, heavy roast",72%,1979
+U.S.A.,2019,Fiji,"3- B,S,C","fatty, rubbery, nutty",70%,1980
+U.S.A.,2019,Peru,"3- B,S,C","fatty, rubbery, off",70%,1981
+South Korea,2016,Costa Rica,"2- B,S","dried fruit, intense",70%,1982
+South Korea,2016,Costa Rica,"2- B,S","fatty, honey, slight sour",70%,1983
+South Korea,2016,Costa Rica,"2- B,S","roasty, coffee, intense",70%,1984
+Madagascar,2013,Madagascar,"5- B,S,C,V,L","rich cocoa, nutty",75%,1985
+Madagascar,2013,Madagascar,"4- B,S,C,L","basic cocoa, large nibs",68%,1986
+U.S.A.,2008,Dominican Republic,"2- B,S","nutty, earthy, mild off note",70%,1988
+U.S.A.,2008,Jamaica,"2- B,S","sandy, heavy roast, woody",70%,1989
+U.S.A.,2008,Madagascar,"2- B,S","raisins, sour, roasty",70%,1990
+U.S.A.,2008,Trinidad,"2- B,S","dry, honey, roasty",70%,1991
+U.S.A.,2009,Venezuela,"2- B,S","mint, sweet spices",70%,1992
+U.S.A.,2010,Peru,"2- B,S","smooth,intense,fruit, complex",75%,1993
+U.S.A.,2011,Bolivia,"2- B,S","rich brownie, roasty, sour",75%,1994
+U.S.A.,2012,Ecuador,"2- B,S","floral, bourbon, mocha",75%,1995
+U.S.A.,2013,Madagascar,"2- B,S","creamy, heavy roast, citrus",70%,1996
+U.S.A.,2013,Dominican Republic,"2- B,S","sticky, earthy, smokey",70%,1997
+U.S.A.,2013,Jamaica,"2- B,S","intense, dark berry, spice",75%,1998
+U.S.A.,2013,Bolivia,"2- B,S","smooth, banana, tart, roasty",75%,1999
+U.S.A.,2014,Venezuela,"2- B,S","red fruit, intense, earthy",80%,2000
+U.S.A.,2015,Bolivia,"2- B,S","roasty, dried fruit, sour",75%,2001
+U.S.A.,2015,Venezuela,"2- B,S","deep, rich, nutty, roasty",70%,2002
+U.S.A.,2016,Honduras,"2- B,S","robust, tart, roasty",75%,2003
+Hungary,2011,Venezuela,"3- B,S,C","intense, burnt, chemical",71%,2004
+Hungary,2011,Principe,"3- B,S,C","smokey, nutty, fat residue",77%,2005
+Hungary,2011,Venezuela,"3- B,S,C","fatty, roasty, coffee",73%,2006
+Hungary,2011,Venezuela,"3- B,S,C","uneven melt, cashew",70%,2007
+Hungary,2012,Venezuela,"3- B,S,C","fatty, burnt, nut, vegetal",76%,2008
+Hungary,2012,Venezuela,"3- B,S,C","fatty, chemical, roasty",84%,2009
+Hungary,2012,Madagascar,"3- B,S,C","buttery, sour tang, off notes",72%,2010
+Hungary,2017,Venezuela,"3- B,S,C","nuts, chocolate, mellow",73%,2011
+Hungary,2021,Peru,"3- B,S,C","blackberry, mild floral",72%,2012
+Italy,2017,Honduras,"3- B,S*,C","off note, vegetal, nibby",72%,2013
+Italy,2018,Haiti,"3- B,S,C","cocoa base, spice",75%,2014
+Italy,2018,Nicaragua,"3- B,S,C","complex, coarse, astringent",70%,2015
+Italy,2021,Indonesia,"2- B,S","mild smoke, tart, spice, harsh",77%,2016
+Italy,2021,Tanzania,"2- B,S","clean, pure cocoa, cherry, gritty",72%,2017
+U.S.A.,2012,Blend,"4- B,S*,C,V","grassy, strong bitter",83%,2023
+U.S.A.,2012,Blend,"4- B,S*,C,V","grassy, maple",69%,2024
+Argentina,2008,Brazil,"4- B,S,C,L","creamy, vanilla, rich",70%,2025
+Argentina,2008,Ecuador,"4- B,S,C,L","nutty, spicy, floral",70%,2026
+Argentina,2008,Venezuela,"4- B,S,C,L","nutty, basic cocoa",70%,2027
+Argentina,2008,Ecuador,"4- B,S,C,L","floral, spicey",70%,2028
+Ecuador,2017,Ecuador,"4- B,S,C,L","few grits, basic, gateway",70%,2029
+Colombia,2006,Colombia,"5- B,S,C,V,L","too sweet, candy-like",53%,2030
+Colombia,2006,Colombia,"5- B,S,C,V,L","sweet, cherry, marshmallow",65%,2031
+Colombia,2006,Colombia,"5- B,S,C,V,L","rustic, cherry, marshmallow",70%,2032
+Colombia,2009,Colombia,"3- B,S,L","roasty,rich cocoa,marshmallow",75%,2033
+Colombia,2009,Colombia,"5- B,S,C,V,L","sweet, marshmallow",70%,2034
+France,2011,Sao Tome,"5- B,S,C,V,L","perfume, vanilla",70%,2035
+U.S.A.,2006,Blend,"5- B,S,C,V,L","dry, bitter, poor aftertaste",82%,2036
+U.S.A.,2006,Blend,"5- B,S,C,V,L","fruity, smokey, burnt",68%,2037
+U.S.A.,2006,Jamaica,"5- B,S,C,V,L","fresh nibs,chocolate base off",70%,2038
+U.S.A.,2006,Blend,"5- B,S,C,V,L","tobacco, sweet, dairy",62%,2039
+U.S.A.,2006,Blend,"5- B,S,C,V,L","cherry, mild bitter",70%,2040
+U.S.A.,2007,Blend,"5- B,S,C,V,L",strong smokey tobacco,72%,2041
+U.S.A.,2007,Blend,"5- B,S,C,V,L","sweet, base cocoa",62%,2042
+U.S.A.,2007,Blend,"5- B,S,C,V,L","smooth,complex,cocoa base",75%,2043
+U.S.A.,2007,Venezuela,"5- B,S,C,V,L","complex, strawberry, tart",75%,2044
+U.S.A.,2008,Blend,"5- B,S,C,V,L","grassy, black pepper, smoke",72%,2045
+U.S.A.,2009,Brazil,"5- B,S,C,V,L","smooth, tart, earthy",68%,2046
+U.S.A.,2009,Vietnam,"5- B,S,C,V,L","creamy, grassy, banana, tart",72%,2047
+U.S.A.,2009,Ghana,"5- B,S,C,V,L","simple, delicate cocoa, long",65%,2048
+U.S.A.,2010,Grenada,"5- B,S,C,V,L","smooth, grassy, minty",68%,2049
+U.S.A.,2010,Madagascar,"5- B,S,C,V,L","clingy,subtle, tangy, citrus",65%,2050
+U.S.A.,2011,Papua New Guinea,"5- B,S,C,V,L","cherry,wine,rich,smoke",68%,2051
+U.S.A.,2012,Peru,"4- B,S,C,L","banana, pear, spice, cheese",78%,2052
+U.K.,2015,Dominican Republic,"2- B,S","rustic, vegetal, earthy",70%,2053
+U.K.,2015,Grenada,"2- B,S","off, sweet, orange, rubber",70%,2054
+U.S.A.,2018,Honduras,"2- B,S","dry, earthy, surface mark",70%,2055
+U.S.A.,2018,Dominican Republic,"2- B,S","earthy, mild fruit, sticky",70%,2056
+U.S.A.,2018,Tanzania,"2- B,S","sticky, cherry, cocoa",70%,2057
+U.S.A.,2019,Fiji,"2- B,S","sharp, raw, metallic",70%,2058
+U.S.A.,2019,Uganda,"2- B,S","cocoa, roasty, sticky",70%,2059
+U.S.A.,2021,Trinidad,"2- B,S","sl roasty, woody, melon, spicy",75%,2060
+U.S.A.,2021,Peru,"2- B,S","orange, fig, cocoa",70%,2061
+U.S.A.,2021,Vietnam,"2- B,S",blueberry & cocoa dominate,70%,2062
+U.S.A.,2021,India,"2- B,S","sticky, dark berry, roasty edge",70%,2063
+U.S.A.,2019,Guatemala,"3- B,S,C","spicy, rich cocoa, sweet",70%,2064
+U.S.A.,2019,Colombia,"3- B,S,C","black pepper, astringent",70%,2065
+U.S.A.,2019,Belize,"3- B,S,C",full cocoa flavor,70%,2066
+U.S.A.,2014,Ecuador,"2- B,S","coffee, nutty",75%,2067
+U.S.A.,2014,Belize,"2- B,S","fruity, blueberry",72%,2068
+U.S.A.,2015,Venezuela,"2- B,S","smoked ham, tangy, berry",77%,2069
+U.S.A.,2015,Jamaica,"2- B,S","sticky, dried fruit, smoke",72%,2070
+U.S.A.,2015,Papua New Guinea,"2- B,S","chewy, smoke, fruit, cocoa",73%,2071
+U.S.A.,2015,Dominican Republic,"2- B,S","grapes, tangy, cocoa",74%,2072
+U.S.A.,2011,U.S.A.,"4- B,S,C,V","sticky, earthy, medicinal",73%,2073
+U.S.A.,2011,U.S.A.,"4- B,S,C,V","perfume, floral, chemical",73%,2074
+Peru,2011,Peru,"3- B,S,C","strong spice, perfume, roasty",75%,2075
+Peru,2016,Peru,"3- B,S,C","earthy, roasty, vegetal",70%,2076
+Costa Rica,2015,Costa Rica,"3- B,S,C","gritty, fatty, coffee",82%,2077
+Costa Rica,2015,Costa Rica,"3- B,S,C","gritty, bold, black pepper",70%,2078
+Italy,2011,Belize,"4- B,S,C,Sa","fatty, cocoa, spicy",67%,2080
+Italy,2011,Colombia,"4- B,S,C,Sa","fatty, salty, caramel",68%,2081
+Italy,2011,Sao Tome,"4- B,S,C,Sa","nutty, salty",65%,2082
+Italy,2011,Brazil,"4- B,S,C,Sa","fatty, sweet, salty",60%,2083
+Canada,2014,Madagascar,"3- B,S,C","tart, sweet edge",67%,2084
+Canada,2014,Madagascar,"3- B,S,C","intense fruity, mild sour",73%,2085
+Canada,2014,Ecuador,"3- B,S,C","intense, rich, burnt, licorice",73%,2086
+Canada,2015,Madagascar,1- B,"creamy, tart, bitter",100%,2087
+Canada,2015,Ecuador,1- B,"floral, bourbon, bitter",100%,2088
+Canada,2015,Guatemala,"2- B,S","waxy, earthy, cocoa, roasty",73%,2089
+Canada,2015,Guatemala,"2- B,S*","waxy, maple, flat",73%,2090
+Canada,2015,Haiti,"2- B,S","oily, medium roasted cocoa",73%,2091
+Canada,2016,Bolivia,"2- B,S","sticky, raisins, fudgey",73%,2092
+Canada,2016,Tanzania,"2- B,S","basic cocoa, gateway",73%,2093
+Canada,2016,Ecuador,"2- B,S","rich cocoa, spicy",73%,2094
+Canada,2017,Peru,"2- B,S","caramel, anise, dried fruit",73%,2095
+Canada,2021,Mexico,"3- B,S,C","bland, sour, lacks development",73%,2096
+Canada,2021,India,"3- B,S,C","butterscotch, slight burnt note",73%,2097
+U.S.A.,2015,Ghana,"4- B,S,C,V","sweet, vanilla, cocoa, mold",70%,2098
+U.S.A.,2015,Nicaragua,"3- B,S,C","mild, nutty, vanilla, cocoa",72%,2099
+Australia,2015,Bolivia,"3- B,S,C","floral, intense, pungent",72%,2100
+Australia,2015,Peru,"3- B,S,C","light brown, grits, floral",67%,2101
+Australia,2015,Madagascar,"3- B,S,C","few grits, sweet, orange",65%,2102
+Australia,2015,Madagascar,"3- B,S,C","few grits, bold, dark berry",70%,2103
+Australia,2015,Papua New Guinea,"3- B,S,C","smokey, tart, astringent",65%,2104
+Australia,2015,Tanzania,"3- B,S,C","bold cherry, rich cooa",67%,2105
+Australia,2015,Trinidad,"3- B,S,C","cigar, tobacco, grass, spice",70%,2106
+Australia,2015,Venezuela,"3- B,S,C",mild cacao and fruit notes,70%,2107
+Australia,2015,Ecuador,"3- B,S,C","creamy, pistachio, floral",72%,2108
+Australia,2016,Vietnam,"3- B,S,C","creamy, molasses, off note",70%,2109
+Australia,2016,Guatemala,"3- B,S,C","gummy, fatty, earthy",70%,2110
+Australia,2016,Venezuela,"3- B,S,C","creamy, fruit, cocoa",70%,2111
+Australia,2016,Belize,"3- B,S,C","apple, mild cherry",70%,2112
+Australia,2016,Australia,"3- B,S,C","delicate, smooth, dairy",67%,2113
+Australia,2016,Ecuador,"3- B,S,C","ligt color, creamy, peanut",70%,2114
+Australia,2017,Dominican Republic,"3- B,S,C","cherry, rich choco",70%,2115
+Australia,2017,Haiti,"3- B,S,C","complex, earthy, melon",70%,2116
+U.S.A.,2010,Madagascar,"3- B,S,C","mild cocoa, fruity",68%,2117
+U.S.A.,2010,Ecuador,"3- B,S,C","fudgey then spicy, vanilla",68%,2118
+U.S.A.,2011,Ghana,"3- B,S,C","perfume, strong chemical",67%,2119
+Amsterdam,2018,Sulawesi,"3- B,S*,C","nuts, fruit, cocoa",66%,2120
+India,2017,India,"3- B,S,C","grassy, hammy",70%,2121
+U.S.A.,2015,Madagascar,"2- B,S","tangy, sour, intense",72%,2122
+U.S.A.,2016,Ecuador,"2- B,S","intense, simple, floral, earthy",70%,2123
+U.K.,2016,Dominican Republic,"2- B,S","sticky, hammy, bitter",85%,2124
+U.K.,2016,Peru,"2- B,S","sticky, sandy, pungent",68%,2125
+U.K.,2019,Philippines,"3- B,S,C","intense, dirty,floral,medicinal",70%,2126
+New Zealand,2016,Solomon Islands,"2- B,S","sweet, roasty, spicy",70%,2127
+New Zealand,2016,Solomon Islands,"2- B,S","spicy, roasted, fresh nibs",75%,2128
+U.S.A.,2013,Madagascar,"2- B,S","dry, molasses, sour",70%,2129
+U.S.A.,2013,Venezuela,"2- B,S","dairy, cheese, molasses",70%,2130
+U.S.A.,2013,Bolivia,"2- B,S","intense, leathery, cocoa",70%,2131
+U.S.A.,2013,Peru,"3- B,S,C","molasses, grape, sour",70%,2132
+U.S.A.,2013,Blend,"3- B,S,C","creamy, nutty, cocoa",70%,2133
+U.S.A.,2014,Uganda,"3- B,S,C","molasses, licorice, muted",70%,2134
+U.S.A.,2017,Tanzania,"3- B,S,C","sticky, strong molasses",70%,2135
+U.S.A.,2018,India,"3- B,S,C","molasses undertone, tangy",70%,2136
+U.S.A.,2021,Vietnam,"3- B,S,C","molasses, raisins, astringent",70%,2137
+Canada,2009,Dominican Republic,"3- B,S,C","sticky, few grits, mild fruit,sour",70%,2138
+Canada,2009,Dominican Republic,"3- B,S,C","slow to develop, nutty",70%,2139
+Canada,2009,Ghana,"3- B,S,C","earthy, woody, vegetal",70%,2140
+Canada,2009,Papua New Guinea,"3- B,S,C","smokey, mushroom, woodsy",70%,2141
+Canada,2009,Madagascar,"3- B,S,C","subtle red berry, complex",70%,2142
+Canada,2009,Venezuela,"3- B,S,C",black tea,70%,2143
+Canada,2010,Blend,"3- B,S,C","complex, nut, dried fruit, earth",70%,2144
+Canada,2011,Grenada,"3- B,S,C","super temper,astringent, burn",70%,2145
+Canada,2011,Bolivia,"3- B,S,C","earthy, mild tannic, woody",70%,2146
+Canada,2011,Venezuela,"3- B,S,C","strawberry, green mint",70%,2147
+Canada,2011,Dominican Republic,"3- B,S,C","dried fruit, tart",70%,2148
+Canada,2011,Blend,"3- B,S,C","strawberry, cocoa, nutty",70%,2149
+Canada,2011,Peru,"3- B,S,C","complex,spice,caramel,cocoa",64%,2150
+Canada,2012,Haiti,"3- B,S,C","uneven, grassy, roasty",70%,2151
+Canada,2012,Guatemala,"3- B,S,C","sandy, earthy, tangy wine",70%,2152
+Canada,2012,Blend,"3- B,S,C","smoke,tobacco,black pepper",70%,2153
+Canada,2012,Papua New Guinea,"3- B,S,C","mild smoke, fruit, mild burnt",85%,2154
+Canada,2012,U.S.A.,"3- B,S,C","cranberries, cocoa",70%,2155
+Canada,2012,Venezuela,"3- B,S,C","intense, rich burnt caramel",70%,2156
+Canada,2012,Blend,"3- B,S,C","creamy, raisin, lemon",70%,2157
+Canada,2012,Blend,"3- B,S,C","creamy, complex, peanut",70%,2158
+Canada,2013,Peru,"3- B,S,C","creamy, medicinal, mild fruit",70%,2159
+Canada,2013,Indonesia,"3- B,S,C","creamy, smokey, some fruit",70%,2160
+Canada,2013,Blend,"3- B,S,C","grassy, dairy, mild fatty",70%,2161
+Canada,2013,Venezuela,"3- B,S,C","creamy, nutty, roasty",70%,2162
+Canada,2013,Dominican Republic,"3- B,S,C","smoke, burnt caramel, citrus",77%,2163
+Canada,2013,Trinidad,"3- B,S,C","creamy, brownie mix, roasty",70%,2164
+Canada,2013,Venezuela,"3- B,S,C","nutty, chocolate ice cream",70%,2165
+Canada,2013,Blend,"3- B,S,C","pronounced berry,mild smoke",88%,2166
+Canada,2013,Venezuela,"3- B,S,C","delicate, nutty, cocoa, dairy",70%,2167
+Canada,2013,Blend,"3- B,S,C","roasted nuts, burnt brownie",67%,2168
+Canada,2013,Jamaica,"3- B,S,C","floral, berry, clove",70%,2169
+Canada,2014,Nicaragua,"3- B,S,C","spicy, woodsy",70%,2170
+Canada,2014,Blend,"3- B,S,C","tart, mild sour",70%,2171
+Canada,2014,Nicaragua,"3- B,S,C","basic chocolate, accessible",70%,2172
+Canada,2014,Ecuador,"3- B,S,C","robust, nutty, brownie",80%,2173
+Canada,2014,Peru,"3- B,S,C","creamy, sour orange",70%,2174
+Canada,2014,Vanuatu,"3- B,S,C","creamy, smokey, rich cocoa",70%,2175
+Canada,2015,Venezuela,"3- B,S,C","roasted nuts, dried fruit",70%,2176
+Canada,2015,Venezuela,"3- B,S,C","balanced, nuts, strawberry",75%,2177
+Canada,2016,Ecuador,"3- B,S,C","nutty, banana, harsh ending",70%,2178
+Canada,2016,Dominican Republic,"3- B,S,C","creamy, sweet, deep choco",62%,2179
+Canada,2016,Madagascar,"3- B,S,C",robust dark tropical fruit,70%,2180
+Canada,2016,Brazil,"3- B,S,C","creamy, diluted, mild choco",70%,2181
+Canada,2016,Nicaragua,"3- B,S,C",evolves black pepper to citrus,70%,2182
+Canada,2016,Blend,"3- B,S,C","banana, nutty",75%,2183
+Canada,2016,Vietnam,"3- B,S,C","creamy, honey, blackberry",70%,2184
+Canada,2017,Fiji,"3- B,S,C","creamy, roasty, woody",70%,2185
+Canada,2017,Colombia,"3- B,S,C","creamy, honey, marshmallow",70%,2186
+Canada,2018,Haiti,"3- B,S,C","sweet edge, lemon, muted",70%,2187
+Canada,2018,Madagascar,"3- B,S,C","creamy, acidic, balanced",70%,2188
+Canada,2018,Venezuela,"3- B,S,C","nutty, cocoa",70%,2189
+Canada,2021,Blend,"4- B,S,C,V","sweet, cocoa, candy like",62%,2190
+Canada,2021,Madagascar,"3- B,S,C","red fruit, peanut butter, cocoa",70%,2191
+Canada,2021,Venezuela,"3- B,S,C","spice, sour malt, woody",70%,2192
+Canada,2021,Vietnam,"3- B,S,C","cinamon, nutmeg, hot cocoa",70%,2193
+U.S.A.,2014,Nicaragua,"2- B,S","earthy, dried fruit, complex",70%,2194
+U.S.A.,2014,U.S.A.,"2- B,S","intense, tannic, choco, earthy",70%,2195
+Canada,2017,Dominican Republic,"2- B,S","few grits, sweet, cocoa",70%,2196
+Canada,2017,Ecuador,"2- B,S","dry, floral, earthy",75%,2197
+Canada,2017,Papua New Guinea,"2- B,S","sandy, smokey, fruit, sour",77%,2198
+Canada,2017,Madagascar,"2- B,S","tart, sour, basic",70%,2199
+Canada,2017,Venezuela,"2- B,S","dry, earthy, roasty",75%,2200
+Canada,2017,Tanzania,"2- B,S","sticky, mild fruit, brownie",80%,2201
+U.S.A.,2012,Dominican Republic,"4- B,S,C,V","oily, floral, dairy",70%,2202
+U.S.A.,2012,Dominican Republic,"4- B,S,C,V","fatty, muted strawberry",80%,2203
+U.S.A.,2012,Dominican Republic,"4- B,S,C,V","oily, floral",75%,2204
+Australia,2014,Vanuatu,"3- B,S,C","bready, sour milk, fatty",72%,2205
+Australia,2016,Dominican Republic,"3- B,S,C","spicy, chocolatey",70%,2206
+Australia,2016,Ecuador,"3- B,S,C","floral, sandy",70%,2207
+Australia,2016,Madagascar,"3- B,S,C","powdery, cherry, astringent",70%,2208
+U.S.A.,2017,Peru,"3- B,S,C","floral, earthy, burnt rubber",70%,2209
+U.S.A.,2017,Ecuador,"3- B,S,C","floral, astringent",70%,2210
+U.S.A.,2017,Dominican Republic,"3- B,S,C","sandy, robust, grapes, malt",70%,2211
+U.S.A.,2021,Belize,"2- B,S","strong roast, tart raspberry",70%,2212
+U.S.A.,2021,Madagascar,"2- B,S","plum, roasty undertone, sour",70%,2213
+U.S.A.,2021,Uganda,"2- B,S","dairy, cocoa, well balanced",70%,2214
+Switzerland,2013,Bolivia,"4- B,S,C,L","fatty, mild fruit, off note",70%,2215
+U.S.A.,2013,Dominican Republic,"3- B,S,L","gritty,intense coffee, metallic",84%,2216
+U.S.A.,2013,Dominican Republic,"3- B,S,L","unrefined, sweet, mild coffee",70%,2217
+U.S.A.,2015,Ecuador,"4- B,S*,C,V","coconut, mild vanilla",70%,2218
+U.S.A.,2015,Dominican Republic,"4- B,S*,C,V","coconut, cocoa, few grits",70%,2219
+U.S.A.,2015,Guatemala,"4- B,S*,C,V","dried fruit, coconut, few grits",70%,2220
+U.S.A.,2015,Nicaragua,"4- B,S*,C,V","brownie, few grits, sandy",70%,2221
+U.S.A.,2015,Madagascar,"4- B,S*,C,V","red fruit, coconut",70%,2222
+Switzerland,2011,India,"4- B,S,C,V","peanut butter,vanilla,artificial",72%,2223
+Switzerland,2012,Brazil,"4- B,S,C,V","creamy, vanilla, moldy",68%,2224
+U.S.A.,2014,Ecuador,"3- B,S,C","floral, hints of fruit",84%,2225
+U.S.A.,2014,Ecuador,"3- B,S,C","oily surface, floral, earthy",70%,2226
+U.S.A.,2017,Bolivia,"3- B,S,C","fatty, rubber, off notes",70%,2227
+U.S.A.,2012,Philippines,"4- B,S,C,V","vanilla, sweet",65%,2228
+U.S.A.,2012,Philippines,"4- B,S,C,V","dry, sweet, vanilla(n)",70%,2229
+U.S.A.,2012,Philippines,"4- B,S,C,V","bland, earthy",75%,2230
+U.S.A.,2013,Madagascar,"2- B,S","molasses, sour, astringent",67%,2231
+U.S.A.,2013,Belize,"2- B,S","intense, rich, dark berry",78%,2232
+Denmark,2016,Peru,"5- B,S,C,V,L","sandy, sweet, vanilla",61%,2233
+Denmark,2016,Peru,"5- B,S,C,V,L","powdery, vanilla, earthy",71%,2234
+Venezuela,2016,Venezuela,"3- B,S,C","sticy, nutty, roasty, off notes",70%,2235
+Venezuela,2016,Venezuela,"3- B,S,C","sticky, sweet, nutty, roasty",60%,2236
+Sweden,2015,Sri Lanka,"2- B,S","ham, sour, intense",70%,2237
+Sweden,2019,Tanzania,"2- B,S","fruit, burnt, harsh",74%,2238
+U.S.A.,2021,Honduras,"3- B,S,C","overly roasty, spicy",72%,2239
+U.S.A.,2021,Peru,"3- B,S,C","earthy, roasty, hammy",72%,2240
+U.S.A.,2021,Uganda,"3- B,S,C","melon, mocha",77%,2241
+U.S.A.,2021,Trinidad,"3- B,S,C","herbal, tea, dried fruit",80%,2242
+Japan,2018,Peru,"5- B,S,C,V,L","pungent, molasses, sour",70%,2243
+Japan,2018,Tanzania,"3- B,S,C","fatty, sour, off notes",75%,2244
+Japan,2018,Belize,"5- B,S,C,V,L","buttery, cheesy",70%,2245
+Japan,2018,Brazil,"5- B,S,C,V,L","cardboard, cheesy",70%,2246
+Japan,2018,Venezuela,"5- B,S,C,V,L","acidic, cocoa, dried fruit",75%,2247
+Canada,2020,Mexico,"3- B,S,C","dried fig, earthy, dirty",74%,2248
+Canada,2020,Peru,"3- B,S,C","burnt black licorice, intense",68%,2249
+Canada,2020,Papua New Guinea,"3- B,S,C","savory lemon, ham",73%,2250
+Hungary,2011,Venezuela,"3- B,S,C","rustic, sugar dominates",70%,2251
+Hungary,2012,Dominican Republic,"3- B,S,C","rustic, large unground pieces",70%,2252
+Hungary,2012,Madagascar,"3- B,S,C","rustic, bright fruit",70%,2253
+Hungary,2012,Peru,"3- B,S,C","sweet, spicy",70%,2254
+Hungary,2013,Nicaragua,"3- B,S,C","sour milk, hot cocoa",70%,2255
+Hungary,2013,Madagascar,"3- B,S,C","light color, sandy, fruity",70%,2256
+Hungary,2013,Madagascar,"3- B,S,C","dark color, sandy, fruity",70%,2257
+Hungary,2014,Venezuela,"3- B,S,C","sandy, earthy, spice, nutty",70%,2258
+Hungary,2014,Cuba,"3- B,S,C","sandy, banana",70%,2259
+Hungary,2015,Ecuador,"3- B,S,C","sweet, brownie, sour",70%,2260
+Hungary,2015,Cuba,"3- B,S,C","rustic, spicy, earthy",88%,2261
+Hungary,2015,Madagascar,"3- B,S,C","sour orange, fatty",70%,2262
+Hungary,2015,Vietnam,"3- B,S,C","smokey, mild citrus",70%,2263
+Hungary,2015,Brazil,"3- B,S,C","rustic, earthy, tea",70%,2264
+Hungary,2015,Ecuador,"3- B,S,C","coarse, spicy cinnamon",70%,2265
+U.S.A.,2013,Mexico,"4- B,S,C,V","vanilla, fuel, earthy",70%,2266
+U.S.A.,2013,Costa Rica,"4- B,S,C,V","licorice, dried fruit, burnt fuel",70%,2267
+U.S.A.,2013,Dominican Republic,"4- B,S,C,V","oily, cardboard, sour",70%,2268
+U.S.A.,2013,Peru,"4- B,S,C,V","vanilla, fatty, vegetal, mint",70%,2269
+Japan,2015,Trinidad,"4- B,S,C,L","intense, grassy, smokey",77%,2270
+Japan,2015,Colombia,"5- B,S,C,V,L","flat, smoke, marshmallow",70%,2271
+Japan,2015,Papua New Guinea,"5- B,S,C,V,L","creamy, smoke, ham",62%,2272
+Japan,2015,Vietnam,"5- B,S,C,V,L","vanilla, butter, caramel",60%,2273
+Vietnam,2019,Vietnam,"3- B,S,C","cocoa,sweet,fatty, cardboard",70%,2274
+Vietnam,2019,Vietnam,"3- B,S,C","intense cocoa, fatty, sticky",75%,2275
+Suriname,2016,Suriname,"2- B,S","earthy, floral, dry",70%,2276
+U.S.A.,2019,Venezuela,"4- B,S,C,V","vanilla, fatty",75%,2277
+U.S.A.,2019,Peru,"3- B,S,C","blackberry, dirt, high roast",75%,2278
+U.S.A.,2019,Peru,"3- B,S,C",fig,75%,2279
+U.S.A.,2015,Madagascar,"4- B,S,C,V","berry, spices, smoke",75%,2280
+Switzerland,2019,Nicaragua,"3- B,S,C","nutty, off, roasty, fatty",72%,2281
+Switzerland,2019,Mexico,"3- B,S,C","nutty, fruit, sour, floral",70%,2282
+U.S.A.,2021,Haiti,"3- B,S,C","earthy, fatty, gritty",67%,2283
+U.S.A.,2007,Dominican Republic,"3- B,S,C","sandy, sour banana, sweet",70%,2284
+U.S.A.,2009,Mexico,"3- B,S,C","rustic, sweet, earthy",75%,2285
+U.S.A.,2011,Bolivia,"3- B,S,C","grainy, blueberries, bitter",87%,2286
+U.S.A.,2014,Belize,"3- B,S,C","coarse, watering, sweet",68%,2287
+U.S.A.,2008,Ghana,"5- B,S,C,V,L","gritty,sweet,swiss miss,vanilla",70%,2288
+U.S.A.,2008,Peru,"5- B,S,C,V,L","tangy, off, musty, sour",70%,2289
+U.S.A.,2008,Peru,"5- B,S,C,V,L","dry, musty, flat",70%,2290
+U.S.A.,2008,Madagascar,"5- B,S,C,V,L","dry, red berry, off note",70%,2291
+U.S.A.,2009,Blend,"5- B,S,C,V,L","tea, sweet, astringent",60%,2292
+U.S.A.,2009,Blend,"5- B,S,C,V,L","nutty, candy-like",68%,2293
+U.S.A.,2016,Blend,"5- B,S,C,V,L","strong vanilla, sweet, fatty",62%,2295
+U.S.A.,2012,Peru,"4- B,S,C,V","perfume, chemical, soapy",70%,2296
+U.S.A.,2012,Madagascar,"4- B,S,C,V","molasses, off notes",70%,2297
+U.S.A.,2012,Bolivia,"3- B,S,C","candy,peanut butter,caramel",70%,2298
+U.S.A.,2012,Brazil,"3- B,S,C","flat, cardboard, metallic",70%,2299
+U.S.A.,2012,Blend,"4- B,S,C,V","molasses, caramel, spice",70%,2300
+U.S.A.,2012,Papua New Guinea,"4- B,S,C,V","molasses, caramel, fruity",70%,2301
+U.S.A.,2012,Madagascar,"3- B,S,C","sticky, caramel",70%,2302
+U.S.A.,2012,Venezuela,"4- B,S,C,V","earthy, savory, hammy",80%,2303
+U.S.A.,2012,Ecuador,"4- B,S,C,V","gritty, rum, molasses",70%,2304
+U.S.A.,2012,Ecuador,"3- B,S,C","molasses, fruit, floral",70%,2305
+U.S.A.,2012,Mexico,"3- B,S,C","molasses, caramel",70%,2306
+U.S.A.,2012,Bolivia,"3- B,S,C","green apple, sweet",67%,2307
+U.S.A.,2012,Dominican Republic,"4- B,S,C,V","molasses, caramel",70%,2308
+U.S.A.,2012,Brazil,"3- B,S,C","honey, pepper, charcoal",70%,2309
+U.S.A.,2014,Ecuador,"2- B,S","intense, mild coffee and rum",77%,2310
+U.S.A.,2014,Madagascar,"2- B,S","sweet, rich, tannic, fruity",67%,2311
+U.S.A.,2014,Uganda,"2- B,S","creamy, almond, butter",73%,2312
+U.S.A.,2015,Peru,"2- B,S","spicy, black pepper, intense",70%,2313
+U.S.A.,2015,Ecuador,"2- B,S","floral, earthy, bourbon",70%,2314
+U.S.A.,2015,Dominican Republic,"3- B,S,C","spicy, black pepper, bold",70%,2315
+U.S.A.,2015,Belize,"2- B,S","nutty, raspberry, metallic",70%,2316
+U.S.A.,2015,Madagascar,"2- B,S","bright fruit, mild sour",70%,2317
+U.S.A.,2015,Guatemala,"3- B,S,C","walnuts, cocoa, easy melt",70%,2318
+U.S.A.,2019,Haiti,"3- B,S,C","harsh, tobacco",72%,2319
+U.S.A.,2019,Belize,"3- B,S,C","berries, licorice, cocoa,bitter",77%,2320
+U.S.A.,2019,Bolivia,"3- B,S,C","muted, roasted banana",77%,2321
+Sweden,2015,Peru,"3- B,S,C","sandy, sweet, raisins",70%,2322
+U.S.A.,2007,Venezuela,"2- B,S","dry, very bland, mild bitter",91%,2323
+U.S.A.,2007,Ivory Coast,"4- B,S,C,V","dry, gritty, hint of fruit, sour",75%,2324
+U.S.A.,2007,Ghana,"4- B,S,C,V","dry, slightly tart, bitter",84%,2325
+U.S.A.,2007,Blend,"3- B,S,C","sandy, sweet, fruity",75%,2326
+U.S.A.,2007,Madagascar,"3- B,S,C","sandy, sweet, blueberry",65%,2327
+U.S.A.,2012,Congo,"4- B,S,C,V","sweet, vanilla, cocoa",65%,2328
+Japan,2015,Peru,"2- B,S","peanut butter, sour milk",70%,2329
+U.S.A.,2019,Ecuador,"2- B,S","pure, bold, floral",70%,2330
+Colombia,2018,Colombia,"3- B,S,L","floral, vegetal",70%,2331
+Colombia,2018,Colombia,"3- B,S,L","spicy, marshmallow",70%,2332
+Germany,2016,Belize,"3- B,S,C","bright fruit, cashew",72%,2333
+U.S.A.,2019,Tanzania,"2- B,S","bland, mild honey, sour",71%,2334
+Ecuador,2020,Ecuador,"3- B,S,C","strong floral, oily, bold, grassy",75%,2335
+Ecuador,2014,Ecuador,"2- B,S","waxy, mild fruit, floral",81%,2336
+U.S.A.,2011,Venezuela,"3- B,S,C","peanut butter, soapy",72%,2338
+U.S.A.,2011,Dominican Republic,"3- B,S,C","pronounced fruit, sour",74%,2339
+U.S.A.,2012,Bolivia,"3- B,S,C","sandy, sweet",77%,2340
+U.K.,2018,Haiti,"3- B,S,C","metallic, astringent",70%,2341
+U.K.,2018,Bolivia,"3- B,S,C","spicy, cocoa, sweet",70%,2342
+U.K.,2018,Belize,"3- B,S,C","honey, caramel",70%,2343
+U.K.,2019,Colombia,"3- B,S,C","dull, chewy, sweet",70%,2344
+South Korea,2019,Ecuador,"2- B,S","nutty, floral",70%,2345
+U.S.A.,2014,Dominican Republic,"2- B,S","baked, roasty, coffee",72%,2346
+U.S.A.,2012,Dominican Republic,"3- B,S*,C","sandy, strawberry, coconut",70%,2347
+U.S.A.,2012,Dominican Republic,"3- B,S*,C","heavy roast, black licorice",70%,2348
+U.S.A.,2020,Nicaragua,"2- B,S","high acidity, toffee, spicy",70%,2349
+U.S.A.,2020,Haiti,"2- B,S","dominating roast, deep cocoa",70%,2350
+U.S.A.,2020,Guatemala,"2- B,S","bright fruit, heavy roast, smooth",70%,2351
+U.S.A.,2021,Philippines,"2- B,S","sticky, butterscotch, sl. Hammy",70%,2352
+Peru,2018,Peru,"3- B,S,C","powdery, complex, rubber",73%,2353
+Peru,2018,Peru,"3- B,S,C","sweet, pungent grape, acidic",70%,2354
+Canada,2020,Vietnam,"2- B,S","tart, sweet, sour, savory",70%,2355
+Canada,2020,Honduras,"2- B,S","woody, sweet, unrefined",70%,2356
+Canada,2020,Peru,"2- B,S","very sandy, spicey, sweet",70%,2357
+U.S.A.,2011,Dominican Republic,"2- B,S","roasty, woody, rubber off",73%,2359
+U.S.A.,2013,Bolivia,"2- B,S","roasty, bitter, caramel, dairy",75%,2360
+U.S.A.,2013,Dominican Republic,"2- B,S","roasty, sligt burnt, red fruit",68%,2361
+U.S.A.,2014,Madagascar,"2- B,S","intense, red berry",75%,2362
+U.S.A.,2015,Dominican Republic,"2- B,S","spicy, sour, off note",75%,2363
+U.S.A.,2015,Ecuador,"2- B,S","intense, floral",75%,2364
+U.S.A.,2017,Tanzania,"2- B,S","dry, floral, woody",75%,2365
+U.S.A.,2016,Peru,"3- B,S,C","coarse, sweet, lemon",60%,2366
+Canada,2017,Dominican Republic,"2- B,S","dry, coarse, hay, off",75%,2368
+Canada,2017,Tanzania,"2- B,S","dry, coarse, sweet, earthy",75%,2369
+Canada,2017,Guatemala,"2- B,S","dry, coarse, sour",75%,2370
+U.S.A.,2014,Nicaragua,"2- B,S","creamy, woody,green, rubber",74%,2371
+U.S.A.,2014,Dominican Republic,"2- B,S","tart, tangy, mild cocoa",70%,2372
+U.S.A.,2016,Madagascar,"2- B,S","sweet, acidic, tart",72%,2373
+U.S.A.,2016,Tanzania,"2- B,S","sandy, sweet, peach",72%,2374
+Italy,2014,Venezuela,"4- B,S,C,V","intense, nutty, mild rubber",65%,2375
+Spain,2017,Colombia,"3- B,S,C","spice, melon, nutty",70%,2376
+Spain,2018,Nicaragua,"3- B,S,C",roasty cocoa,70%,2377
+Canada,2020,Belize,"3- B,S,C","roasted strawberry, bold",74%,2378
+France,2006,Trinidad,"5- B,S,C,V,L","nutty, vegetal, sweet",64%,2379
+France,2006,Blend,"5- B,S,C,V,L","slight bitter, woody",66%,2380
+France,2006,Venezuela,"5- B,S,C,V,L","modest, creamy, cocoa",64%,2381
+France,2006,Madagascar,"5- B,S,C,V,L","red berry, rich cocoa",64%,2382
+France,2006,Blend,"5- B,S,C,V,L","subtle, smooth, earthy, long",70%,2383
+France,2007,Blend,"5- B,S,C,V,L","creamy, fatty, very bitter",85%,2384
+France,2007,Blend,"5- B,S,C,V,L","berries, tart, bitter",85%,2385
+France,2007,Blend,"5- B,S,C,V,L",nutty and bitter dominate,71%,2386
+France,2007,Blend,"5- B,S,C,V,L","creamy, rich, licorice",72%,2387
+France,2007,Venezuela,"5- B,S,C,V,L","creamy, cherry",64%,2388
+France,2007,Venezuela,"5- B,S,C,V,L","sandy, vegetal, cocoa",65%,2389
+France,2007,Madagascar,"5- B,S,C,V,L","creamy, blueberry, raspberry",64%,2390
+France,2009,Ghana,"5- B,S,C,V,L","creamy, cocoa, bread",68%,2391
+France,2009,Dominican Republic,"5- B,S,C,V,L","cocoa dominates, woodsy",64%,2392
+France,2009,Ecuador,"5- B,S,C,V,L","rich cocoa, hot spice",66%,2393
+France,2011,Blend,"5- B,S,C,V,L","intense sweet, nut, orange",56%,2394
+France,2011,Venezuela,"5- B,S,C,V,L","creamy, honey,peanut butter",64%,2395
+France,2012,Venezuela,"5- B,S,C,V,L","green,unripened fruit,banana",69%,2396
+France,2013,Blend,"5- B,S,C,V,L","yogurt, lemon, licorice",70%,2397
+France,2013,Dominican Republic,"5- B,S,C,V,L","complex, herbs, fruit, dairy",64%,2398
+France,2015,Peru,"5- B,S,C,V,L","intense, dark berry, grapes",63%,2399
+France,2017,Blend,"3- B,S,C","intense, rich, sweet",60%,2400
+Madagascar,2009,Madagascar,"3- B,S,C","fatty, bland, very astringent",72%,2403
+Madagascar,2009,Madagascar,"4- B,S,C,V","fatty, sour, spoiled",76%,2404
+Madagascar,2009,Madagascar,"4- B,S,C,V","fatty, bitter, sour",80%,2405
+U.S.A.,2015,Bolivia,"2- B,S","peanut butter, coffee, mint",70%,2409
+U.S.A.,2015,Bolivia,"2- B,S","complex, nibs too soft",70%,2410
+U.S.A.,2018,Bolivia,"2- B,S","smokey, earthy, nutty",70%,2411
+U.S.A.,2018,Guatemala,"2- B,S","earthy, sour, intense",70%,2412
+U.S.A.,2018,Dominican Republic,"2- B,S","dark berry, roasty",70%,2413
+U.S.A.,2012,Blend,"3- B,S,C","sweet, fruity, heavy roast",70%,2414
+U.S.A.,2013,Blend,"3- B,S,C","mellow fruit, tart, mild bitter",90%,2415
+U.S.A.,2014,Dominican Republic,"3- B,S,C","intense, cocoa, spicy, fruit",90%,2416
+U.S.A.,2014,Trinidad,"3- B,S,C","spicy, roasty, acidic, dairy",75%,2417
+U.S.A.,2014,Ecuador,"3- B,S,C","spicy, nutmeg, brownie",75%,2418
+U.S.A.,2021,Guatemala,"2- B,S","earthy, harsh, acidic",75%,2419
+U.S.A.,2021,Dominican Republic,"2- B,S","roasty, berry notes",75%,2420
+U.S.A.,2021,Blend,"3- B,S,C","nutty, grassy, cocoa",70%,2421
+U.S.A.,2021,Ecuador,"2- B,S",floral & fruit,75%,2422
+France,2012,Vietnam,"4- B,S,C,L","spicy, dairy",70%,2423
+U.S.A.,2014,Peru,"3- B,S,C","sandy, sweet, nutty",75%,2424
+U.S.A.,2007,Ecuador,"3- B,S,C","sticky, cocoa, earthy",65%,2428
+U.S.A.,2015,Madagascar,"2- B,S","intense, tart, sour, raisin",77%,2429
+U.S.A.,2015,Guatemala,"2- B,S","creamy, cocoa, pungent",77%,2430
+U.S.A.,2015,Belize,"2- B,S","mild metallic, brownie, earth",77%,2431
+U.S.A.,2015,Venezuela,"2- B,S","intense, mild bitter, roasty",77%,2432
+U.S.A.,2015,Peru,"2- B,S","chalky, peach, bland",77%,2433
+U.S.A.,2016,Peru,"5- B,S,C,V,L","pungent, metallic",70%,2434
+U.S.A.,2016,Venezuela,"5- B,S,C,V,L","nutty, off notes",70%,2435
+U.S.A.,2016,Dominican Republic,"5- B,S,C,V,L","sweet, simple, cocoa",70%,2436
+U.S.A.,2018,Bolivia,"5- B,S,C,V,L","earthy, vanilla",70%,2437
+U.S.A.,2018,Haiti,"5- B,S,C,V,L","vanilla, late cocoa notes",70%,2438
+New Zealand,2016,Dominican Republic,"2- B,S*","dry, rich, roasty",70%,2439
+New Zealand,2016,Peru,"2- B,S*","grapes, pungent",70%,2440
+New Zealand,2017,Samoa,"2- B,S","earthy, roasty",77%,2441
+U.S.A.,2018,Tanzania,"3- B,S,C","nuts, fruit, poor aftertaste",68%,2442
+U.S.A.,2018,Bolivia,"3- B,S,C","creamy, fruit, poor aftertaste",72%,2443
+U.S.A.,2021,Philippines,"3- B,S,C","nutty, roasted cherry, coffee",74%,2444
+U.S.A.,2021,Uganda,"3- B,S,C","nutty, cocoa, yogurt",72%,2445
+U.S.A.,2021,Honduras,"2- B,S","brownie, nutty, roasty",74%,2446
+U.S.A.,2021,Trinidad,"3- B,S,C","complex, mild tobacco, nut, fruit",72%,2447
+Ireland,2013,Peru,"3- B,S,C","light color, grit, metallic",75%,2449
+Ireland,2013,Peru,"3- B,S,C","slow develop, bitter, metallic",89%,2450
+Ireland,2013,Peru,"3- B,S,C","mild, metallic",75%,2451
+Ireland,2013,Peru,"3- B,S,C","sandy, sweet, coffee",75%,2452
+U.K.,2009,Peru,"3- B,S,C","sandy, rich, earthy",70%,2453
+U.K.,2009,Venezuela,"3- B,S,C","creamy, earthy, nutty",72%,2454
+U.K.,2010,Madagascar,"3- B,S,C","dry, mild fruit",71%,2455
+U.K.,2010,Venezuela,"3- B,S,C","dry, nutty, cocoa",72%,2456
+U.K.,2010,Indonesia,"3- B,S,C","smokey, fruity, sour",69%,2457
+U.K.,2014,Colombia,"3- B,S,C","mild nutty and fruit, savory",88%,2459
+U.K.,2016,Colombia,"3- B,S,C","rich cocoa, spicy, cinamon",70%,2460
+U.S.A.,2016,Venezuela,"3- B,S,C","nutty, rubber",74%,2461
+U.S.A.,2016,Bolivia,"3- B,S,C","nutty, fig, short length",76%,2462
+U.S.A.,2016,Ghana,"3- B,S,C","strong malt, choco pudding",75%,2463
+U.S.A.,2019,Belize,"3- B,S,C","flat, molasses, creamy",68%,2464
+U.S.A.,2019,Venezuela,"3- B,S,C","intense, creamy, nutty",70%,2465
+U.S.A.,2021,Dominican Republic,"3- B,S,C","dairy, caramel, brownie, nutty",70%,2466
+U.S.A.,2011,Dominican Republic,"2- B,S","brownie, fruit, fudge",70%,2467
+U.S.A.,2011,Venezuela,"2- B,S","nutty, tart, coffee",70%,2468
+U.S.A.,2012,Ecuador,"2- B,S","mild fruit, chemical off",70%,2469
+U.S.A.,2012,Costa Rica,"2- B,S","roasty, metallic, coffee",70%,2470
+U.S.A.,2012,Madagascar,"3- B,S,C",melon,70%,2471
+U.S.A.,2013,Ecuador,"2- B,S","intense, bourbon",70%,2472
+U.S.A.,2013,Trinidad,"2- B,S","creamy, woody, mild metallic",70%,2473
+U.S.A.,2014,Peru,"2- B,S","sandy, intense, mild nutty",70%,2474
+U.S.A.,2021,Tanzania,"2- B,S","short, tart, fruit, sweet edge",70%,2475
+Dominican Republic,2013,Dominican Republic,"5- B,S,C,L,Sa","salt noticeable, vanilla",66%,2476
+El Salvador,2019,El Salvador,"4- B,S,C,L","overly sweet, dirty",65%,2477
+El Salvador,2019,El Salvador,"4- B,S,C,L","coarse, sweet, candy, licorice",75%,2478
+El Salvador,2019,El Salvador,"4- B,S,C,L","nutty, basic cocoa",70%,2479
+U.S.A.,2020,Tanzania,"2- B,S","sandy, earthy, hint of tang",73%,2480
+U.S.A.,2020,Peru,"2- B,S","burnt caramel, grapes",70%,2481
+U.S.A.,2020,Nicaragua,"2- B,S","sandy, roasty, fig, late spiciness",72%,2482
+U.S.A.,2017,Dominican Republic,"2- B,S","spciy, cardamom, off flavor",70%,2483
+U.S.A.,2017,Madagascar,"2- B,S","sour milk, molasses, sweet",70%,2484
+U.S.A.,2021,Trinidad,"3- B,S,C","nutty, fruity, sweet",70%,2485
+U.S.A.,2021,Vietnam,"3- B,S,C","tart, cherry, cocoa, mild sour",70%,2486
+U.S.A.,2021,Dominican Republic,"3- B,S,C","sweet, rich, cocoa, fruity",70%,2487
+U.S.A.,2021,Bolivia,"3- B,S,C","sweet, tart, sour",70%,2488
+U.S.A.,2015,Papua New Guinea,"3- B,S,C","heavy smoke, fruit, ham",70%,2489
+U.S.A.,2015,Blend,"3- B,S,C","very sweet, heavy roast, nuts",60%,2490
+U.S.A.,2015,Dominican Republic,"3- B,S,C","nutty, earthy, hammy",70%,2491
+U.S.A.,2015,Madagascar,"3- B,S,C","sandy, mild sour, mild fruit",70%,2492
+U.S.A.,2015,Peru,"3- B,S,C","sandy, nutty, mocha",70%,2493
+U.S.A.,2015,Belize,"3- B,S,C","rich base cocoa, sweet",70%,2494
+Austria,2016,Ecuador,"3- B,S,C","sticky, off notes of rubber",70%,2495
+Austria,2016,Trinidad,"3- B,S,C","sticky, strong bitter, spice",85%,2496
+Austria,2016,Tanzania,"3- B,S,C","melon, mild tart, bitter, fatty",85%,2497
+Austria,2016,Madagascar,"3- B,S,C","sticky, mellow choco, dairy",70%,2498
+Austria,2016,Tanzania,"3- B,S,C","smoke, tart, burnt cocoa",70%,2499
+Austria,2016,Trinidad,"2- B,S","tobacco, over roasted",78%,2500
+Australia,2011,Bolivia,"4- B,S,C,L","oily, honey, light rum",68%,2501
+Australia,2011,Papua New Guinea,"4- B,S,C,L","toffee, caramel, butterscotch",66%,2502
+Australia,2011,Bolivia,"4- B,S,C,L",intense prune and berry,72%,2503
+Australia,2016,Blend,"5- B,S,C,V,L","oily, sweet, choco, nutty",65%,2504
+Australia,2016,Solomon Islands,"4- B,S,C,L","smokey, dried fruit, balanced",78%,2505
+Belgium,2018,Nicaragua,"3- B,S,C",intense earthy,72%,2506
+Belgium,2018,DR Congo,"3- B,S*,C","fatty, herbal, earthy",68%,2507
+Belgium,2018,Nicaragua,"3- B,S,C","sandy, basic cocoa",75%,2508
+Belgium,2018,Nicaragua,"3- B,S,C","large grits, sweet, dried fruit",70%,2509
+Austria,2010,Brazil,"4- B,S*,C,Sa","woody, butterscotch",65%,2510
+Austria,2011,Congo,"4- B,S*,C,Sa","dairy, salt, caramel",65%,2511
+Austria,2011,India,"4- B,S*,C,Sa","oily, subdued, caramel, salt",62%,2512
+Austria,2011,India,"4- B,S*,C,Sa","creamy, masculine, earthy",65%,2513
+Austria,2011,Peru,"4- B,S*,C,Sa","creamy, fatty, mild nutty",70%,2514
+Austria,2012,Peru,"4- B,S*,C,Sa","woody, toast, pepper",70%,2515
+Austria,2012,Ecuador,"4- B,S*,C,Sa","creamy, nutty, bready",75%,2516
+Austria,2012,Papua New Guinea,"4- B,S*,C,Sa","hint of smoke, fruit",75%,2517
+Austria,2012,Bolivia,"4- B,S*,C,Sa","smooth, intense blueberry",90%,2518
+Austria,2012,Congo,"4- B,S*,C,Sa","creamy, caramel, salt, sweet",68%,2519
+Austria,2012,Panama,"4- B,S*,C,Sa","oily, earthy, caramel, salty",72%,2520
+Austria,2012,Blend,"4- B,S*,C,Sa","dairy, burnt caramel, coffee",65%,2521
+Austria,2012,Peru,"4- B,S*,C,Sa","butterscotch, pepper",70%,2522
+Austria,2012,Blend,"4- B,S*,C,Sa","smooth, spicy, floral",58%,2523
+Austria,2012,Dominican Republic,"4- B,S*,C,Sa","spice, caramel, toffee, salty",62%,2524
+Austria,2012,Dominican Republic,"4- B,S*,C,Sa","strawberry, Cadbury egg",70%,2525
+Austria,2014,Blend,"4- B,S*,C,Sa","waxy, cloying, vegetal",80%,2526
+Austria,2017,Colombia,"3- B,S,C","strong nutty, marshmallow",75%,2527
+Austria,2018,Blend,"3- B,S,C","fatty, earthy, cocoa",75%,2528
+Austria,2018,Congo,"3- B,S,C","fatty, mild nuts, mild fruit",70%,2529
+Austria,2018,Belize,"3- B,S,C","muted, roasty, accessible",72%,2530
