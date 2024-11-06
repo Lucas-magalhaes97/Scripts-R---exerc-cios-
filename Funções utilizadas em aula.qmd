@@ -1,0 +1,72 @@
+---
+title: "Funções utilizadas em aula"
+author: "Lucas Ast"
+format: html
+editor: visual
+---
+
+## Funções utilizadas em aula
+
+-   **`fread()`**: Lê arquivos de dados em formato CSV ou similares de forma eficiente e rápida.
+
+<!-- -->
+
+-   **`colnames()`**: Retorna ou define os nomes das colunas de um data frame.
+
+-   **`glimpse()`**: Fornece uma visão rápida e compacta da estrutura de um data frame.
+
+-   **`group_by()`**: Agrupa os dados em um data frame por uma ou mais colunas para operações subsequentes.
+
+-   **`summarise()`**: Resuma ou agrega dados para calcular estatísticas, como somas ou médias.
+
+-   **`left_join()`**: Une dois data frames com base em colunas comuns, mantendo todas as linhas do data frame da esquerda.
+
+-   **`filter()`**: Filtra linhas de um data frame com base em uma condição lógica.
+
+-   **`mutate()`**: Adiciona ou modifica colunas em um data frame.
+
+-   **`arrange()`**: Reordena as linhas de um data frame com base em uma ou mais colunas.
+
+-   **`str_detect()`**: Verifica a presença de um padrão em uma string e retorna um valor lógico.
+
+-   **`str_count()`**: Conta a quantidade de ocorrências de um padrão em uma string.
+
+-   **`spread()`** (obsoleta, substituída por `pivot_wider()`): Transforma dados de formato longo para formato largo.
+
+-   **`n()`**: Conta o número de observações em um grupo ou conjunto de dados.
+
+<!-- -->
+
+-   **`select()`**: Escolhe colunas específicas de um data frame.
+
+-   **`rename()`**: Renomeia colunas de um data frame.
+
+-   **`pivot_longer()`**: Transforma dados de formato largo para formato longo (inverso de `pivot_wider()`).
+
+-   **`pivot_wider()`**: Transforma dados de formato longo para formato largo (substitui `spread()`).
+
+-   **`distinct()`**: Retorna linhas únicas, removendo duplicatas de um data frame.
+
+-   **`slice()`**: Seleciona linhas específicas por índice.
+
+-   **`case_when()`**: Cria colunas condicionais de forma semelhante a um `switch` em outras linguagens.
+
+-   **`across()`**: Aplica uma função em múltiplas colunas de forma simultânea.
+
+-   **`inner_join()`, `full_join()`, `right_join()`**: Variedades de `join` que combinam data frames de diferentes maneiras.
+
+-   **`bind_rows()` e `bind_cols()`**: Junta data frames por linhas ou colunas.
+
+-   **`ifelse()`**: Cria condições em vetores ou colunas para retornar valores específicos.
+
+-   **`rowwise()`**: Permite aplicar operações linha a linha em um data frame.
+
+-   **`map()` do pacote `purrr`**: Aplica funções a listas ou colunas de forma eficiente.
+
+-   **`summarise_at()` e `summarise_all()`**: Resumem dados aplicando funções em múltiplas colunas (substituídas pelo uso de `across()`).
+
+-   **`replace_na()`**: Substitui valores `NA` por valores especificados.
+
+-   **`coalesce()`**: Retorna o primeiro valor não-NA de uma sequência de vetores.
+
+-   **`filter_all()`, `filter_at()`, `filter_if()`**: Filtram linhas com condições específicas aplicadas a todas ou algumas colunas.
