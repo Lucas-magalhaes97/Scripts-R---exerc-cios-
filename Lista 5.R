@@ -1,6 +1,6 @@
 ## Scripts utilizado para responder a Lista 5 - Lucas Ast
 
-library(tidyverse)
+library(dplyr)
 library(data.table)
 library(magrittr)
 
@@ -42,10 +42,35 @@ total_chocolates_5
 
 # d. Quantos chocolates existem com pelo menos 4 características memoráveis?
 library(stringr)
+                                                                          # A função mutate() é usada para criar novas colunas ou modificar colunas existentes em um data frame.
+chocolate_caract_4 <- dados %>%
+  mutate(num_caracteristicas = str_count(caracteristicas, ",") + 1) %>%  # Conta o número de características
+  filter(num_caracteristicas >= 4) %>%  # Filtra os chocolates com 4 ou mais características
+  summarise(total_chocolates = n())  # Conta o total de chocolates que atendem à condição
 
-chocolate_caract_4 <-  dados %>% 
-  filter(questao_d = caracteristicas >= 4) %>% 
-  summarise(questao_d = n())
 chocolate_caract_4
+
+# e.  Quantos chocolates existem com Sal em sua composição?
+
+chocolate_com_sal <- dados %>%
+  filter(str_detect(ingredientes, "S")) %>%  # Verifica se "S" está presente na string da coluna ingredientes
+  summarise(total_chocolates_sal = n())  # Conta o total de chocolates que atendem à condição
+
+chocolate_com_sal 
   
+# f.  Quantos chocolates existem com Baunilha em sua composição?
+
+chocolate_com_baunilha <- dados %>% 
+  filter(str_detect(ingredientes, "V")) %>% 
+  summarise(total_chocolates_baunilha = n())
+
+chocolate_com_baunilha
+
+# g.  Quantos chocolates existem com Lecitina e Baunilha em sua composição?
+
+chocolate_com_BL <- dados %>% 
+  filter(str_detect(ingredientes, "V") & str_detect(ingredientes, "L")) %>%
+  summarise(total_chocolate_BL = n())
+
+chocolate_com_BL
 
