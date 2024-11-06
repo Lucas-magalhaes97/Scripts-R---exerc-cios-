@@ -1,6 +1,9 @@
 ## Scripts utilizado para responder a Lista 5 - Lucas Ast
 
+<<<<<<< HEAD
 library(tidyr)
+=======
+>>>>>>> 6b270c1f477742238ab9af093c1647a74b2715cf
 library(dplyr)
 library(data.table)
 library(magrittr)
@@ -76,6 +79,7 @@ chocolate_com_BL <- dados %>%
   summarise(total_chocolate_BL = n())
 
 chocolate_com_BL
+<<<<<<< HEAD
 
 ######### Exercício 2 ###########
 
@@ -310,7 +314,6 @@ refugiados_2005_top3 <- refugiados_com_nome %>%
 
 # Exibir os resultados para 2005
 refugiados_2005_top3
-
 
 
 
